@@ -1,6 +1,6 @@
 {
-  "total_pnl": 43.92,
-  "win_rate": 66.7,
+  "total_pnl": 11.93,
+  "win_rate": 40.0,
   "total_trades": 27,
   "recent": [
     {
@@ -50,6 +50,38 @@
       "fill": 113.0,
       "exit": 103.96,
       "pnl": -8.0
+    },
+    {
+      "date": "2026-10-08",
+      "ticker": "APLD",
+      "side": "long",
+      "fill": 24.36,
+      "exit": 22.41,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "HUM",
+      "side": "long",
+      "fill": 450.49,
+      "exit": 414.45,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "RKLB",
+      "side": "long",
+      "fill": 68.71,
+      "exit": 63.21,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-12",
+      "ticker": "IREN",
+      "side": "long",
+      "fill": 36.31,
+      "exit": 33.41,
+      "pnl": -7.99
     }
   ],
   "days": [
@@ -58,5 +90,5 @@
     "2026-10-12",
     "2026-10-13"
   ],
-  "updated_at": "2026-10-13T13:54:55Z"
+  "updated_at": "2026-10-13T21:43:34Z"
 }

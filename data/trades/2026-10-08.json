@@ -51,13 +51,14 @@
       "fill": 24.36,
       "stop": 22.41,
       "target": 28.01,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 22.41,
+      "exit_date": "2026-10-13",
+      "pnl_pct": -8.0,
       "thesis": "FQ1 revenue surge + deal securing up to 1GW power in Finland; unusual call buying Wed (+83%); fell ~6% Wed \u2014 mean-reversion with bullish options flow.",
-      "mark": 23.355,
-      "mark_date": "2026-10-12"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "Stop hit \u2014 day low 21.44 <= stop 22.41 (stop-before-target convention)."
     },
     {
       "ticker": "PENG",
@@ -71,8 +72,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "EPS $1.00 vs $0.77 est, revenue +68% YoY, raised FY27 guidance; unusual calls Wed (+365%).",
-      "mark": 79.52,
-      "mark_date": "2026-10-12"
+      "mark": 78.2,
+      "mark_date": "2026-10-13"
     }
   ],
   "shorts": [
@@ -88,8 +89,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "-16% premarket ADR; discontinued Vyvgart Sjogren's Phase 3 on interim futility; EUR 8.5B wiped.",
-      "mark": 812.3,
-      "mark_date": "2026-10-12"
+      "mark": 802.64,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "SXTC",
@@ -122,8 +123,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": 51.92
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": 43.92
   }
 }

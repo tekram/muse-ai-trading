@@ -9,13 +9,14 @@
       "fill": 36.31,
       "stop": 33.41,
       "target": 41.76,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 33.41,
+      "exit_date": "2026-10-13",
+      "pnl_pct": -7.99,
       "thesis": "The Information reports a multiyear cloud-compute deal with Anthropic; +5.3% premarket on AI infrastructure demand.",
-      "mark": 34.8,
-      "mark_date": "2026-10-12"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "Stop hit \u2014 day low 32.69 <= stop 33.41 (stop-before-target convention)."
     },
     {
       "ticker": "CRM",
@@ -29,8 +30,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "BofA double-upgrades to Buy from Underperform ($285 PT) on AI deepening software dependence; ~15% off 52wk high, near 50-day support.",
-      "mark": 233.92,
-      "mark_date": "2026-10-12"
+      "mark": 238.01,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "FSLR",
@@ -44,8 +45,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Truist upgrades to Buy from Hold on solar demand confidence and pricing power; +2.4% premarket.",
-      "mark": 180.57,
-      "mark_date": "2026-10-12"
+      "mark": 186.6,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "BIIB",
@@ -59,8 +60,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "JPMorgan upgrades to Overweight from Neutral; 2027 clinical readouts as catalysts; +2% premarket.",
-      "mark": 229.41,
-      "mark_date": "2026-10-12"
+      "mark": 228.9,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "SLM",
@@ -74,8 +75,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Morgan Stanley upgrades to Overweight from Equal Weight; valuation seen as a buying opportunity; +2% premarket.",
-      "mark": 22.94,
-      "mark_date": "2026-10-12"
+      "mark": 22.7,
+      "mark_date": "2026-10-13"
     }
   ],
   "shorts": [
@@ -91,8 +92,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "China's CXMT reports advanced DRAM progress; SOXX -1.5% premarket after its worst week in a month (-5%); -1.8% premarket.",
-      "mark": 989.04,
-      "mark_date": "2026-10-12"
+      "mark": 953.19,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "IONQ",
@@ -106,8 +107,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "WSJ: bought cybersecurity firm Elisity for up to $1.3B \u2014 expensive, likely dilutive; -2% premarket.",
-      "mark": 36.27,
-      "mark_date": "2026-10-12"
+      "mark": 34.73,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "TMUS",
@@ -121,14 +122,14 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Fell 8.5-13% Friday after the SpaceX spectrum portfolio deal; premarket bounce is modest \u2014 avoid chasing.",
-      "mark": 151.87,
-      "mark_date": "2026-10-12"
+      "mark": 153.73,
+      "mark_date": "2026-10-13"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 7,
+    "closed": 1,
+    "total_pnl_pct": -7.99
   }
 }

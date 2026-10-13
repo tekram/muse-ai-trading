@@ -9,13 +9,14 @@
       "fill": 450.49,
       "stop": 414.45,
       "target": 518.06,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 414.45,
+      "exit_date": "2026-10-13",
+      "pnl_pct": -8.0,
       "thesis": "Improved CMS Medicare Advantage star ratings; 12 plans at 4 stars; +15% premarket on a multi-year reclaim.",
-      "mark": 433.5,
-      "mark_date": "2026-10-12"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "Stop hit \u2014 day low 410.51 <= stop 414.45 (stop-before-target convention)."
     },
     {
       "ticker": "SPCX",
@@ -29,8 +30,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Grain Management 800 MHz spectrum deal (~$8B) + FCC approval of 15,000-sat constellation; Barclays initiated Overweight ($254 PT). Starlink-Mobile-as-carrier thesis.",
-      "mark": 163.46,
-      "mark_date": "2026-10-12"
+      "mark": 156.58,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "CCI",
@@ -44,8 +45,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Tower operators bid on the SpaceX spectrum buildout \u2014 more spectrum means more tower demand.",
-      "mark": 80.36,
-      "mark_date": "2026-10-12"
+      "mark": 79.56,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "SBAC",
@@ -59,8 +60,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Tower operators bid on the SpaceX spectrum buildout \u2014 more spectrum means more tower demand.",
-      "mark": 184.28,
-      "mark_date": "2026-10-12"
+      "mark": 181.83,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "AAOI",
@@ -85,13 +86,14 @@
       "fill": 68.71,
       "stop": 63.21,
       "target": 79.02,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 63.21,
+      "exit_date": "2026-10-13",
+      "pnl_pct": -8.0,
       "thesis": "Barclays initiated Overweight ($85 PT); ARK bought ~149k shares Thu; launch-capacity shortage theme.",
-      "mark": 65.71,
-      "mark_date": "2026-10-12"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "Stop hit \u2014 day low 63.08 <= stop 63.21 (stop-before-target convention)."
     }
   ],
   "shorts": [
@@ -107,8 +109,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "SpaceX spectrum deal + Morgan Stanley note stoke Starlink-as-carrier fears; -6 to -8% premarket.",
-      "mark": 151.87,
-      "mark_date": "2026-10-12"
+      "mark": 153.73,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "T",
@@ -122,8 +124,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Telco weakness on spectrum fears; weakest of the three (-7.3% premarket).",
-      "mark": 22.49,
-      "mark_date": "2026-10-12"
+      "mark": 22.85,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "VZ",
@@ -137,8 +139,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Telco weakness on spectrum fears; European telcos hit too.",
-      "mark": 42.78,
-      "mark_date": "2026-10-12"
+      "mark": 43.53,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "DAL",
@@ -152,8 +154,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 EPS miss ($1.72 vs est); full-year guide slashed to $5.10-5.60 on Iran-war jet-fuel costs.",
-      "mark": 80.11,
-      "mark_date": "2026-10-12"
+      "mark": 79.57,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "AAPL",
@@ -167,14 +169,14 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Nikkei: cut iPhone 18 Pro/Pro Max component orders on soft demand.",
-      "mark": 340.97,
-      "mark_date": "2026-10-12"
+      "mark": 341.27,
+      "mark_date": "2026-10-13"
     }
   ],
   "summary": {
     "total_trades": 11,
-    "open": 10,
-    "closed": 1,
-    "total_pnl_pct": -8.0
+    "open": 8,
+    "closed": 3,
+    "total_pnl_pct": -24.0
   }
 }

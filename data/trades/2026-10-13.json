@@ -13,7 +13,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 adj EPS $4.69 vs $4.14 est; raised FY26 adj EPS guide to \u2265$20.50; medical cost ratio improved to 88.4%. Dow leader; turnaround gaining traction."
+      "thesis": "Q3 adj EPS $4.69 vs $4.14 est; raised FY26 adj EPS guide to \u2265$20.50; medical cost ratio improved to 88.4%. Dow leader; turnaround gaining traction.",
+      "mark": 377.76,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "GS",
@@ -26,7 +28,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 EPS $17.01 vs ~$12.86 est; revenue $18.68B (+23%), equities trading $6.44B; second-best revenue quarter ever. Bouncing from below key moving averages on the beat."
+      "thesis": "Q3 EPS $17.01 vs ~$12.86 est; revenue $18.68B (+23%), equities trading $6.44B; second-best revenue quarter ever. Bouncing from below key moving averages on the beat.",
+      "mark": 891.91,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "JPM",
@@ -39,7 +43,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 EPS $5.75 missed $5.93, but Q4 net interest income guide ~$28B beat the $27.42B consensus. Flat base with 366.50 buy point; trading between 200-day and 50-day."
+      "thesis": "Q3 EPS $5.75 missed $5.93, but Q4 net interest income guide ~$28B beat the $27.42B consensus. Flat base with 366.50 buy point; trading between 200-day and 50-day.",
+      "mark": 331.43,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "V",
@@ -52,7 +58,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "China approved preparations for a domestic bank-card clearing business after years of regulatory hurdles. Clean catalyst-driven gap."
+      "thesis": "China approved preparations for a domestic bank-card clearing business after years of regulatory hurdles. Clean catalyst-driven gap.",
+      "mark": 396.06,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "BP",
@@ -65,7 +73,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Said it cut net debt ahead of schedule. Energy tailwind with oil >$100 Brent."
+      "thesis": "Said it cut net debt ahead of schedule. Energy tailwind with oil >$100 Brent.",
+      "mark": 48.53,
+      "mark_date": "2026-10-13"
     }
   ],
   "shorts": [
@@ -80,7 +90,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "China's CXMT next-gen memory progress sparks a second day of memory selloff. Oct 12 options flow was put-heavy: ~$149M put premium vs ~$127M call premium."
+      "thesis": "China's CXMT next-gen memory progress sparks a second day of memory selloff. Oct 12 options flow was put-heavy: ~$149M put premium vs ~$127M call premium.",
+      "mark": 953.19,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "SNDK",
@@ -93,7 +105,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Same CXMT-driven memory/storage selloff; fell with the WDC/STX group. Avoid catching the falling knife into the theme."
+      "thesis": "Same CXMT-driven memory/storage selloff; fell with the WDC/STX group. Avoid catching the falling knife into the theme.",
+      "mark": 1482.33,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "SNDX",
@@ -106,7 +120,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Phase 2 IPF trial of axatilimab missed its primary endpoint; company ending development in lung disease (approved GVHD use unaffected)."
+      "thesis": "Phase 2 IPF trial of axatilimab missed its primary endpoint; company ending development in lung disease (approved GVHD use unaffected).",
+      "mark": 13.95,
+      "mark_date": "2026-10-13"
     },
     {
       "ticker": "FUN",
@@ -119,13 +135,15 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Fatal rollercoaster accident at its Georgia park; investigation overhang."
+      "thesis": "Fatal rollercoaster accident at its Georgia park; investigation overhang.",
+      "mark": 10.2,
+      "mark_date": "2026-10-13"
     }
   ],
   "summary": {
     "total_trades": 9,
     "open": 9,
     "closed": 0,
-    "total_pnl_pct": 0
+    "total_pnl_pct": 0.0
   }
 }
