@@ -76,6 +76,9 @@ body {
 /* ---------- tables ---------- */
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); font-weight: 700; padding: 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th.sortable { cursor: pointer; user-select: none; }
+th.sortable:hover { color: var(--text); }
+th.sortable .sortind { color: var(--accent); }
 td { padding: 11px 10px; border-bottom: 1px solid rgba(34,48,74,.6); font-variant-numeric: tabular-nums; vertical-align: top; }
 tr:last-child td { border-bottom: none; }
 tbody tr:hover { background: rgba(110,168,255,.04); }
@@ -307,9 +310,23 @@ const spyVal = (spy, date) => {
 async function renderPlans(planDays, allTrades) {
   const pills = $("plan-pills"), body = $("plan-body");
   const plans = {};
-  for (const d of planDays) {
-    try { plans[d] = await (await fetch(`data/plans/${d}.json`)).json(); }
-    catch (e) { /* skip missing */ }
+  const days = (planDays || []).slice();
+  if (!days.length) {
+    // The trades index carries no plan list — discover recent plan files directly
+    // so the tab works without any publisher-maintained index.
+    const fmtD = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    const probe = [];
+    for (let i = 0; i < 30; i++) probe.push(fmtD(new Date(Date.now() - i * 86400000)));
+    const got = await Promise.all(probe.map(async d => {
+      try { const r = await fetch(`data/plans/${d}.json`); if (!r.ok) return null; return [d, await r.json()]; }
+      catch (e) { return null; }
+    }));
+    for (const g of got) if (g) plans[g[0]] = g[1];
+  } else {
+    for (const d of days) {
+      try { const r = await fetch(`data/plans/${d}.json`); if (r.ok) plans[d] = await r.json(); }
+      catch (e) { /* skip missing */ }
+    }
   }
   const ds = Object.keys(plans).sort().reverse();
   if (!ds.length) { pills.innerHTML = ""; body.innerHTML = `<div class="loading">No plans published yet.</div>`; return; }
@@ -447,11 +464,34 @@ function drawChart(all, days, spy) {
   });
 }
 
+/* ---------- sortable open table ---------- */
+let openSort = { key: null, dir: 1 };
+let currentOpen = [];
+const openVal = (t, key) => {
+  if (key === "opened") return t.fill_date || t.day || "";
+  if (key === "unreal") return unreal(t);
+  return t[key];
+};
+function sortOpen(rows) {
+  if (!openSort.key) return rows.slice();
+  const dir = openSort.dir;
+  return rows.slice().sort((a, b) => {
+    const va = openVal(a, openSort.key), vb = openVal(b, openSort.key);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    const c = typeof va === "number" && typeof vb === "number" ? va - vb : String(va).localeCompare(String(vb));
+    return c * dir || a.ticker.localeCompare(b.ticker);
+  });
+}
+
 function renderOpen(open) {
   const el = $("open-table");
   if (!open.length) { el.innerHTML = `<tr><td style="padding:20px;color:var(--muted)">No open positions.</td></tr>`; return; }
-  let h = `<thead><tr><th>Opened</th><th>Ticker</th><th>Side</th><th class="num">Entry</th><th class="num">Mark</th><th class="num">Stop</th><th class="num">Target</th><th class="num">Unrealized</th><th>Thesis</th></tr></thead><tbody>`;
-  for (const t of open) {
+  currentOpen = open;
+  const ind = key => openSort.key === key ? `<span class="sortind">${openSort.dir === 1 ? " \u25b2" : " \u25bc"}</span>` : "";
+  let h = `<thead><tr><th class="sortable" data-sortkey="opened">Opened${ind("opened")}</th><th class="sortable" data-sortkey="ticker">Ticker${ind("ticker")}</th><th class="sortable" data-sortkey="side">Side${ind("side")}</th><th class="num sortable" data-sortkey="fill">Entry${ind("fill")}</th><th class="num sortable" data-sortkey="mark">Mark${ind("mark")}</th><th class="num sortable" data-sortkey="stop">Stop${ind("stop")}</th><th class="num sortable" data-sortkey="target">Target${ind("target")}</th><th class="num sortable" data-sortkey="unreal">Unrealized${ind("unreal")}</th><th>Thesis</th></tr></thead><tbody>`;
+  for (const t of sortOpen(open)) {
     const u = unreal(t);
     h += `<tr><td style="white-space:nowrap">${t.fill_date || t.day}</td><td class="ticker">${esc(t.ticker)}</td><td><span class="side ${t.side}">${t.side.toUpperCase()}</span></td>
       <td class="num">${t.fill.toFixed(2)}</td><td class="num">${t.mark != null ? t.mark.toFixed(2) : "—"}</td>
@@ -460,6 +500,12 @@ function renderOpen(open) {
       <td class="note">${esc(t.thesis)}</td></tr>`;
   }
   el.innerHTML = h + "</tbody>";
+  el.querySelectorAll("th[data-sortkey]").forEach(th => th.addEventListener("click", () => {
+    const key = th.dataset.sortkey;
+    if (openSort.key === key) openSort.dir = -openSort.dir;
+    else openSort = { key, dir: 1 };
+    renderOpen(currentOpen);
+  }));
 }
 
 function renderClosed(closed) {
