@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-14",
+  "brief": "premarket brief 2026-10-14 07:13 CT",
+  "longs": [
+    {
+      "ticker": "HR",
+      "side": "long",
+      "fill_date": "2026-10-14",
+      "fill": 17.2,
+      "stop": 15.82,
+      "target": 19.78,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Oversold bounce off near 52-week low; no fresh company catalyst confirmed."
+    },
+    {
+      "ticker": "ESLT",
+      "side": "long",
+      "fill_date": "2026-10-14",
+      "fill": 704.89,
+      "stop": 648.5,
+      "target": 810.62,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Defense bid amid Middle East escalation; no ESLT-specific headline confirmed."
+    },
+    {
+      "ticker": "TKO",
+      "side": "long",
+      "fill_date": "2026-10-14",
+      "fill": 172.59,
+      "stop": 158.78,
+      "target": 198.48,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Premarket gap; no fresh company catalyst confirmed."
+    },
+    {
+      "ticker": "TKR",
+      "side": "long",
+      "fill_date": "2026-10-14",
+      "fill": 113.2,
+      "stop": 104.14,
+      "target": 130.18,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Premarket gap; no fresh company catalyst confirmed."
+    },
+    {
+      "ticker": "BMO",
+      "side": "long",
+      "fill_date": "2026-10-14",
+      "fill": 163.46,
+      "stop": 150.38,
+      "target": 187.98,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Premarket gap into a heavy bank-earnings morning; no fresh BMO-specific catalyst confirmed."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "BAC",
+      "side": "short",
+      "fill_date": "2026-10-14",
+      "fill": 49.83,
+      "stop": 53.82,
+      "target": 42.36,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "$1.21B regulatory fine disclosed ahead of Q3 earnings \u2014 insufficient systems to monitor/report possible financial crimes."
+    },
+    {
+      "ticker": "NOVT",
+      "side": "short",
+      "fill_date": "2026-10-14",
+      "fill": 141.74,
+      "stop": 153.08,
+      "target": 120.48,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Continued weakness below 50/200-day averages; Zacks cut to Hold Oct 8; no fresh catalyst confirmed."
+    },
+    {
+      "ticker": "MU",
+      "side": "short",
+      "fill_date": "2026-10-14",
+      "fill": 934.3,
+      "stop": 1009.04,
+      "target": 794.15,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "CXMT competition fears keep memory under pressure; SOX down 5 straight sessions."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0.0
+  }
+}
