@@ -25,13 +25,14 @@
       "fill": 165.34,
       "stop": 152.11,
       "target": 190.14,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 152.11,
+      "exit_date": "2026-10-14",
+      "pnl_pct": -8.0,
       "thesis": "Grain Management 800 MHz spectrum deal (~$8B) + FCC approval of 15,000-sat constellation; Barclays initiated Overweight ($254 PT). Starlink-Mobile-as-carrier thesis.",
-      "mark": 156.58,
-      "mark_date": "2026-10-13"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "Stop hit \u2014 day low 151.1 <= stop 152.11 (stop-before-target convention)."
     },
     {
       "ticker": "CCI",
@@ -45,8 +46,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Tower operators bid on the SpaceX spectrum buildout \u2014 more spectrum means more tower demand.",
-      "mark": 79.56,
-      "mark_date": "2026-10-13"
+      "mark": 79.38,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "SBAC",
@@ -60,8 +61,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Tower operators bid on the SpaceX spectrum buildout \u2014 more spectrum means more tower demand.",
-      "mark": 181.83,
-      "mark_date": "2026-10-13"
+      "mark": 180.71,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "AAOI",
@@ -109,8 +110,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "SpaceX spectrum deal + Morgan Stanley note stoke Starlink-as-carrier fears; -6 to -8% premarket.",
-      "mark": 153.73,
-      "mark_date": "2026-10-13"
+      "mark": 157.79,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "T",
@@ -124,8 +125,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Telco weakness on spectrum fears; weakest of the three (-7.3% premarket).",
-      "mark": 22.85,
-      "mark_date": "2026-10-13"
+      "mark": 23.05,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "VZ",
@@ -139,8 +140,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Telco weakness on spectrum fears; European telcos hit too.",
-      "mark": 43.53,
-      "mark_date": "2026-10-13"
+      "mark": 44.42,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "DAL",
@@ -154,8 +155,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 EPS miss ($1.72 vs est); full-year guide slashed to $5.10-5.60 on Iran-war jet-fuel costs.",
-      "mark": 79.57,
-      "mark_date": "2026-10-13"
+      "mark": 76.65,
+      "mark_date": "2026-10-14"
     },
     {
       "ticker": "AAPL",
@@ -169,14 +170,14 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Nikkei: cut iPhone 18 Pro/Pro Max component orders on soft demand.",
-      "mark": 341.27,
-      "mark_date": "2026-10-13"
+      "mark": 342.96,
+      "mark_date": "2026-10-14"
     }
   ],
   "summary": {
     "total_trades": 11,
-    "open": 8,
-    "closed": 3,
-    "total_pnl_pct": -24.0
+    "open": 7,
+    "closed": 4,
+    "total_pnl_pct": -32.0
   }
 }

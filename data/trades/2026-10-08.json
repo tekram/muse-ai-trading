@@ -67,13 +67,14 @@
       "fill": 72.5,
       "stop": 66.7,
       "target": 83.38,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 67.59,
+      "exit_date": "2026-10-14",
+      "pnl_pct": -6.77,
       "thesis": "EPS $1.00 vs $0.77 est, revenue +68% YoY, raised FY27 guidance; unusual calls Wed (+365%).",
-      "mark": 78.2,
-      "mark_date": "2026-10-13"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "5-day max hold \u2014 exit at close 67.59 (day range 67.21-77.41 touched neither stop 66.7 nor target 83.38)."
     }
   ],
   "shorts": [
@@ -84,13 +85,14 @@
       "fill": 831.71,
       "stop": 898.25,
       "target": 706.95,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 818.3,
+      "exit_date": "2026-10-14",
+      "pnl_pct": 1.61,
       "thesis": "-16% premarket ADR; discontinued Vyvgart Sjogren's Phase 3 on interim futility; EUR 8.5B wiped.",
-      "mark": 802.64,
-      "mark_date": "2026-10-13"
+      "mark": null,
+      "mark_date": null,
+      "exit_reason": "5-day max hold \u2014 exit at close 818.3 (day range 803.0-835.31 touched neither stop 898.25 nor target 706.95)."
     },
     {
       "ticker": "SXTC",
@@ -123,8 +125,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": 43.92
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": 38.76
   }
 }
