@@ -450,10 +450,10 @@ function drawChart(all, days, spy) {
 function renderOpen(open) {
   const el = $("open-table");
   if (!open.length) { el.innerHTML = `<tr><td style="padding:20px;color:var(--muted)">No open positions.</td></tr>`; return; }
-  let h = `<thead><tr><th>Ticker</th><th>Side</th><th class="num">Entry</th><th class="num">Mark</th><th class="num">Stop</th><th class="num">Target</th><th class="num">Unrealized</th><th>Thesis</th></tr></thead><tbody>`;
+  let h = `<thead><tr><th>Opened</th><th>Ticker</th><th>Side</th><th class="num">Entry</th><th class="num">Mark</th><th class="num">Stop</th><th class="num">Target</th><th class="num">Unrealized</th><th>Thesis</th></tr></thead><tbody>`;
   for (const t of open) {
     const u = unreal(t);
-    h += `<tr><td class="ticker">${esc(t.ticker)}</td><td><span class="side ${t.side}">${t.side.toUpperCase()}</span></td>
+    h += `<tr><td style="white-space:nowrap">${t.fill_date || t.day}</td><td class="ticker">${esc(t.ticker)}</td><td><span class="side ${t.side}">${t.side.toUpperCase()}</span></td>
       <td class="num">${t.fill.toFixed(2)}</td><td class="num">${t.mark != null ? t.mark.toFixed(2) : "—"}</td>
       <td class="num">${t.stop.toFixed(2)}</td><td class="num">${t.target.toFixed(2)}</td>
       <td class="num ${u == null ? "" : cls(dollars(u))}">${u == null ? "—" : fmt$(dollars(u)) + `<br><span style="font-size:11px;color:var(--muted)">${fmtPct(u)}</span>`}</td>
