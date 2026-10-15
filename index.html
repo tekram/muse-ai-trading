@@ -318,10 +318,11 @@ const spyVal = (spy, date) => {
 /* ---------- sector strength ---------- */
 let sectorRows = [];
 let sectorSort = { key: "weekly", dir: -1 };
+let sectorTimer = null;
 const sectorVal = (r, key) => r[key];
 function renderSectors() {
   const el = $("sector-table"), lead = $("sector-leaders");
-  fetch("data/sectors.json").then(r => { if (!r.ok) throw new Error("no sectors"); return r.json(); }).then(data => {
+  fetch("data/sectors.json?t=" + Date.now()).then(r => { if (!r.ok) throw new Error("no sectors"); return r.json(); }).then(data => {
     sectorRows = (data.rows || []).slice();
     const by = (key, dir) => sectorRows.slice().sort((a, b) => ((a[key] == null ? -Infinity : a[key]) - (b[key] == null ? -Infinity : b[key])) * dir)[0];
     const top = (key) => by(key, -1), bot = (key) => by(key, 1);
@@ -335,6 +336,9 @@ function renderSectors() {
         <div>${chip("Intraday leaders", top("intraday"), "intraday")} &nbsp;·&nbsp; ${chip("Intraday laggards", bot("intraday"), "intraday")}</div>
       </div>`;
     drawSectors();
+    // In-browser auto-refresh: re-fetch the snapshot every 15 min so an
+    // open tab follows the GitHub Action refreshes without a reload.
+    if (!sectorTimer) sectorTimer = setInterval(renderSectors, 15 * 60 * 1000);
   }).catch(() => {
     el.innerHTML = `<tr><td style="padding:20px;color:var(--muted)">No sector snapshot published yet.</td></tr>`;
   });
