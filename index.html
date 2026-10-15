@@ -158,6 +158,7 @@ footer a { color: var(--accent); text-decoration: none; }
     <button class="tab" data-pane="open">Open <span class="count" id="c-open">–</span></button>
     <button class="tab" data-pane="closed">Closed <span class="count" id="c-closed">–</span></button>
     <button class="tab" data-pane="byday">By day</button>
+    <button class="tab" data-pane="sectors">Sector Strength</button>
     <button class="tab" data-pane="method">Methodology</button>
     <a class="tab" href="trades.html" style="text-decoration:none">Full ledger ↗</a>
   </div>
@@ -192,6 +193,13 @@ footer a { color: var(--accent); text-decoration: none; }
     <div class="secttl">Trades, day by day</div>
     <div class="secdesc">Every setup the brief produced — entry, stop, target, dollar P&amp;L, the thesis behind it, and exit reasons.</div>
     <div id="days"><div class="loading">Loading days…</div></div>
+  </div>
+
+  <div class="tabpane" id="pane-sectors">
+    <div class="secttl">Sector strength</div>
+    <div class="secdesc">Which sectors and segments are holding up while the market is red — weekly, daily, and intraday. All three horizons end at the same "now" (snapshot time below). Research snapshot, not a recommendation.</div>
+    <div id="sector-leaders"></div>
+    <div class="card tblwrap"><table id="sector-table"></table></div>
   </div>
 
   <div class="tabpane" id="pane-method">
@@ -295,6 +303,7 @@ async function load() {
   renderClosed(closed);
   renderDays(days, files);
   renderPlans(idx.plans || [], all);
+  renderSectors();
 }
 
 async function loadSpy() {
@@ -305,6 +314,54 @@ const spyVal = (spy, date) => {
   if (!spy || !spy.closes || spy.closes[date] == null || !spy.base_close) return null;
   return NOTIONAL * (spy.closes[date] / spy.base_close - 1);
 };
+
+/* ---------- sector strength ---------- */
+let sectorRows = [];
+let sectorSort = { key: "weekly", dir: -1 };
+const sectorVal = (r, key) => r[key];
+function renderSectors() {
+  const el = $("sector-table"), lead = $("sector-leaders");
+  fetch("data/sectors.json").then(r => { if (!r.ok) throw new Error("no sectors"); return r.json(); }).then(data => {
+    sectorRows = (data.rows || []).slice();
+    const by = (key, dir) => sectorRows.slice().sort((a, b) => ((a[key] == null ? -Infinity : a[key]) - (b[key] == null ? -Infinity : b[key])) * dir)[0];
+    const top = (key) => by(key, -1), bot = (key) => by(key, 1);
+    const fmt = (v) => v == null ? "—" : fmtPct(v);
+    const chip = (label, r, key) => r ? `<span style="color:var(--muted)">${label}:</span> <b>${esc(r.name)}</b> <span class="${cls(r[key])}">${fmt(r[key])}</span>` : "";
+    lead.innerHTML = `
+      <div class="card" style="padding:14px 20px;font-size:13.5px;line-height:1.9">
+        <div><b>Snapshot:</b> ${esc(data.as_of_ct || data.date || "")} &nbsp;·&nbsp; Weekly = now vs close 5 trading days ago · Daily = now vs yesterday's close · Intraday = now vs today's open</div>
+        <div>${chip("Weekly leaders", top("weekly"), "weekly")} &nbsp;·&nbsp; ${chip("Weekly laggards", bot("weekly"), "weekly")}</div>
+        <div>${chip("Daily leaders", top("daily"), "daily")} &nbsp;·&nbsp; ${chip("Daily laggards", bot("daily"), "daily")}</div>
+        <div>${chip("Intraday leaders", top("intraday"), "intraday")} &nbsp;·&nbsp; ${chip("Intraday laggards", bot("intraday"), "intraday")}</div>
+      </div>`;
+    drawSectors();
+  }).catch(() => {
+    el.innerHTML = `<tr><td style="padding:20px;color:var(--muted)">No sector snapshot published yet.</td></tr>`;
+  });
+}
+function drawSectors() {
+  const el = $("sector-table");
+  const rows = sectorRows.slice().sort((a, b) => {
+    const va = sectorVal(a, sectorSort.key), vb = sectorVal(b, sectorSort.key);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    return (va - vb) * sectorSort.dir || a.name.localeCompare(b.name);
+  });
+  const ind = key => sectorSort.key === key ? `<span class="sortind">${sectorSort.dir === 1 ? " \u25b2" : " \u25bc"}</span>` : "";
+  const cell = v => v == null ? `<td class="num" style="color:var(--muted)">—</td>` : `<td class="num ${cls(v)}">${fmtPct(v)}</td>`;
+  let h = `<thead><tr><th class="sortable" data-skey="name">Sector / segment${ind("name")}</th><th class="sortable" data-skey="group">Group${ind("group")}</th><th class="num sortable" data-skey="weekly">Weekly (5D)${ind("weekly")}</th><th class="num sortable" data-skey="daily">Daily (1D)${ind("daily")}</th><th class="num sortable" data-skey="intraday">Intraday${ind("intraday")}</th></tr></thead><tbody>`;
+  for (const r of rows) {
+    h += `<tr><td><span class="ticker">${esc(r.ticker)}</span> <span style="color:var(--muted)">· ${esc(r.name)}</span></td><td style="color:var(--muted)">${esc(r.group)}</td>${cell(r.weekly)}${cell(r.daily)}${cell(r.intraday)}</tr>`;
+  }
+  el.innerHTML = h + "</tbody>";
+  el.querySelectorAll("th[data-skey]").forEach(th => th.addEventListener("click", () => {
+    const key = th.dataset.skey;
+    if (sectorSort.key === key) sectorSort.dir = -sectorSort.dir;
+    else sectorSort = { key, dir: key === "name" || key === "group" ? 1 : -1 };
+    drawSectors();
+  }));
+}
 
 /* ---------- daily plan ---------- */
 async function renderPlans(planDays, allTrades) {
