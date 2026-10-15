@@ -199,6 +199,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <div class="secttl">Sector strength</div>
     <div class="secdesc">Which sectors and segments are holding up while the market is red — weekly, daily, and intraday. All three horizons end at the same "now" (snapshot time below). Research snapshot, not a recommendation.</div>
     <div id="sector-leaders"></div>
+    <div class="secttl" style="font-size:16px">Trend heatmap — green across all three = real strength</div>
+    <div class="card" style="padding:14px 20px"><div id="sector-heatmap"></div></div>
     <div class="card tblwrap"><table id="sector-table"></table></div>
   </div>
 
@@ -336,12 +338,28 @@ function renderSectors() {
         <div>${chip("Intraday leaders", top("intraday"), "intraday")} &nbsp;·&nbsp; ${chip("Intraday laggards", bot("intraday"), "intraday")}</div>
       </div>`;
     drawSectors();
+    drawHeatmap();
     // In-browser auto-refresh: re-fetch the snapshot every 15 min so an
     // open tab follows the GitHub Action refreshes without a reload.
     if (!sectorTimer) sectorTimer = setInterval(renderSectors, 15 * 60 * 1000);
   }).catch(() => {
     el.innerHTML = `<tr><td style="padding:20px;color:var(--muted)">No sector snapshot published yet.</td></tr>`;
   });
+}
+function heatColor(v) {
+  if (v == null) return "rgba(139,155,180,.15)";
+  const a = Math.min(Math.abs(v) / 6, 1) * 0.85;
+  return v >= 0 ? `rgba(34,212,123,${a.toFixed(2)})` : `rgba(255,93,108,${a.toFixed(2)})`;
+}
+function drawHeatmap() {
+  const el = $("sector-heatmap");
+  const rows = sectorRows.slice().sort((a, b) => (b.weekly ?? -Infinity) - (a.weekly ?? -Infinity));
+  const cell = v => `<div style="flex:1;text-align:right;padding:5px 8px;border-radius:6px;background:${heatColor(v)};font-variant-numeric:tabular-nums;font-weight:700;font-size:12.5px">${v == null ? "—" : fmtPct(v)}</div>`;
+  let h = `<div style="display:flex;gap:6px;margin-bottom:6px;font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-weight:700"><div style="width:150px">Sector</div><div style="flex:1;text-align:right">Weekly</div><div style="flex:1;text-align:right">Daily</div><div style="flex:1;text-align:right">Intraday</div></div>`;
+  for (const r of rows) {
+    h += `<div style="display:flex;gap:6px;align-items:center;margin-bottom:3px"><div style="width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:12.5px"><b>${esc(r.ticker)}</b> <span style="color:var(--muted)">${esc(r.name)}</span></div>${cell(r.weekly)}${cell(r.daily)}${cell(r.intraday)}</div>`;
+  }
+  el.innerHTML = h;
 }
 function drawSectors() {
   const el = $("sector-table");
