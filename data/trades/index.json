@@ -1,7 +1,7 @@
 {
-  "total_pnl": 28.72,
-  "win_rate": 46.7,
-  "total_trades": 44,
+  "total_pnl": 12.8,
+  "win_rate": 41.7,
+  "total_trades": 51,
   "recent": [
     {
       "date": "2026-10-08",
@@ -122,6 +122,78 @@
       "fill": 10.9,
       "exit": 9.27,
       "pnl": 14.95
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "CCI",
+      "side": "long",
+      "fill": 74.32,
+      "exit": 80.0,
+      "pnl": 7.64
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "SBAC",
+      "side": "long",
+      "fill": 178.14,
+      "exit": 183.72,
+      "pnl": 3.13
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "TMUS",
+      "side": "short",
+      "fill": 155.51,
+      "exit": 157.03,
+      "pnl": -0.98
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "T",
+      "side": "short",
+      "fill": 22.38,
+      "exit": 23.5,
+      "pnl": -5.0
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "VZ",
+      "side": "short",
+      "fill": 42.85,
+      "exit": 44.4,
+      "pnl": -3.62
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "DAL",
+      "side": "short",
+      "fill": 79.68,
+      "exit": 78.08,
+      "pnl": 2.01
+    },
+    {
+      "date": "2026-10-09",
+      "ticker": "AAPL",
+      "side": "short",
+      "fill": 331.7,
+      "exit": 342.0,
+      "pnl": -3.11
+    },
+    {
+      "date": "2026-10-12",
+      "ticker": "TMUS",
+      "side": "short",
+      "fill": 149.6,
+      "exit": 161.57,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-15",
+      "ticker": "CRWV",
+      "side": "short",
+      "fill": 61.43,
+      "exit": 66.34,
+      "pnl": -7.99
     }
   ],
   "days": [
@@ -132,5 +204,5 @@
     "2026-10-14",
     "2026-10-15"
   ],
-  "updated_at": "2026-10-15T13:51:41Z"
+  "updated_at": "2026-10-15T21:21:21Z"
 }
