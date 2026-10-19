@@ -7,75 +7,80 @@
       "exit_date": null,
       "fill": 17.2,
       "fill_date": "2026-10-14",
-      "mark": 17.48,
-      "mark_date": "2026-10-16",
+      "mark": 17.24,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 15.82,
       "target": 19.78,
       "thesis": "Oversold bounce off near 52-week low; no fresh company catalyst confirmed.",
-      "ticker": "HR"
+      "ticker": "HR",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 704.89,
       "fill_date": "2026-10-14",
-      "mark": 755.43,
-      "mark_date": "2026-10-16",
+      "mark": 759.47,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 648.5,
       "target": 810.62,
       "thesis": "Defense bid amid Middle East escalation; no ESLT-specific headline confirmed.",
-      "ticker": "ESLT"
+      "ticker": "ESLT",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 172.59,
       "fill_date": "2026-10-14",
-      "mark": 175.5,
-      "mark_date": "2026-10-16",
+      "mark": 174.24,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 158.78,
       "target": 198.48,
       "thesis": "Premarket gap; no fresh company catalyst confirmed.",
-      "ticker": "TKO"
+      "ticker": "TKO",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 113.2,
       "fill_date": "2026-10-14",
-      "mark": 112.39,
-      "mark_date": "2026-10-16",
+      "mark": 112.64,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 104.14,
       "target": 130.18,
       "thesis": "Premarket gap; no fresh company catalyst confirmed.",
-      "ticker": "TKR"
+      "ticker": "TKR",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 163.46,
       "fill_date": "2026-10-14",
-      "mark": 167.07,
-      "mark_date": "2026-10-16",
+      "mark": 166.02,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 150.38,
       "target": 187.98,
       "thesis": "Premarket gap into a heavy bank-earnings morning; no fresh BMO-specific catalyst confirmed.",
-      "ticker": "BMO"
+      "ticker": "BMO",
+      "exit_reason": null
     }
   ],
   "shorts": [
@@ -84,51 +89,54 @@
       "exit_date": null,
       "fill": 49.83,
       "fill_date": "2026-10-14",
-      "mark": 51.23,
-      "mark_date": "2026-10-16",
+      "mark": 50.39,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 53.82,
       "target": 42.36,
       "thesis": "$1.21B regulatory fine disclosed ahead of Q3 earnings \u2014 insufficient systems to monitor/report possible financial crimes.",
-      "ticker": "BAC"
+      "ticker": "BAC",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 141.74,
       "fill_date": "2026-10-14",
-      "mark": 128.79,
-      "mark_date": "2026-10-16",
+      "mark": 131.52,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 153.08,
       "target": 120.48,
       "thesis": "Continued weakness below 50/200-day averages; Zacks cut to Hold Oct 8; no fresh catalyst confirmed.",
-      "ticker": "NOVT"
+      "ticker": "NOVT",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 934.3,
       "fill_date": "2026-10-14",
-      "mark": 878.84,
-      "mark_date": "2026-10-16",
+      "mark": 904.9,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 1009.04,
       "target": 794.15,
       "thesis": "CXMT competition fears keep memory under pressure; SOX down 5 straight sessions.",
-      "ticker": "MU"
+      "ticker": "MU",
+      "exit_reason": null
     }
   ],
   "summary": {
-    "closed": 0,
+    "total_trades": 8,
     "open": 8,
-    "total_pnl_pct": 0,
-    "total_trades": 8
+    "closed": 0,
+    "total_pnl_pct": 0.0
   }
 }

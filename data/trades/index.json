@@ -265,10 +265,106 @@
       "pnl": -7.92,
       "side": "long",
       "ticker": "NCPL"
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "UNH",
+      "side": "long",
+      "fill": 397.63,
+      "exit": 406.88,
+      "pnl": 2.33
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "GS",
+      "side": "long",
+      "fill": 923.0,
+      "exit": 875.78,
+      "pnl": -5.12
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "JPM",
+      "side": "long",
+      "fill": 339.97,
+      "exit": 333.53,
+      "pnl": -1.89
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "V",
+      "side": "long",
+      "fill": 394.72,
+      "exit": 402.92,
+      "pnl": 2.08
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "BP",
+      "side": "long",
+      "fill": 47.99,
+      "exit": 49.44,
+      "pnl": 3.02
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "MU",
+      "side": "short",
+      "fill": 934.07,
+      "exit": 904.9,
+      "pnl": 3.12
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "SNDK",
+      "side": "short",
+      "fill": 1406.23,
+      "exit": 1371.12,
+      "pnl": 2.5
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "SNDX",
+      "side": "short",
+      "fill": 14.61,
+      "exit": 13.09,
+      "pnl": 10.4
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "CLF",
+      "side": "long",
+      "fill": 14.2,
+      "exit": 13.06,
+      "pnl": -8.03
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "RCAT",
+      "side": "long",
+      "fill": 5.12,
+      "exit": 4.71,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "XLAB",
+      "side": "long",
+      "fill": 2.8,
+      "exit": 2.58,
+      "pnl": -7.86
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "MRNA",
+      "side": "short",
+      "fill": 217.27,
+      "exit": 234.65,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -5.57,
-  "total_trades": 59,
-  "updated_at": "2026-10-19T13:51:06Z",
-  "win_rate": 37.5
+  "total_pnl": -21.03,
+  "total_trades": 67,
+  "updated_at": "2026-10-19T21:20:24Z",
+  "win_rate": 40.91
 }

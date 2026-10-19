@@ -13,33 +13,42 @@
       "stop": 66.88,
       "target": 83.61,
       "thesis": "Phase 3 APOLLO trial of bitopertin met all co-primary and secondary endpoints; NDA resubmission planned by end-2026. Gapping toward 52-week high $99.50.",
-      "ticker": "IRON"
+      "ticker": "IRON",
+      "mark": 78.93,
+      "mark_date": "2026-10-19",
+      "exit_reason": null
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 13.06,
+      "exit_date": "2026-10-19",
       "fill": 14.2,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.03,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 13.06,
       "target": 16.33,
       "thesis": "Q3 beat: adjusted EBITDA $612M, adjusted EPS 28c; guided 2027 adjusted EBITDA >$4B vs ~$2.5B consensus. Gapping through the 13.22 buy point.",
-      "ticker": "CLF"
+      "ticker": "CLF",
+      "exit_reason": "Stop hit \u2014 day low 12.9403 <= stop 13.06 (stop-before-target convention).",
+      "mark": null,
+      "mark_date": null
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 4.71,
+      "exit_date": "2026-10-19",
       "fill": 5.12,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.01,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 4.71,
       "target": 5.89,
       "thesis": "Proposed voluntary cash offer to acquire Austria's Steyr Motors at EUR39/share (~$43.80), a 28.9% premium; anchor holder (~15%) agreed to tender.",
-      "ticker": "RCAT"
+      "ticker": "RCAT",
+      "exit_reason": "Stop hit \u2014 day low 4.65 <= stop 4.71 (stop-before-target convention).",
+      "mark": null,
+      "mark_date": null
     },
     {
       "exit": null,
@@ -52,35 +61,44 @@
       "stop": 86.97,
       "target": 108.71,
       "thesis": "JPMorgan upgraded to Neutral from Underweight, citing improved management execution and turnaround progress; riding the AI/semi rebound.",
-      "ticker": "INTC"
+      "ticker": "INTC",
+      "mark": 92.03,
+      "mark_date": "2026-10-19",
+      "exit_reason": null
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 2.58,
+      "exit_date": "2026-10-19",
       "fill": 2.8,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -7.86,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 2.58,
       "target": 3.22,
       "thesis": "Second/third-day momentum runner; Friday closed +72.8% at $2.35. Reported $8.2M NVIDIA GPU server contract unconfirmed/mixed; thin balance sheet raises offering risk. Speculative only.",
-      "ticker": "XLAB"
+      "ticker": "XLAB",
+      "exit_reason": "Stop hit \u2014 day low 2.5 <= stop 2.58 (both levels in range; no intraday touch-order evidence on file \u2014 stop-before-target fallback).",
+      "mark": null,
+      "mark_date": null
     }
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 234.65,
+      "exit_date": "2026-10-19",
       "fill": 217.27,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 234.65,
       "target": 184.68,
       "thesis": "Profit-taking / valuation gravity after a massive run: fell -7.8% Friday to $218.01, up ~+639% YTD; Citi's earlier Sell thesis frames the fade.",
-      "ticker": "MRNA"
+      "ticker": "MRNA",
+      "exit_reason": "Stop hit \u2014 day high 236.7699 >= stop 234.65 (stop-before-target convention).",
+      "mark": null,
+      "mark_date": null
     },
     {
       "exit": null,
@@ -93,7 +111,10 @@
       "stop": 47.37,
       "target": 37.28,
       "thesis": "Inverse-semi ETF falling because semis are rebounding (SOXL +8.6% premarket); avoid long inverse exposure into a sharp semi bounce.",
-      "ticker": "SOXS"
+      "ticker": "SOXS",
+      "mark": 46.63,
+      "mark_date": "2026-10-19",
+      "exit_reason": null
     },
     {
       "exit": null,
@@ -106,13 +127,16 @@
       "stop": 11.86,
       "target": 9.33,
       "thesis": "Top premarket loser with no confirmed catalyst; avoid catching a falling knife without a confirmed reason for the decline.",
-      "ticker": "SKDD"
+      "ticker": "SKDD",
+      "mark": 11.08,
+      "mark_date": "2026-10-19",
+      "exit_reason": null
     }
   ],
   "summary": {
-    "closed": 0,
-    "open": 8,
-    "total_pnl_pct": 0,
-    "total_trades": 8
+    "total_trades": 8,
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": -31.9
   }
 }

@@ -7,45 +7,48 @@
       "exit_date": null,
       "fill": 369.15,
       "fill_date": "2026-10-16",
-      "mark": 354.72,
-      "mark_date": "2026-10-16",
+      "mark": 368.06,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 339.62,
       "target": 424.52,
       "thesis": "Unveiled redesigned 2nd-gen Roadster, described as the world's first flying car, with rocket-style thrusters developed with SpaceX. Headline-driven; earnings next week.",
-      "ticker": "TSLA"
+      "ticker": "TSLA",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 41.65,
       "fill_date": "2026-10-16",
-      "mark": 41.45,
-      "mark_date": "2026-10-16",
+      "mark": 41.67,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 38.32,
       "target": 47.9,
       "thesis": "Q3 beat: net income $483M, adj EPS $1.82, revenue $3.7B, FCF $472M, cash $4.4B; aluminium output up a 6th straight quarter. Caveat: revenue down 7% q/q.",
-      "ticker": "AA"
+      "ticker": "AA",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 287.34,
       "fill_date": "2026-10-16",
-      "mark": 284.79,
-      "mark_date": "2026-10-16",
+      "mark": 286.16,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "long",
       "status": "open",
       "stop": 264.35,
       "target": 330.44,
       "thesis": "Arete Research initiated Buy with a $335 target (Oct 14). Gap back toward the 52-week high $314.28 (last ~$285). Caveat: initiation is 2 days old; no fresh company news.",
-      "ticker": "GRMN"
+      "ticker": "GRMN",
+      "exit_reason": null
     },
     {
       "exit": 32.34,
@@ -86,51 +89,54 @@
       "exit_date": null,
       "fill": 65.2,
       "fill_date": "2026-10-16",
-      "mark": 61.39,
-      "mark_date": "2026-10-16",
+      "mark": 61.12,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 70.42,
       "target": 55.42,
       "thesis": "Debt-funding fears for the AI data-center buildout; Thu saw a -10% intraday washout before Nvidia CEO Huang's supportive comments rescued it \u2014 the rebound is already fading.",
-      "ticker": "CRWV"
+      "ticker": "CRWV",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 69.87,
       "fill_date": "2026-10-16",
-      "mark": 70.53,
-      "mark_date": "2026-10-16",
+      "mark": 69.85,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 75.46,
       "target": 59.39,
       "thesis": "Chief content officer departure announced, a day after 6% workforce cuts; KeyBanc cut its target $92\u2192$85 (kept Overweight). Q3 earnings due Oct 20 \u2014 overhang into the print.",
-      "ticker": "NFLX"
+      "ticker": "NFLX",
+      "exit_reason": null
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 905.49,
       "fill_date": "2026-10-16",
-      "mark": 878.84,
-      "mark_date": "2026-10-16",
+      "mark": 904.9,
+      "mark_date": "2026-10-19",
       "pnl_pct": null,
       "side": "short",
       "status": "open",
       "stop": 977.93,
       "target": 769.67,
       "thesis": "AI/chip unwind continues; SOX down 7 straight sessions; TSMC's cautious 2027 consumer-semi outlook weighs on memory. Small premarket move \u2014 avoid rather than an aggressive short.",
-      "ticker": "MU"
+      "ticker": "MU",
+      "exit_reason": null
     }
   ],
   "summary": {
-    "closed": 2,
+    "total_trades": 8,
     "open": 6,
-    "total_pnl_pct": -15.91,
-    "total_trades": 8
+    "closed": 2,
+    "total_pnl_pct": -15.91
   }
 }
