@@ -14,8 +14,8 @@
       "target": 83.61,
       "thesis": "Phase 3 APOLLO trial of bitopertin met all co-primary and secondary endpoints; NDA resubmission planned by end-2026. Gapping toward 52-week high $99.50.",
       "ticker": "IRON",
-      "mark": 78.93,
-      "mark_date": "2026-10-19",
+      "mark": 79.48,
+      "mark_date": "2026-10-20",
       "exit_reason": null
     },
     {
@@ -62,8 +62,8 @@
       "target": 108.71,
       "thesis": "JPMorgan upgraded to Neutral from Underweight, citing improved management execution and turnaround progress; riding the AI/semi rebound.",
       "ticker": "INTC",
-      "mark": 92.03,
-      "mark_date": "2026-10-19",
+      "mark": 91.69,
+      "mark_date": "2026-10-20",
       "exit_reason": null
     },
     {
@@ -101,42 +101,38 @@
       "mark_date": null
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 47.37,
+      "exit_date": "2026-10-20",
       "fill": 43.86,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 47.37,
       "target": 37.28,
       "thesis": "Inverse-semi ETF falling because semis are rebounding (SOXL +8.6% premarket); avoid long inverse exposure into a sharp semi bounce.",
       "ticker": "SOXS",
-      "mark": 46.63,
-      "mark_date": "2026-10-19",
-      "exit_reason": null
+      "exit_reason": "Stop hit \u2014 day high 50.12 >= stop 47.37 (stop-before-target convention)."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 11.86,
+      "exit_date": "2026-10-20",
       "fill": 10.98,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.01,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 11.86,
       "target": 9.33,
       "thesis": "Top premarket loser with no confirmed catalyst; avoid catching a falling knife without a confirmed reason for the decline.",
       "ticker": "SKDD",
-      "mark": 11.08,
-      "mark_date": "2026-10-19",
-      "exit_reason": null
+      "exit_reason": "Stop hit \u2014 day high 11.89 >= stop 11.86 (stop-before-target convention)."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 4,
-    "closed": 4,
-    "total_pnl_pct": -31.9
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": -47.91
   }
 }
