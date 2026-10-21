@@ -1,0 +1,92 @@
+{
+  "brief": "premarket brief 2026-10-21 07:13 CT",
+  "date": "2026-10-21",
+  "longs": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 36.42,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 33.51,
+      "target": 41.88,
+      "thesis": "Raised fiscal Q1 prelim revenue to $18.5-19.5B (from $14.5-15.5B), gross margin 12.0-12.5%, citing AI platform demand; +12.8% premarket on ~8x relative volume — catch-up momentum off the SOX's record 8-session losing streak.",
+      "ticker": "SMCI"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 160.56,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 147.72,
+      "target": 184.64,
+      "thesis": "Q3 revenue surged 161% YoY; Musk said SpaceX and Tesla formed special committees to discuss a merger; +10.5% premarket on ~9x relative volume with short interest 2.71% adding squeeze fuel.",
+      "ticker": "SPCX"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 2.39,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 2.2,
+      "target": 2.75,
+      "thesis": "Advisor Ashford Inc. irrevocably waived ~$17M in fees over 6 months, committed to buying 2.5% of outstanding stock each quarter, terminated the $100M ATM (dilution overhang removed); +43.6% premarket deep-downtrend reversal attempt (-58% YTD).",
+      "ticker": "AHT"
+    }
+  ],
+  "shorts": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 64.15,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 69.28,
+      "target": 54.53,
+      "thesis": "EPS beat ($0.87 vs $0.82) but cut 2026 ad revenue forecast to $2.7B from $3B, slowest sales growth in ~3 years (11.8%); -6% premarket with heavy pre-earnings put flow and two analyst target cuts.",
+      "ticker": "NFLX"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 402.5,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 434.7,
+      "target": 342.13,
+      "thesis": "Earnings beat (adj EPS $3.00 vs $2.65, revenue +22%) but narrowed 2026 da Vinci procedure growth, booked a $450M antitrust settlement charge, and announced 3-5% instrument price cuts phasing in through 2027; -7.8% premarket.",
+      "ticker": "ISRG"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 5.09,
+      "fill_date": "2026-10-21",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 5.5,
+      "target": 4.33,
+      "thesis": "Priced a $40M public offering at $5.00, a steep discount; -29% premarket on the classic dilution gap-down.",
+      "ticker": "TKNO"
+    }
+  ],
+  "summary": {
+    "closed": 0,
+    "open": 6,
+    "total_pnl_pct": 0.0,
+    "total_trades": 6
+  }
+}
