@@ -1,468 +1,534 @@
 {
- "days": [
-  "2026-10-08",
-  "2026-10-09",
-  "2026-10-12",
-  "2026-10-13",
-  "2026-10-14",
-  "2026-10-15",
-  "2026-10-16",
-  "2026-10-19",
-  "2026-10-20",
-  "2026-10-21"
- ],
- "recent": [
-  {
-   "date": "2026-10-08",
-   "exit": 35.11,
-   "fill": 30.53,
-   "pnl": 15.0,
-   "side": "long",
-   "ticker": "WOLF"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 1.49,
-   "fill": 1.3,
-   "pnl": 14.62,
-   "side": "long",
-   "ticker": "IPW"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 119.0,
-   "fill": 103.48,
-   "pnl": 15.0,
-   "side": "long",
-   "ticker": "HAE"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 0.39,
-   "fill": 0.46,
-   "pnl": 15.22,
-   "side": "short",
-   "ticker": "SXTC"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 6.27,
-   "fill": 5.81,
-   "pnl": -7.92,
-   "side": "short",
-   "ticker": "BULL"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 103.96,
-   "fill": 113.0,
-   "pnl": -8.0,
-   "side": "long",
-   "ticker": "AAOI"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 22.41,
-   "fill": 24.36,
-   "pnl": -8.0,
-   "side": "long",
-   "ticker": "APLD"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 414.45,
-   "fill": 450.49,
-   "pnl": -8.0,
-   "side": "long",
-   "ticker": "HUM"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 63.21,
-   "fill": 68.71,
-   "pnl": -8.0,
-   "side": "long",
-   "ticker": "RKLB"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 33.41,
-   "fill": 36.31,
-   "pnl": -7.99,
-   "side": "long",
-   "ticker": "IREN"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 67.59,
-   "fill": 72.5,
-   "pnl": -6.77,
-   "side": "long",
-   "ticker": "PENG"
-  },
-  {
-   "date": "2026-10-08",
-   "exit": 818.3,
-   "fill": 831.71,
-   "pnl": 1.61,
-   "side": "short",
-   "ticker": "ARGX"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 152.11,
-   "fill": 165.34,
-   "pnl": -8.0,
-   "side": "long",
-   "ticker": "SPCX"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 32.97,
-   "fill": 38.79,
-   "pnl": 15.0,
-   "side": "short",
-   "ticker": "IONQ"
-  },
-  {
-   "date": "2026-10-13",
-   "exit": 9.27,
-   "fill": 10.9,
-   "pnl": 14.95,
-   "side": "short",
-   "ticker": "FUN"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 80.0,
-   "fill": 74.32,
-   "pnl": 7.64,
-   "side": "long",
-   "ticker": "CCI"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 183.72,
-   "fill": 178.14,
-   "pnl": 3.13,
-   "side": "long",
-   "ticker": "SBAC"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 157.03,
-   "fill": 155.51,
-   "pnl": -0.98,
-   "side": "short",
-   "ticker": "TMUS"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 23.5,
-   "fill": 22.38,
-   "pnl": -5.0,
-   "side": "short",
-   "ticker": "T"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 44.4,
-   "fill": 42.85,
-   "pnl": -3.62,
-   "side": "short",
-   "ticker": "VZ"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 78.08,
-   "fill": 79.68,
-   "pnl": 2.01,
-   "side": "short",
-   "ticker": "DAL"
-  },
-  {
-   "date": "2026-10-09",
-   "exit": 342.0,
-   "fill": 331.7,
-   "pnl": -3.11,
-   "side": "short",
-   "ticker": "AAPL"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 161.57,
-   "fill": 149.6,
-   "pnl": -8.0,
-   "side": "short",
-   "ticker": "TMUS"
-  },
-  {
-   "date": "2026-10-15",
-   "exit": 66.34,
-   "fill": 61.43,
-   "pnl": -7.99,
-   "side": "short",
-   "ticker": "CRWV"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 240.7,
-   "fill": 236.65,
-   "pnl": 1.71,
-   "side": "long",
-   "ticker": "CRM"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 173.94,
-   "fill": 181.46,
-   "pnl": -4.14,
-   "side": "long",
-   "ticker": "FSLR"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 232.65,
-   "fill": 233.98,
-   "pnl": -0.57,
-   "side": "long",
-   "ticker": "BIIB"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 21.81,
-   "fill": 22.66,
-   "pnl": -3.75,
-   "side": "long",
-   "ticker": "SLM"
-  },
-  {
-   "date": "2026-10-12",
-   "exit": 878.84,
-   "fill": 1002.45,
-   "pnl": 12.33,
-   "side": "short",
-   "ticker": "MU"
-  },
-  {
-   "date": "2026-10-15",
-   "exit": 9.38,
-   "fill": 10.2,
-   "pnl": -8.04,
-   "side": "long",
-   "ticker": "IBRX"
-  },
-  {
-   "date": "2026-10-16",
-   "exit": 32.34,
-   "fill": 35.15,
-   "pnl": -7.99,
-   "side": "long",
-   "ticker": "ZETA"
-  },
-  {
-   "date": "2026-10-16",
-   "exit": 2.21,
-   "fill": 2.4,
-   "pnl": -7.92,
-   "side": "long",
-   "ticker": "NCPL"
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "UNH",
-   "side": "long",
-   "fill": 397.63,
-   "exit": 406.88,
-   "pnl": 2.33
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "GS",
-   "side": "long",
-   "fill": 923.0,
-   "exit": 875.78,
-   "pnl": -5.12
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "JPM",
-   "side": "long",
-   "fill": 339.97,
-   "exit": 333.53,
-   "pnl": -1.89
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "V",
-   "side": "long",
-   "fill": 394.72,
-   "exit": 402.92,
-   "pnl": 2.08
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "BP",
-   "side": "long",
-   "fill": 47.99,
-   "exit": 49.44,
-   "pnl": 3.02
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "MU",
-   "side": "short",
-   "fill": 934.07,
-   "exit": 904.9,
-   "pnl": 3.12
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "SNDK",
-   "side": "short",
-   "fill": 1406.23,
-   "exit": 1371.12,
-   "pnl": 2.5
-  },
-  {
-   "date": "2026-10-13",
-   "ticker": "SNDX",
-   "side": "short",
-   "fill": 14.61,
-   "exit": 13.09,
-   "pnl": 10.4
-  },
-  {
-   "date": "2026-10-19",
-   "ticker": "CLF",
-   "side": "long",
-   "fill": 14.2,
-   "exit": 13.06,
-   "pnl": -8.03
-  },
-  {
-   "date": "2026-10-19",
-   "ticker": "RCAT",
-   "side": "long",
-   "fill": 5.12,
-   "exit": 4.71,
-   "pnl": -8.01
-  },
-  {
-   "date": "2026-10-19",
-   "ticker": "XLAB",
-   "side": "long",
-   "fill": 2.8,
-   "exit": 2.58,
-   "pnl": -7.86
-  },
-  {
-   "date": "2026-10-19",
-   "ticker": "MRNA",
-   "side": "short",
-   "fill": 217.27,
-   "exit": 234.65,
-   "pnl": -8.0
-  },
-  {
-   "date": "2026-10-19",
-   "exit": 47.37,
-   "fill": 43.86,
-   "pnl": -8.0,
-   "side": "short",
-   "ticker": "SOXS"
-  },
-  {
-   "date": "2026-10-19",
-   "exit": 11.86,
-   "fill": 10.98,
-   "pnl": -8.01,
-   "side": "short",
-   "ticker": "SKDD"
-  },
-  {
-   "date": "2026-10-20",
-   "exit": 27.9,
-   "fill": 30.33,
-   "pnl": -8.01,
-   "side": "long",
-   "ticker": "RAPP"
-  },
-  {
-   "date": "2026-10-20",
-   "exit": 64.01,
-   "fill": 59.27,
-   "pnl": -8.0,
-   "side": "short",
-   "ticker": "CRWV"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 17.76,
-   "fill": 17.2,
-   "pnl": 3.26,
-   "side": "long",
-   "ticker": "HR"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 744.33,
-   "fill": 704.89,
-   "pnl": 5.6,
-   "side": "long",
-   "ticker": "ESLT"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 179.64,
-   "fill": 172.59,
-   "pnl": 4.08,
-   "side": "long",
-   "ticker": "TKO"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 113.3,
-   "fill": 113.2,
-   "pnl": 0.09,
-   "side": "long",
-   "ticker": "TKR"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 167.47,
-   "fill": 163.46,
-   "pnl": 2.45,
-   "side": "long",
-   "ticker": "BMO"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 50.64,
-   "fill": 49.83,
-   "pnl": -1.63,
-   "side": "short",
-   "ticker": "BAC"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 135.59,
-   "fill": 141.74,
-   "pnl": 4.34,
-   "side": "short",
-   "ticker": "NOVT"
-  },
-  {
-   "date": "2026-10-14",
-   "exit": 908.14,
-   "fill": 934.3,
-   "pnl": 2.8,
-   "side": "short",
-   "ticker": "MU"
-  }
- ],
- "total_pnl": -32.06,
- "total_trades": 75,
- "updated_at": "2026-10-21T13:52:41Z",
- "win_rate": 44.64
+  "days": [
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21"
+  ],
+  "recent": [
+    {
+      "date": "2026-10-08",
+      "exit": 35.11,
+      "fill": 30.53,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "WOLF"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 1.49,
+      "fill": 1.3,
+      "pnl": 14.62,
+      "side": "long",
+      "ticker": "IPW"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 119.0,
+      "fill": 103.48,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "HAE"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 0.39,
+      "fill": 0.46,
+      "pnl": 15.22,
+      "side": "short",
+      "ticker": "SXTC"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 6.27,
+      "fill": 5.81,
+      "pnl": -7.92,
+      "side": "short",
+      "ticker": "BULL"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 103.96,
+      "fill": 113.0,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "AAOI"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 22.41,
+      "fill": 24.36,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "APLD"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 414.45,
+      "fill": 450.49,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "HUM"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 63.21,
+      "fill": 68.71,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "RKLB"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 33.41,
+      "fill": 36.31,
+      "pnl": -7.99,
+      "side": "long",
+      "ticker": "IREN"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 67.59,
+      "fill": 72.5,
+      "pnl": -6.77,
+      "side": "long",
+      "ticker": "PENG"
+    },
+    {
+      "date": "2026-10-08",
+      "exit": 818.3,
+      "fill": 831.71,
+      "pnl": 1.61,
+      "side": "short",
+      "ticker": "ARGX"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 152.11,
+      "fill": 165.34,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "SPCX"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 32.97,
+      "fill": 38.79,
+      "pnl": 15.0,
+      "side": "short",
+      "ticker": "IONQ"
+    },
+    {
+      "date": "2026-10-13",
+      "exit": 9.27,
+      "fill": 10.9,
+      "pnl": 14.95,
+      "side": "short",
+      "ticker": "FUN"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 80.0,
+      "fill": 74.32,
+      "pnl": 7.64,
+      "side": "long",
+      "ticker": "CCI"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 183.72,
+      "fill": 178.14,
+      "pnl": 3.13,
+      "side": "long",
+      "ticker": "SBAC"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 157.03,
+      "fill": 155.51,
+      "pnl": -0.98,
+      "side": "short",
+      "ticker": "TMUS"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 23.5,
+      "fill": 22.38,
+      "pnl": -5.0,
+      "side": "short",
+      "ticker": "T"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 44.4,
+      "fill": 42.85,
+      "pnl": -3.62,
+      "side": "short",
+      "ticker": "VZ"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 78.08,
+      "fill": 79.68,
+      "pnl": 2.01,
+      "side": "short",
+      "ticker": "DAL"
+    },
+    {
+      "date": "2026-10-09",
+      "exit": 342.0,
+      "fill": 331.7,
+      "pnl": -3.11,
+      "side": "short",
+      "ticker": "AAPL"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 161.57,
+      "fill": 149.6,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "TMUS"
+    },
+    {
+      "date": "2026-10-15",
+      "exit": 66.34,
+      "fill": 61.43,
+      "pnl": -7.99,
+      "side": "short",
+      "ticker": "CRWV"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 240.7,
+      "fill": 236.65,
+      "pnl": 1.71,
+      "side": "long",
+      "ticker": "CRM"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 173.94,
+      "fill": 181.46,
+      "pnl": -4.14,
+      "side": "long",
+      "ticker": "FSLR"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 232.65,
+      "fill": 233.98,
+      "pnl": -0.57,
+      "side": "long",
+      "ticker": "BIIB"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 21.81,
+      "fill": 22.66,
+      "pnl": -3.75,
+      "side": "long",
+      "ticker": "SLM"
+    },
+    {
+      "date": "2026-10-12",
+      "exit": 878.84,
+      "fill": 1002.45,
+      "pnl": 12.33,
+      "side": "short",
+      "ticker": "MU"
+    },
+    {
+      "date": "2026-10-15",
+      "exit": 9.38,
+      "fill": 10.2,
+      "pnl": -8.04,
+      "side": "long",
+      "ticker": "IBRX"
+    },
+    {
+      "date": "2026-10-16",
+      "exit": 32.34,
+      "fill": 35.15,
+      "pnl": -7.99,
+      "side": "long",
+      "ticker": "ZETA"
+    },
+    {
+      "date": "2026-10-16",
+      "exit": 2.21,
+      "fill": 2.4,
+      "pnl": -7.92,
+      "side": "long",
+      "ticker": "NCPL"
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "UNH",
+      "side": "long",
+      "fill": 397.63,
+      "exit": 406.88,
+      "pnl": 2.33
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "GS",
+      "side": "long",
+      "fill": 923.0,
+      "exit": 875.78,
+      "pnl": -5.12
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "JPM",
+      "side": "long",
+      "fill": 339.97,
+      "exit": 333.53,
+      "pnl": -1.89
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "V",
+      "side": "long",
+      "fill": 394.72,
+      "exit": 402.92,
+      "pnl": 2.08
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "BP",
+      "side": "long",
+      "fill": 47.99,
+      "exit": 49.44,
+      "pnl": 3.02
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "MU",
+      "side": "short",
+      "fill": 934.07,
+      "exit": 904.9,
+      "pnl": 3.12
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "SNDK",
+      "side": "short",
+      "fill": 1406.23,
+      "exit": 1371.12,
+      "pnl": 2.5
+    },
+    {
+      "date": "2026-10-13",
+      "ticker": "SNDX",
+      "side": "short",
+      "fill": 14.61,
+      "exit": 13.09,
+      "pnl": 10.4
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "CLF",
+      "side": "long",
+      "fill": 14.2,
+      "exit": 13.06,
+      "pnl": -8.03
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "RCAT",
+      "side": "long",
+      "fill": 5.12,
+      "exit": 4.71,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "XLAB",
+      "side": "long",
+      "fill": 2.8,
+      "exit": 2.58,
+      "pnl": -7.86
+    },
+    {
+      "date": "2026-10-19",
+      "ticker": "MRNA",
+      "side": "short",
+      "fill": 217.27,
+      "exit": 234.65,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-19",
+      "exit": 47.37,
+      "fill": 43.86,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "SOXS"
+    },
+    {
+      "date": "2026-10-19",
+      "exit": 11.86,
+      "fill": 10.98,
+      "pnl": -8.01,
+      "side": "short",
+      "ticker": "SKDD"
+    },
+    {
+      "date": "2026-10-20",
+      "exit": 27.9,
+      "fill": 30.33,
+      "pnl": -8.01,
+      "side": "long",
+      "ticker": "RAPP"
+    },
+    {
+      "date": "2026-10-20",
+      "exit": 64.01,
+      "fill": 59.27,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "CRWV"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 17.76,
+      "fill": 17.2,
+      "pnl": 3.26,
+      "side": "long",
+      "ticker": "HR"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 744.33,
+      "fill": 704.89,
+      "pnl": 5.6,
+      "side": "long",
+      "ticker": "ESLT"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 179.64,
+      "fill": 172.59,
+      "pnl": 4.08,
+      "side": "long",
+      "ticker": "TKO"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 113.3,
+      "fill": 113.2,
+      "pnl": 0.09,
+      "side": "long",
+      "ticker": "TKR"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 167.47,
+      "fill": 163.46,
+      "pnl": 2.45,
+      "side": "long",
+      "ticker": "BMO"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 50.64,
+      "fill": 49.83,
+      "pnl": -1.63,
+      "side": "short",
+      "ticker": "BAC"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 135.59,
+      "fill": 141.74,
+      "pnl": 4.34,
+      "side": "short",
+      "ticker": "NOVT"
+    },
+    {
+      "date": "2026-10-14",
+      "exit": 908.14,
+      "fill": 934.3,
+      "pnl": 2.8,
+      "side": "short",
+      "ticker": "MU"
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "KMB",
+      "side": "long",
+      "fill": 102.87,
+      "exit": 106.64,
+      "pnl": 3.66
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "ERIC",
+      "side": "long",
+      "fill": 10.65,
+      "exit": 10.43,
+      "pnl": -2.07
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "AAPL",
+      "side": "long",
+      "fill": 346.95,
+      "exit": 343.99,
+      "pnl": -0.85
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "RKLB",
+      "side": "short",
+      "fill": 53.86,
+      "exit": 53.67,
+      "pnl": 0.35
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "MU",
+      "side": "short",
+      "fill": 871.58,
+      "exit": 913.67,
+      "pnl": -4.83
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "VICR",
+      "side": "long",
+      "fill": 190.11,
+      "exit": 218.63,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "AHT",
+      "side": "long",
+      "fill": 2.39,
+      "exit": 2.75,
+      "pnl": 15.06
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "TKNO",
+      "side": "short",
+      "fill": 5.09,
+      "exit": 5.5,
+      "pnl": -8.06
+    }
+  ],
+  "total_pnl": -13.8,
+  "total_trades": 64,
+  "updated_at": "2026-10-21T21:21:54Z",
+  "win_rate": 45.31,
+  "total_pnl_pct": -13.8,
+  "wins": 29
 }

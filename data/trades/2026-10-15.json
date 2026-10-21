@@ -3,38 +3,38 @@
   "date": "2026-10-15",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 106.64,
+      "exit_date": "2026-10-21",
       "fill": 102.87,
       "fill_date": "2026-10-15",
-      "mark": 106.64,
-      "mark_as_of": "2026-10-21 14:55 CT",
+      "mark": 107.08,
+      "mark_as_of": "2026-10-21 11:30 CT",
       "mark_date": "2026-10-20",
-      "pnl_pct": null,
+      "pnl_pct": 3.66,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 94.64,
       "target": 118.3,
       "thesis": "Preliminary Q3 beat: sales $4.13B vs $4.10B est, adj EPS $1.70 vs $1.59; reaffirmed FY26 targets; Kenvue deal to close by year-end. Defensive staples leader in a defensive tape.",
       "ticker": "KMB",
-      "exit_reason": null
+      "exit_reason": "5-day max hold \u2014 exited at close 106.64."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 10.43,
+      "exit_date": "2026-10-21",
       "fill": 10.65,
       "fill_date": "2026-10-15",
-      "mark": 10.44,
-      "mark_as_of": "2026-10-21 14:55 CT",
+      "mark": 10.43,
+      "mark_as_of": "2026-10-21 11:30 CT",
       "mark_date": "2026-10-20",
-      "pnl_pct": null,
+      "pnl_pct": -2.07,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 9.8,
       "target": 12.25,
       "thesis": "Beat on strong network-gear sales; telecom led Europe. Caveat: guided flat RAN market into 2026 and warned component costs may pressure margins next year.",
       "ticker": "ERIC",
-      "exit_reason": null
+      "exit_reason": "5-day max hold \u2014 exited at close 10.43."
     },
     {
       "exit": 9.38,
@@ -53,40 +53,40 @@
       "ticker": "IBRX"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 343.99,
+      "exit_date": "2026-10-21",
       "fill": 346.95,
       "fill_date": "2026-10-15",
-      "mark": 344.05,
-      "mark_as_of": "2026-10-21 14:55 CT",
+      "mark": 343.57,
+      "mark_as_of": "2026-10-21 11:30 CT",
       "mark_date": "2026-10-20",
-      "pnl_pct": null,
+      "pnl_pct": -0.85,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 319.19,
       "target": 398.99,
       "thesis": "Only Mag 7 name up Wed (+0.50% to $342.96, first $5T close) \u2014 relative strength in the rout.",
       "ticker": "AAPL",
-      "exit_reason": null
+      "exit_reason": "5-day max hold \u2014 exited at close 343.99."
     }
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 53.67,
+      "exit_date": "2026-10-21",
       "fill": 53.86,
       "fill_date": "2026-10-15",
-      "mark": 53.65,
-      "mark_as_of": "2026-10-21 14:55 CT",
+      "mark": 53.01,
+      "mark_as_of": "2026-10-21 11:30 CT",
       "mark_date": "2026-10-20",
-      "pnl_pct": null,
+      "pnl_pct": 0.35,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 58.17,
       "target": 45.78,
       "thesis": "Delayed Neutron maiden launch from 2026 to 2027 \u2014 pushes out medium-launch revenue and slows competition with SpaceX.",
       "ticker": "RKLB",
-      "exit_reason": null
+      "exit_reason": "5-day max hold \u2014 exited at close 53.67."
     },
     {
       "exit": 66.34,
@@ -105,27 +105,27 @@
       "ticker": "CRWV"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 913.67,
+      "exit_date": "2026-10-21",
       "fill": 871.58,
       "fill_date": "2026-10-15",
-      "mark": 913.62,
-      "mark_as_of": "2026-10-21 14:55 CT",
+      "mark": 910.15,
+      "mark_as_of": "2026-10-21 11:30 CT",
       "mark_date": "2026-10-20",
-      "pnl_pct": null,
+      "pnl_pct": -4.83,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 941.31,
       "target": 740.84,
       "thesis": "Memory rout continues; SOXX down premarket after -4.5% Wed; Oct 14 options heavily put-skewed.",
       "ticker": "MU",
-      "exit_reason": null
+      "exit_reason": "5-day max hold \u2014 exited at close 913.67."
     }
   ],
   "summary": {
     "total_trades": 7,
-    "open": 5,
-    "closed": 2,
-    "total_pnl_pct": -16.03
+    "open": 0,
+    "closed": 7,
+    "total_pnl_pct": -19.77
   }
 }
