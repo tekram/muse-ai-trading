@@ -179,7 +179,7 @@ footer a { color: var(--accent); text-decoration: none; }
 
   <div class="tabpane" id="pane-open">
     <div class="secttl">Open positions</div>
-    <div class="secdesc">Live paper book, marked to the last verified close. Unrealized dollars are not banked until exit.</div>
+    <div class="secdesc">Live paper book. <span id="marks-asof"></span>Marks refresh every 15 minutes during market hours (Yahoo snapshots, ~15 min delayed); exits are settled only by the 4:15 PM CT exit check. Unrealized dollars are not banked until exit.</div>
     <div class="card tblwrap"><table id="open-table"></table></div>
   </div>
 
@@ -230,6 +230,7 @@ footer a { color: var(--accent); text-decoration: none; }
         <li><b>~7:30 AM CT</b> — the day's plan publishes to the Daily Plan tab from the brief.</li>
         <li><b>8:50 AM CT</b> — morning logger verifies each setup's official open and books the paper trades.</li>
         <li><b>4:15 PM CT</b> — exit check verifies every open position's session high/low/close, applies stops/targets/time exits, and publishes official marks.</li>
+        <li><b>Every 15 min, market hours</b> — open-position marks refresh from Yahoo snapshots so the Open tab follows intraday P&amp;L. These marks never close a position; the 4:15 PM CT exit check stays authoritative for exits.</li>
         <li>This page rebuilds from the published trade files — nothing here is hand-edited.</li>
       </ul>
       <h3>Honest limits</h3>
@@ -265,12 +266,14 @@ document.querySelectorAll(".tab").forEach(btn => {
   btn.addEventListener("click", () => switchTab(btn.dataset.pane));
 });
 
+let marksTimer = null;
 async function load() {
-  const idx = await (await fetch("data/trades/index.json")).json();
+  const bust = "?t=" + Date.now();
+  const idx = await (await fetch("data/trades/index.json" + bust)).json();
   const days = (idx.days || []).slice().sort();
   const files = {};
   for (const d of days) {
-    try { files[d] = await (await fetch(`data/trades/${d}.json`)).json(); }
+    try { files[d] = await (await fetch(`data/trades/${d}.json` + bust)).json(); }
     catch (e) { /* skip missing */ }
   }
   const all = [];
@@ -302,6 +305,12 @@ async function load() {
 
   drawChart(all, days, await loadSpy());
   renderOpen(open);
+  const asOf = open.map(t => t.mark_as_of).filter(Boolean).sort().pop();
+  const ma = $("marks-asof");
+  if (ma) ma.textContent = asOf ? `Marks as of ${asOf} · ` : "";
+  // In-browser auto-refresh: re-load trade data every 15 min so an open
+  // tab follows the GitHub Action mark refreshes without a reload.
+  if (!marksTimer) marksTimer = setInterval(() => load().catch(() => {}), 15 * 60 * 1000);
   renderClosed(closed);
   renderDays(days, files);
   renderPlans(idx.plans || [], all);

@@ -1,8 +1,11 @@
-name: Sector strength refresh
+name: Dashboard refresh (sectors + open marks)
 
-# Regenerates data/sectors.json (Sector Strength tab) every 15 minutes
-# during market hours. Cron is UTC; 13-21 UTC covers 8:00 AM-4:00 PM CT
-# in summer (CDT) and 7:00 AM-3:00 PM CT in winter (CST).
+# Regenerates data/sectors.json (Sector Strength tab) and refreshes the
+# marks on OPEN positions in data/trades/*.json (Open tab) every 15
+# minutes during market hours. Marks only — this workflow never closes
+# a position; the 4:15 PM CT exit check stays authoritative for exits.
+# Cron is UTC; 13-21 UTC covers 8:00 AM-4:00 PM CT in summer (CDT) and
+# 7:00 AM-3:00 PM CT in winter (CST).
 on:
   schedule:
     - cron: "*/15 13-21 * * 1-5"
@@ -25,10 +28,11 @@ jobs:
           python-version: "3.12"
       - run: pip install yfinance
       - run: python scripts/update_sectors.py
+      - run: python scripts/update_marks.py
       - name: Commit if changed
         run: |
           git config user.name "muse-sectors-bot"
           git config user.email "muse-sectors-bot@users.noreply.github.com"
-          git add data/sectors.json
-          git diff --cached --quiet || git commit -m "Sector strength snapshot (auto-refresh)"
+          git add data/sectors.json data/trades/
+          git diff --cached --quiet || git commit -m "Dashboard snapshot (auto-refresh: sectors + open marks)"
           git push
