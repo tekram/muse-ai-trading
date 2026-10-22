@@ -14,9 +14,9 @@
       "target": 83.61,
       "thesis": "Phase 3 APOLLO trial of bitopertin met all co-primary and secondary endpoints; NDA resubmission planned by end-2026. Gapping toward 52-week high $99.50.",
       "ticker": "IRON",
-      "mark": 75.96,
+      "mark": 75.03,
       "mark_as_of": "2026-10-21 14:55 CT",
-      "mark_date": "2026-10-21",
+      "mark_date": "2026-10-22",
       "exit_reason": null
     },
     {
@@ -52,13 +52,13 @@
       "mark_date": null
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 86.97,
+      "exit_date": "2026-10-22",
       "fill": 94.53,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 86.97,
       "target": 108.71,
       "thesis": "JPMorgan upgraded to Neutral from Underweight, citing improved management execution and turnaround progress; riding the AI/semi rebound.",
@@ -66,7 +66,7 @@
       "mark": 92.9,
       "mark_as_of": "2026-10-21 14:55 CT",
       "mark_date": "2026-10-21",
-      "exit_reason": null
+      "exit_reason": "Stop hit \u2014 day low 84.65 <= stop 86.97."
     },
     {
       "exit": 2.58,
@@ -133,8 +133,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": -47.91
+    "open": 1,
+    "closed": 7,
+    "total_pnl_pct": -55.91
   }
 }
