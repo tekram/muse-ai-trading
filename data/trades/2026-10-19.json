@@ -3,13 +3,13 @@
   "date": "2026-10-19",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 74.51,
+      "exit_date": "2026-10-23",
       "fill": 72.7,
       "fill_date": "2026-10-19",
-      "pnl_pct": null,
+      "pnl_pct": 2.49,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 66.88,
       "target": 83.61,
       "thesis": "Phase 3 APOLLO trial of bitopertin met all co-primary and secondary endpoints; NDA resubmission planned by end-2026. Gapping toward 52-week high $99.50.",
@@ -17,7 +17,7 @@
       "mark": 74.51,
       "mark_as_of": "2026-10-23 14:55 CT",
       "mark_date": "2026-10-22",
-      "exit_reason": null
+      "exit_reason": "Day-5 max hold \u2014 exit at close 74.51."
     },
     {
       "exit": 13.06,
@@ -133,8 +133,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 1,
-    "closed": 7,
-    "total_pnl_pct": -55.91
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -53.42
   }
 }

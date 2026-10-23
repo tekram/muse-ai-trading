@@ -11,11 +11,12 @@
       "fill": 2.99,
       "stop": 2.75,
       "target": 3.44,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "FDA lifted the clinical hold on ARD-101 (Prader-Willi hyperphagia); Phase 3 planning resumes. Biotech FDA catalyst gap on ~1,000x relative volume. Note: regular-session open ($2.99) gapped down vs the ~$4.90 premarket indication."
+      "status": "closed",
+      "exit": 2.75,
+      "exit_date": "2026-10-23",
+      "pnl_pct": -8.03,
+      "thesis": "FDA lifted the clinical hold on ARD-101 (Prader-Willi hyperphagia); Phase 3 planning resumes. Biotech FDA catalyst gap on ~1,000x relative volume. Note: regular-session open ($2.99) gapped down vs the ~$4.90 premarket indication.",
+      "exit_reason": "Stop hit \u2014 day low 1.39 <= stop 2.75."
     },
     {
       "ticker": "RNG",
@@ -26,11 +27,12 @@
       "fill": 90.98,
       "stop": 83.7,
       "target": 104.63,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 revenue $676M (+5.9% YoY, beat), adj EPS $1.33 vs $1.27; raised full-year revenue and EPS guidance; paid AI products now ~15% of ARR (>$400M), doubling YoY. Pushing toward the 52-week-high zone."
+      "status": "closed",
+      "exit": 83.7,
+      "exit_date": "2026-10-23",
+      "pnl_pct": -8.0,
+      "thesis": "Q3 revenue $676M (+5.9% YoY, beat), adj EPS $1.33 vs $1.27; raised full-year revenue and EPS guidance; paid AI products now ~15% of ARR (>$400M), doubling YoY. Pushing toward the 52-week-high zone.",
+      "exit_reason": "Stop hit \u2014 day low 82.66 <= stop 83.7."
     },
     {
       "ticker": "SAIQ",
@@ -41,17 +43,18 @@
       "fill": 6.74,
       "stop": 6.2,
       "target": 7.75,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Continuation after +35% Thursday on SEALSQ VaultIC cybersecurity validation aboard the FOSSASAT-2E27 satellite. Space/defense momentum theme."
+      "status": "closed",
+      "exit": 6.2,
+      "exit_date": "2026-10-23",
+      "pnl_pct": -8.01,
+      "thesis": "Continuation after +35% Thursday on SEALSQ VaultIC cybersecurity validation aboard the FOSSASAT-2E27 satellite. Space/defense momentum theme.",
+      "exit_reason": "Stop hit \u2014 day low 5.69 <= stop 6.2."
     },
     {
       "ticker": "NOK",
       "side": "long",
       "fill_date": "2026-10-23",
-      "mark": 8.12,
+      "mark": 8.14,
       "mark_as_of": "2026-10-23 14:55 CT",
       "fill": 8.08,
       "stop": 7.43,
@@ -60,13 +63,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Rebound after Thursday's post-earnings selloff \u2014 washout-reversal setup on ~10x relative volume; Q3 net sales +10% YoY, AI/cloud revenue +123%."
+      "thesis": "Rebound after Thursday's post-earnings selloff \u2014 washout-reversal setup on ~10x relative volume; Q3 net sales +10% YoY, AI/cloud revenue +123%.",
+      "mark_date": "2026-10-23"
     },
     {
       "ticker": "CCI",
       "side": "long",
       "fill_date": "2026-10-23",
-      "mark": 85.99,
+      "mark": 85.97,
       "mark_as_of": "2026-10-23 14:55 CT",
       "fill": 91.02,
       "stop": 83.74,
@@ -75,7 +79,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Defensive tower REIT bid on the 10-yr's -18.5bp collapse \u2014 rate-sensitivity rotation; SBAC (+5.5%) and AMT (+5.4%) moving too."
+      "thesis": "Defensive tower REIT bid on the 10-yr's -18.5bp collapse \u2014 rate-sensitivity rotation; SBAC (+5.5%) and AMT (+5.4%) moving too.",
+      "mark_date": "2026-10-23"
     }
   ],
   "shorts": [
@@ -83,7 +88,7 @@
       "ticker": "DECK",
       "side": "short",
       "fill_date": "2026-10-23",
-      "mark": 81.04,
+      "mark": 81.09,
       "mark_as_of": "2026-10-23 14:55 CT",
       "fill": 80.44,
       "stop": 86.88,
@@ -92,13 +97,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q2 revenue $1.48B missed $1.51B consensus; cautious FY outlook on a promotional US retail environment and Europe logistics disruption."
+      "thesis": "Q2 revenue $1.48B missed $1.51B consensus; cautious FY outlook on a promotional US retail environment and Europe logistics disruption.",
+      "mark_date": "2026-10-23"
     },
     {
       "ticker": "TMUS",
       "side": "short",
       "fill_date": "2026-10-23",
-      "mark": 146.61,
+      "mark": 146.54,
       "mark_as_of": "2026-10-23 14:55 CT",
       "fill": 150.6,
       "stop": 162.65,
@@ -107,13 +113,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Reports of SpaceX aggressively expanding wireless coverage toward 80,000 cell sites \u2014 competitive overhang on carriers."
+      "thesis": "Reports of SpaceX aggressively expanding wireless coverage toward 80,000 cell sites \u2014 competitive overhang on carriers.",
+      "mark_date": "2026-10-23"
     },
     {
       "ticker": "TTMI",
       "side": "short",
       "fill_date": "2026-10-23",
-      "mark": 80.17,
+      "mark": 80.11,
       "mark_as_of": "2026-10-23 14:55 CT",
       "fill": 75.15,
       "stop": 81.16,
@@ -122,13 +129,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Record Q3 ($1.20B revenue, $1.46 EPS \u2014 both beats) overshadowed by earnings-call fallout: supply-chain wait times to 24 weeks, data-center division ~10% below target, new debt load; securities investigation notice filed. Dead-cat bounce \u2014 avoid chasing."
+      "thesis": "Record Q3 ($1.20B revenue, $1.46 EPS \u2014 both beats) overshadowed by earnings-call fallout: supply-chain wait times to 24 weeks, data-center division ~10% below target, new debt load; securities investigation notice filed. Dead-cat bounce \u2014 avoid chasing.",
+      "mark_date": "2026-10-23"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 5,
+    "closed": 3,
+    "total_pnl_pct": -24.04
   }
 }
