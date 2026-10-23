@@ -333,7 +333,7 @@
       "group": "sector",
       "weekly": -1.88,
       "daily": -1.27,
-      "intraday": -0.24,
+      "intraday": -0.08,
       "price": 164.61
     },
     {
@@ -342,7 +342,7 @@
       "group": "subsector",
       "weekly": -2.36,
       "daily": 0.71,
-      "intraday": 0.86,
+      "intraday": 0.75,
       "price": 527.05
     },
     {
