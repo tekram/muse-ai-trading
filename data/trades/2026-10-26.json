@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-26",
+  "brief": "premarket brief 2026-10-26 07:13 CT",
+  "longs": [
+    {
+      "ticker": "SPRC",
+      "side": "long",
+      "fill_date": "2026-10-26",
+      "fill": 1.6,
+      "stop": 1.47,
+      "target": 1.84,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Continuation gap: already +74.31% in after-hours Oct 23 and +62.39% premarket to $1.77, but no fresh company catalyst was confirmed \u2014 speculative micro-cap momentum gap."
+    },
+    {
+      "ticker": "RENT",
+      "side": "long",
+      "fill_date": "2026-10-26",
+      "fill": 3.0,
+      "stop": 2.76,
+      "target": 3.45,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Director Nexus Capital Management bought 632,922 shares Oct 21 at $3.55 avg ($2.25M), lifting its stake 14.81%; gap above the 50-day (~$2.51) toward the 200-day (~$3.40)."
+    },
+    {
+      "ticker": "META",
+      "side": "long",
+      "fill_date": "2026-10-26",
+      "fill": 638.36,
+      "stop": 587.29,
+      "target": 734.11,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Rebound above prior-day high ($648.04) after last week's selloff on a raised AI-spending forecast and a new stock sale; the AI-spend overhang is still unresolved."
+    },
+    {
+      "ticker": "TSLA",
+      "side": "long",
+      "fill_date": "2026-10-26",
+      "fill": 383.83,
+      "stop": 353.12,
+      "target": 441.4,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Above prior-day high ($377.32); led the megacap advance (+2.1%) after the S&P's two straight weekly losses."
+    },
+    {
+      "ticker": "MSFT",
+      "side": "long",
+      "fill_date": "2026-10-26",
+      "fill": 527.4,
+      "stop": 485.21,
+      "target": 606.51,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Above prior-day high ($525.77); pre-earnings momentum setup \u2014 earnings land Wednesday after the close."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "NU",
+      "side": "short",
+      "fill_date": "2026-10-26",
+      "fill": 11.69,
+      "stop": 12.63,
+      "target": 9.94,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Shock Brazil runoff win for Lula (51.8% vs 48.2%); the 'Bolsonaro trade' reversed, annulment sought and Trump tariff threat \u2014 political overhang, not a company-specific miss."
+    },
+    {
+      "ticker": "EWZ",
+      "side": "short",
+      "fill_date": "2026-10-26",
+      "fill": 31.71,
+      "stop": 34.25,
+      "target": 26.95,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "iShares MSCI Brazil ETF cratered on the same Lula shock (Brazil's market fell ~20% overnight); the cleanest expression of the Brazil gap-down."
+    },
+    {
+      "ticker": "IREN",
+      "side": "short",
+      "fill_date": "2026-10-26",
+      "fill": 24.03,
+      "stop": 25.95,
+      "target": 20.43,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Neocloud weakness after Musk said markets have 'almost entirely shut off access to money' for companies without substantial revenue independent of AI data centers; CoreWeave and Nebius each ~3% premarket."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
