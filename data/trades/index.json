@@ -670,12 +670,100 @@
       "fill": 6.74,
       "exit": 6.2,
       "pnl": -8.01
+    },
+    {
+      "date": "2026-10-20",
+      "ticker": "MSCI",
+      "side": "long",
+      "fill": 587.16,
+      "exit": 617.67,
+      "pnl": 5.2
+    },
+    {
+      "date": "2026-10-20",
+      "ticker": "GE",
+      "side": "long",
+      "fill": 302.23,
+      "exit": 288.43,
+      "pnl": -4.57
+    },
+    {
+      "date": "2026-10-20",
+      "ticker": "EFX",
+      "side": "long",
+      "fill": 166.11,
+      "exit": 178.56,
+      "pnl": 7.5
+    },
+    {
+      "date": "2026-10-20",
+      "ticker": "STLD",
+      "side": "short",
+      "fill": 232.65,
+      "exit": 237.55,
+      "pnl": -2.11
+    },
+    {
+      "date": "2026-10-20",
+      "ticker": "GPC",
+      "side": "short",
+      "fill": 126.68,
+      "exit": 123.22,
+      "pnl": 2.73
+    },
+    {
+      "date": "2026-10-23",
+      "ticker": "TTMI",
+      "side": "short",
+      "fill": 75.15,
+      "exit": 81.16,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "SPRC",
+      "side": "long",
+      "fill": 1.6,
+      "exit": 1.47,
+      "pnl": -8.13
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "RENT",
+      "side": "long",
+      "fill": 3.0,
+      "exit": 2.76,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "NU",
+      "side": "short",
+      "fill": 11.69,
+      "exit": 12.63,
+      "pnl": -8.04
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "EWZ",
+      "side": "short",
+      "fill": 31.71,
+      "exit": 34.25,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "IREN",
+      "side": "short",
+      "fill": 24.03,
+      "exit": 25.95,
+      "pnl": -7.99
     }
   ],
-  "total_pnl": -77.41,
-  "total_trades": 82,
-  "updated_at": "2026-10-26 13:51 UTC",
-  "win_rate": 42.68,
-  "total_pnl_pct": -77.41,
-  "wins": 35
+  "total_pnl": -116.83,
+  "total_trades": 93,
+  "updated_at": "2026-10-26 21:17 UTC",
+  "win_rate": 40.86,
+  "total_pnl_pct": -116.83,
+  "wins": 38
 }
