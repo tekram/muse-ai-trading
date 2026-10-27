@@ -759,12 +759,44 @@
       "fill": 24.03,
       "exit": 25.95,
       "pnl": -7.99
+    },
+    {
+      "date": "2026-10-21",
+      "ticker": "NFLX",
+      "side": "short",
+      "fill": 64.15,
+      "exit": 62.52,
+      "pnl": 2.54
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "TSLA",
+      "side": "short",
+      "fill": 374.29,
+      "exit": 404.23,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "JBLU",
+      "side": "long",
+      "fill": 2.78,
+      "exit": 2.56,
+      "pnl": -7.91
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "GCTK",
+      "side": "short",
+      "fill": 1.53,
+      "exit": 1.65,
+      "pnl": -7.84
     }
   ],
-  "total_pnl": -116.83,
-  "total_trades": 93,
-  "updated_at": "2026-10-27 13:52 UTC",
-  "win_rate": 40.86,
-  "total_pnl_pct": -116.83,
-  "wins": 38
+  "total_pnl": -138.04,
+  "total_trades": 97,
+  "updated_at": "2026-10-27 21:17 UTC",
+  "win_rate": 40.21,
+  "total_pnl_pct": -138.04,
+  "wins": 39
 }

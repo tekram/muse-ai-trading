@@ -55,20 +55,21 @@
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 62.52,
+      "exit_date": "2026-10-27",
       "fill": 64.15,
       "fill_date": "2026-10-21",
       "mark": 62.58,
       "mark_as_of": "2026-10-27 13:25 CT",
-      "pnl_pct": null,
+      "pnl_pct": 2.54,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 69.28,
       "target": 54.53,
       "thesis": "EPS beat ($0.87 vs $0.82) but cut 2026 ad revenue forecast to $2.7B from $3B, slowest sales growth in ~3 years (11.8%); -6% premarket with heavy pre-earnings put flow and two analyst target cuts.",
       "ticker": "NFLX",
-      "mark_date": "2026-10-26"
+      "mark_date": "2026-10-26",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 62.52."
     },
     {
       "exit": 434.7,
@@ -106,8 +107,8 @@
   ],
   "summary": {
     "total_trades": 6,
-    "open": 1,
-    "closed": 5,
-    "total_pnl_pct": -16.99
+    "open": 0,
+    "closed": 6,
+    "total_pnl_pct": -14.45
   }
 }
