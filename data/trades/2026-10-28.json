@@ -8,7 +8,7 @@
       "exit_reason": null,
       "fill": 243.0,
       "fill_date": "2026-10-28",
-      "mark": 242.28,
+      "mark": 242.94,
       "mark_as_of": "2026-10-28 13:35 CT",
       "pnl_pct": null,
       "side": "long",
@@ -16,7 +16,8 @@
       "stop": 223.56,
       "target": 279.45,
       "thesis": "Q3 revenue $4.31B (+61% YoY), EPS $2.21, organic orders more than doubled, and full-year sales guidance raised by $650M to $14.65B. Data-center power/cooling leadership with a raised guide.",
-      "ticker": "VRT"
+      "ticker": "VRT",
+      "mark_date": "2026-10-28"
     },
     {
       "exit": null,
@@ -24,7 +25,7 @@
       "exit_reason": null,
       "fill": 157.76,
       "fill_date": "2026-10-28",
-      "mark": 164.38,
+      "mark": 164.7,
       "mark_as_of": "2026-10-28 13:35 CT",
       "pnl_pct": null,
       "side": "long",
@@ -32,7 +33,8 @@
       "stop": 145.14,
       "target": 181.42,
       "thesis": "Blowout Q3 \u2014 revenue ~$79B and operating profit up ~7x YoY (~80% margin), plus a 100 trillion won shareholder-return program and management saying memory shortages last through 2030.",
-      "ticker": "SKHY"
+      "ticker": "SKHY",
+      "mark_date": "2026-10-28"
     },
     {
       "exit": null,
@@ -40,7 +42,7 @@
       "exit_reason": null,
       "fill": 961.71,
       "fill_date": "2026-10-28",
-      "mark": 973.22,
+      "mark": 983.23,
       "mark_as_of": "2026-10-28 13:35 CT",
       "pnl_pct": null,
       "side": "long",
@@ -48,7 +50,8 @@
       "stop": 884.77,
       "target": 1105.97,
       "thesis": "Riding the SK hynix memory beat \u2014 memory is the morning's strongest theme, with SNDK also +4.9% and the Philly Semi index up 3.6% Tuesday.",
-      "ticker": "MU"
+      "ticker": "MU",
+      "mark_date": "2026-10-28"
     },
     {
       "exit": null,
@@ -56,7 +59,7 @@
       "exit_reason": null,
       "fill": 89.5,
       "fill_date": "2026-10-28",
-      "mark": 92.48,
+      "mark": 93.03,
       "mark_as_of": "2026-10-28 13:35 CT",
       "pnl_pct": null,
       "side": "long",
@@ -64,7 +67,8 @@
       "stop": 82.34,
       "target": 102.92,
       "thesis": "Fiscal Q2 sales $8.5B (+25%), adjusted EPS $1.18 vs. $0.79 a year ago, and a raised annual forecast. Data-center/AI hardware exposure with an upgraded guide.",
-      "ticker": "FLEX"
+      "ticker": "FLEX",
+      "mark_date": "2026-10-28"
     },
     {
       "exit": null,
@@ -72,7 +76,7 @@
       "exit_reason": null,
       "fill": 876.38,
       "fill_date": "2026-10-28",
-      "mark": 883.75,
+      "mark": 878.03,
       "mark_as_of": "2026-10-28 13:35 CT",
       "pnl_pct": null,
       "side": "long",
@@ -80,21 +84,22 @@
       "stop": 806.27,
       "target": 1007.84,
       "thesis": "Beat Q3 estimates ($12.64B revenue, $4.81 EPS) with organic orders nearly doubled on AI data-center power demand; moving with the power-infrastructure theme alongside VRT and BE.",
-      "ticker": "GEV"
+      "ticker": "GEV",
+      "mark_date": "2026-10-28"
     }
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 25.76,
+      "exit_date": "2026-10-28",
+      "exit_reason": "Stop hit \u2014 day high 25.9499 >= stop 25.76.",
       "fill": 23.85,
       "fill_date": "2026-10-28",
       "mark": 24.71,
       "mark_as_of": "2026-10-28 13:35 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.01,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 25.76,
       "target": 20.27,
       "thesis": "Q3 miss (revenue $293M vs. ~$304M expected, non-GAAP EPS $0.41 vs. $0.51) and a weak Q4 guide ($225-255M vs. ~$298M expected), with U.S. residential solar demand down and tariff margin pressure.",
@@ -106,7 +111,7 @@
       "exit_reason": null,
       "fill": 99.89,
       "fill_date": "2026-10-28",
-      "mark": 97.86,
+      "mark": 98.27,
       "mark_as_of": "2026-10-28 13:30 CT",
       "pnl_pct": null,
       "side": "short",
@@ -114,19 +119,20 @@
       "stop": 107.88,
       "target": 84.91,
       "thesis": "Warned of a $70-80M revenue hit from a supplier incident \u2014 a sudden, hard-to-quantify supply-chain shock.",
-      "ticker": "LOGI"
+      "ticker": "LOGI",
+      "mark_date": "2026-10-28"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 4.97,
+      "exit_date": "2026-10-28",
+      "exit_reason": "Stop hit \u2014 day high 5.6954 >= stop 4.97.",
       "fill": 4.6,
       "fill_date": "2026-10-28",
       "mark": 5.15,
       "mark_as_of": "2026-10-28 13:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.04,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 4.97,
       "target": 3.91,
       "thesis": "Fading hard after Tuesday's +73% regular-session surge \u2014 a classic post-parabola reversal; avoid chasing either direction.",
@@ -134,9 +140,9 @@
     }
   ],
   "summary": {
-    "closed": 0,
-    "open": 8,
-    "total_pnl_pct": 0,
-    "total_trades": 8
+    "total_trades": 8,
+    "open": 6,
+    "closed": 2,
+    "total_pnl_pct": -16.05
   }
 }

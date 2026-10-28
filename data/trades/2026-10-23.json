@@ -54,7 +54,7 @@
       "ticker": "NOK",
       "side": "long",
       "fill_date": "2026-10-23",
-      "mark": 9.16,
+      "mark": 9.22,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 8.08,
       "stop": 7.43,
@@ -64,7 +64,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Rebound after Thursday's post-earnings selloff \u2014 washout-reversal setup on ~10x relative volume; Q3 net sales +10% YoY, AI/cloud revenue +123%.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     },
     {
       "ticker": "CCI",
@@ -75,12 +75,13 @@
       "fill": 91.02,
       "stop": 83.74,
       "target": 104.67,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 83.74,
+      "exit_date": "2026-10-28",
+      "pnl_pct": -8.0,
       "thesis": "Defensive tower REIT bid on the 10-yr's -18.5bp collapse \u2014 rate-sensitivity rotation; SBAC (+5.5%) and AMT (+5.4%) moving too.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-27",
+      "exit_reason": "Stop hit \u2014 day low 83.72 <= stop 83.74."
     }
   ],
   "shorts": [
@@ -88,7 +89,7 @@
       "ticker": "DECK",
       "side": "short",
       "fill_date": "2026-10-23",
-      "mark": 80.35,
+      "mark": 80.74,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 80.44,
       "stop": 86.88,
@@ -98,13 +99,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q2 revenue $1.48B missed $1.51B consensus; cautious FY outlook on a promotional US retail environment and Europe logistics disruption.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     },
     {
       "ticker": "TMUS",
       "side": "short",
       "fill_date": "2026-10-23",
-      "mark": 145.63,
+      "mark": 148.08,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 150.6,
       "stop": 162.65,
@@ -114,7 +115,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Reports of SpaceX aggressively expanding wireless coverage toward 80,000 cell sites \u2014 competitive overhang on carriers.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     },
     {
       "ticker": "TTMI",
@@ -136,8 +137,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 4,
-    "closed": 4,
-    "total_pnl_pct": -32.04
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": -40.04
   }
 }

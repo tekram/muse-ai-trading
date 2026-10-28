@@ -3,20 +3,21 @@
   "date": "2026-10-22",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 103.2,
+      "exit_date": "2026-10-28",
       "fill": 108.6,
       "fill_date": "2026-10-22",
-      "pnl_pct": null,
+      "pnl_pct": -4.97,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 99.91,
       "target": 124.89,
       "thesis": "Q3 beat ($1.64 vs $1.58 EPS), revenue beat, avg analyst PT raised to $127; +10.5% premarket, breaking above the $112.15 52-week high. Note: regular-session open (108.60) faded well below the ~$119 premarket indication \u2014 the gap did not hold into the cash session.",
       "ticker": "SEIC",
       "mark": 103.28,
       "mark_as_of": "2026-10-28 13:30 CT",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-27",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 103.2."
     },
     {
       "exit": 3.97,
@@ -47,36 +48,38 @@
       "exit_reason": "Stop hit \u2014 day low 9.84 <= stop 10.08."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 538.4,
+      "exit_date": "2026-10-28",
       "fill": 561.29,
       "fill_date": "2026-10-22",
-      "pnl_pct": null,
+      "pnl_pct": -4.08,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 516.39,
       "target": 645.48,
       "thesis": "Q4 revenue guidance above Street; MAU up 11% YoY to 788M; +5% quality large-cap gap on a real guide raise.",
       "ticker": "SPOT",
       "mark": 539.53,
       "mark_as_of": "2026-10-28 13:30 CT",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-27",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 538.4."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 629.75,
+      "exit_date": "2026-10-28",
       "fill": 579.51,
       "fill_date": "2026-10-22",
-      "pnl_pct": null,
+      "pnl_pct": 8.67,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 533.15,
       "target": 666.44,
       "thesis": "Q3 beat with raised 2026 EPS and revenue guidance; +3% defense bid alongside the oil/geopolitics spike.",
       "ticker": "LMT",
       "mark": 625.34,
       "mark_as_of": "2026-10-28 13:35 CT",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-27",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 629.75."
     },
     {
       "exit": 1.55,
@@ -95,20 +98,21 @@
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 253.26,
+      "exit_date": "2026-10-28",
       "fill": 234.5,
       "fill_date": "2026-10-22",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 253.26,
       "target": 199.33,
       "thesis": "Record Q3 revenue ($8.22B) and $2.20 adj EPS, but Dec-quarter guide barely clears consensus with China revenue seen declining and shipments pushed to March; Morgan Stanley cut PT to $339; -7.7% premarket, rallies look sellable.",
       "ticker": "LRCX",
       "mark": 255.27,
       "mark_as_of": "2026-10-28 13:35 CT",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-27",
+      "exit_reason": "Stop hit \u2014 day high 257.6 >= stop 253.26."
     },
     {
       "exit": 404.23,
@@ -144,8 +148,8 @@
   ],
   "summary": {
     "total_trades": 9,
-    "open": 4,
-    "closed": 5,
-    "total_pnl_pct": -39.72
+    "open": 0,
+    "closed": 9,
+    "total_pnl_pct": -48.1
   }
 }

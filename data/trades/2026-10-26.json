@@ -38,7 +38,7 @@
       "ticker": "META",
       "side": "long",
       "fill_date": "2026-10-26",
-      "mark": 611.03,
+      "mark": 612.49,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 638.36,
       "stop": 587.29,
@@ -48,13 +48,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Rebound above prior-day high ($648.04) after last week's selloff on a raised AI-spending forecast and a new stock sale; the AI-spend overhang is still unresolved.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     },
     {
       "ticker": "TSLA",
       "side": "long",
       "fill_date": "2026-10-26",
-      "mark": 403.8,
+      "mark": 404.22,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 383.83,
       "stop": 353.12,
@@ -64,13 +64,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Above prior-day high ($377.32); led the megacap advance (+2.1%) after the S&P's two straight weekly losses.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     },
     {
       "ticker": "MSFT",
       "side": "long",
       "fill_date": "2026-10-26",
-      "mark": 528.63,
+      "mark": 531.01,
       "mark_as_of": "2026-10-28 13:35 CT",
       "fill": 527.4,
       "stop": 485.21,
@@ -80,7 +80,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Above prior-day high ($525.77); pre-earnings momentum setup \u2014 earnings land Wednesday after the close.",
-      "mark_date": "2026-10-27"
+      "mark_date": "2026-10-28"
     }
   ],
   "shorts": [
