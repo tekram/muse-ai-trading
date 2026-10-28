@@ -1,0 +1,126 @@
+{
+  "brief": "premarket brief 2026-10-28 07:13 CT",
+  "date": "2026-10-28",
+  "longs": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 243.0,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 223.56,
+      "target": 279.45,
+      "thesis": "Q3 revenue $4.31B (+61% YoY), EPS $2.21, organic orders more than doubled, and full-year sales guidance raised by $650M to $14.65B. Data-center power/cooling leadership with a raised guide.",
+      "ticker": "VRT"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 157.76,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 145.14,
+      "target": 181.42,
+      "thesis": "Blowout Q3 \u2014 revenue ~$79B and operating profit up ~7x YoY (~80% margin), plus a 100 trillion won shareholder-return program and management saying memory shortages last through 2030.",
+      "ticker": "SKHY"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 961.71,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 884.77,
+      "target": 1105.97,
+      "thesis": "Riding the SK hynix memory beat \u2014 memory is the morning's strongest theme, with SNDK also +4.9% and the Philly Semi index up 3.6% Tuesday.",
+      "ticker": "MU"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 89.5,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 82.34,
+      "target": 102.92,
+      "thesis": "Fiscal Q2 sales $8.5B (+25%), adjusted EPS $1.18 vs. $0.79 a year ago, and a raised annual forecast. Data-center/AI hardware exposure with an upgraded guide.",
+      "ticker": "FLEX"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 876.38,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 806.27,
+      "target": 1007.84,
+      "thesis": "Beat Q3 estimates ($12.64B revenue, $4.81 EPS) with organic orders nearly doubled on AI data-center power demand; moving with the power-infrastructure theme alongside VRT and BE.",
+      "ticker": "GEV"
+    }
+  ],
+  "shorts": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 23.85,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 25.76,
+      "target": 20.27,
+      "thesis": "Q3 miss (revenue $293M vs. ~$304M expected, non-GAAP EPS $0.41 vs. $0.51) and a weak Q4 guide ($225-255M vs. ~$298M expected), with U.S. residential solar demand down and tariff margin pressure.",
+      "ticker": "ENPH"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 99.89,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 107.88,
+      "target": 84.91,
+      "thesis": "Warned of a $70-80M revenue hit from a supplier incident \u2014 a sudden, hard-to-quantify supply-chain shock.",
+      "ticker": "LOGI"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 4.6,
+      "fill_date": "2026-10-28",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 4.97,
+      "target": 3.91,
+      "thesis": "Fading hard after Tuesday's +73% regular-session surge \u2014 a classic post-parabola reversal; avoid chasing either direction.",
+      "ticker": "NUWE"
+    }
+  ],
+  "summary": {
+    "closed": 0,
+    "open": 8,
+    "total_pnl_pct": 0,
+    "total_trades": 8
+  }
+}
