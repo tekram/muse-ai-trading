@@ -857,12 +857,60 @@
       "pnl": -8.04,
       "side": "short",
       "ticker": "NUWE"
+    },
+    {
+      "date": "2026-10-23",
+      "ticker": "NOK",
+      "side": "long",
+      "fill": 8.08,
+      "exit": 9.29,
+      "pnl": 14.98
+    },
+    {
+      "date": "2026-10-23",
+      "ticker": "DECK",
+      "side": "short",
+      "fill": 80.44,
+      "exit": 82.76,
+      "pnl": -2.88
+    },
+    {
+      "date": "2026-10-23",
+      "ticker": "TMUS",
+      "side": "short",
+      "fill": 150.6,
+      "exit": 147.29,
+      "pnl": 2.2
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "WHR",
+      "side": "short",
+      "fill": 26.85,
+      "exit": 29.0,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "GKOS",
+      "side": "long",
+      "fill": 211.0,
+      "exit": 242.65,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "FTNT",
+      "side": "short",
+      "fill": 127.96,
+      "exit": 138.2,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -155.47,
-  "total_pnl_pct": -155.47,
-  "total_trades": 105,
-  "updated_at": "2026-10-29 13:52 UTC",
-  "win_rate": 39.05,
-  "wins": 41
+  "total_pnl": -142.18,
+  "total_pnl_pct": -142.18,
+  "total_trades": 111,
+  "updated_at": "2026-10-29 21:17 UTC",
+  "win_rate": 39.64,
+  "wins": 44
 }

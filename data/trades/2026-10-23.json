@@ -59,12 +59,13 @@
       "fill": 8.08,
       "stop": 7.43,
       "target": 9.29,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 9.29,
+      "exit_date": "2026-10-29",
+      "pnl_pct": 14.98,
       "thesis": "Rebound after Thursday's post-earnings selloff \u2014 washout-reversal setup on ~10x relative volume; Q3 net sales +10% YoY, AI/cloud revenue +123%.",
-      "mark_date": "2026-10-28"
+      "mark_date": "2026-10-28",
+      "exit_reason": "Target hit (+15% at 9.29)."
     },
     {
       "ticker": "CCI",
@@ -94,12 +95,13 @@
       "fill": 80.44,
       "stop": 86.88,
       "target": 68.37,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 82.76,
+      "exit_date": "2026-10-29",
+      "pnl_pct": -2.88,
       "thesis": "Q2 revenue $1.48B missed $1.51B consensus; cautious FY outlook on a promotional US retail environment and Europe logistics disruption.",
-      "mark_date": "2026-10-28"
+      "mark_date": "2026-10-28",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 82.76."
     },
     {
       "ticker": "TMUS",
@@ -110,12 +112,13 @@
       "fill": 150.6,
       "stop": 162.65,
       "target": 128.01,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 147.29,
+      "exit_date": "2026-10-29",
+      "pnl_pct": 2.2,
       "thesis": "Reports of SpaceX aggressively expanding wireless coverage toward 80,000 cell sites \u2014 competitive overhang on carriers.",
-      "mark_date": "2026-10-28"
+      "mark_date": "2026-10-28",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 147.29."
     },
     {
       "ticker": "TTMI",
@@ -137,8 +140,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": -40.04
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -25.74
   }
 }
