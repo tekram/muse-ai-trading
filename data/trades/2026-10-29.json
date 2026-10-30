@@ -8,7 +8,7 @@
       "exit_reason": null,
       "fill": 540.22,
       "fill_date": "2026-10-29",
-      "mark": 520.78,
+      "mark": 521.91,
       "mark_as_of": "2026-10-30 13:15 CT",
       "pnl_pct": null,
       "side": "long",
@@ -17,7 +17,7 @@
       "target": 621.25,
       "thesis": "Q1 FY27 beat \u2014 revenue $92.3B (+19%), adjusted EPS $4.89 vs ~$4.72\u20134.73 expected; Azure +48% to $33.2B, with guidance for 49\u201350% Azure growth next quarter.",
       "ticker": "MSFT",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-30"
     },
     {
       "exit": null,
@@ -25,7 +25,7 @@
       "exit_reason": null,
       "fill": 140.0,
       "fill_date": "2026-10-29",
-      "mark": 151.27,
+      "mark": 150.52,
       "mark_as_of": "2026-10-30 12:55 CT",
       "pnl_pct": null,
       "side": "long",
@@ -34,7 +34,7 @@
       "target": 161.0,
       "thesis": "Q3 beat and raise \u2014 revenue $1.043B (+4.6%), adjusted EPS $3.69 vs $3.31 expected; full-year guidance raised to ~3% revenue growth and adjusted EPS $14.45\u201314.65.",
       "ticker": "CROX",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-30"
     },
     {
       "exit": 242.65,
@@ -53,16 +53,16 @@
       "ticker": "GKOS"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 872.05,
+      "exit_date": "2026-10-30",
+      "exit_reason": "Stop hit \u2014 day low 805.29 <= stop 872.05.",
       "fill": 947.88,
       "fill_date": "2026-10-29",
       "mark": 821.42,
       "mark_as_of": "2026-10-30 13:20 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 872.05,
       "target": 1090.06,
       "thesis": "Bloomberg-reported late-stage talks for Marvell (MRVL) to acquire Lumentum, possibly announced as soon as next week; Lumentum optics reportedly sold out through early 2029.",
@@ -75,7 +75,7 @@
       "exit_reason": null,
       "fill": 121.96,
       "fill_date": "2026-10-29",
-      "mark": 121.85,
+      "mark": 121.64,
       "mark_as_of": "2026-10-30 13:15 CT",
       "pnl_pct": null,
       "side": "long",
@@ -84,7 +84,7 @@
       "target": 140.25,
       "thesis": "Q3 revenue +14% to $3.2B; earnings gap up in a name already up strongly on the year, with momentum carrying into the open.",
       "ticker": "EBAY",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-30"
     }
   ],
   "shorts": [
@@ -94,7 +94,7 @@
       "exit_reason": null,
       "fill": 286.88,
       "fill_date": "2026-10-29",
-      "mark": 277.85,
+      "mark": 279.84,
       "mark_as_of": "2026-10-30 13:15 CT",
       "pnl_pct": null,
       "side": "short",
@@ -103,7 +103,7 @@
       "target": 243.85,
       "thesis": "Q3 revenue $127.6B (+25%) slightly missed estimates, EPS $2.12 missed, search advertising missed, and capex guidance points to a \u201csignificant\u201d 2027 increase; free cash flow was \u2212$9.1B.",
       "ticker": "GOOGL",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-30"
     },
     {
       "exit": 138.2,
@@ -127,7 +127,7 @@
       "exit_reason": null,
       "fill": 120.91,
       "fill_date": "2026-10-29",
-      "mark": 103.81,
+      "mark": 105.12,
       "mark_as_of": "2026-10-30 13:15 CT",
       "pnl_pct": null,
       "side": "short",
@@ -136,13 +136,13 @@
       "target": 102.77,
       "thesis": "Q3 adjusted EPS $1.00 missed the $1.02 consensus and Q4 cRPO growth guidance slowed to ~18.5%, despite subscription revenue +21%.",
       "ticker": "NOW",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-30"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 6,
-    "closed": 2,
-    "total_pnl_pct": 7.0
+    "open": 5,
+    "closed": 3,
+    "total_pnl_pct": -1.0
   }
 }

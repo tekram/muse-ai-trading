@@ -906,12 +906,60 @@
       "pnl": -8.0,
       "side": "short",
       "ticker": "FTNT"
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "META",
+      "side": "long",
+      "fill": 638.36,
+      "exit": 614.99,
+      "pnl": -3.66
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "TSLA",
+      "side": "long",
+      "fill": 383.83,
+      "exit": 399.81,
+      "pnl": 4.16
+    },
+    {
+      "date": "2026-10-26",
+      "ticker": "MSFT",
+      "side": "long",
+      "fill": 527.4,
+      "exit": 521.91,
+      "pnl": -1.04
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "MU",
+      "side": "long",
+      "fill": 961.71,
+      "exit": 884.77,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "LITE",
+      "side": "long",
+      "fill": 947.88,
+      "exit": 872.05,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "NRXP",
+      "side": "long",
+      "fill": 2.83,
+      "exit": 2.6,
+      "pnl": -8.13
     }
   ],
-  "total_pnl": -142.18,
-  "total_pnl_pct": -142.18,
-  "total_trades": 111,
-  "updated_at": "2026-10-30 13:52 UTC",
-  "win_rate": 39.64,
-  "wins": 44
+  "total_pnl": -166.85,
+  "total_pnl_pct": -166.85,
+  "total_trades": 117,
+  "updated_at": "2026-10-30 21:17 UTC",
+  "win_rate": 38.46,
+  "wins": 45
 }

@@ -43,12 +43,13 @@
       "fill": 638.36,
       "stop": 587.29,
       "target": 734.11,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 614.99,
+      "exit_date": "2026-10-30",
+      "pnl_pct": -3.66,
       "thesis": "Rebound above prior-day high ($648.04) after last week's selloff on a raised AI-spending forecast and a new stock sale; the AI-spend overhang is still unresolved.",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-29",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 614.99."
     },
     {
       "ticker": "TSLA",
@@ -59,12 +60,13 @@
       "fill": 383.83,
       "stop": 353.12,
       "target": 441.4,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 399.81,
+      "exit_date": "2026-10-30",
+      "pnl_pct": 4.16,
       "thesis": "Above prior-day high ($377.32); led the megacap advance (+2.1%) after the S&P's two straight weekly losses.",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-29",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 399.81."
     },
     {
       "ticker": "MSFT",
@@ -75,12 +77,13 @@
       "fill": 527.4,
       "stop": 485.21,
       "target": 606.51,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 521.91,
+      "exit_date": "2026-10-30",
+      "pnl_pct": -1.04,
       "thesis": "Above prior-day high ($525.77); pre-earnings momentum setup \u2014 earnings land Wednesday after the close.",
-      "mark_date": "2026-10-29"
+      "mark_date": "2026-10-29",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 521.91."
     }
   ],
   "shorts": [
@@ -135,8 +138,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": -40.17
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -40.71
   }
 }
