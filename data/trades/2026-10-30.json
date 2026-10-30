@@ -1,0 +1,126 @@
+{
+  "brief": "premarket brief 2026-10-30 07:13 CT",
+  "date": "2026-10-30",
+  "longs": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 80.62,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 74.17,
+      "target": 92.71,
+      "thesis": "Q3 revenue +39% to $139.4M, testing-services revenue +65%, raised 2026 guide to $520-530M revenue and $90-100M adjusted EBITDA.",
+      "ticker": "CDNA"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 12.1,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 11.13,
+      "target": 13.92,
+      "thesis": "Q3 beat - revenue $2.16B (+38%), record deliveries of 19,248, raised 2026 delivery outlook plus a Jefferies upgrade back to Buy.",
+      "ticker": "RIVN"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 183.59,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 168.9,
+      "target": 211.13,
+      "thesis": "Q3 beat - revenue $16.21B (+7%), core EPS $2.79 (+17-19%), oncology revenue +17%, full-year guidance reiterated; gapping toward a 200-day reclaim.",
+      "ticker": "AZN"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 185.98,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 171.1,
+      "target": 213.88,
+      "thesis": "Q3 adjusted EPS $4.23 beat, with refining earnings now rivaling upstream on war-driven refining margins; energy is the morning's defensive leadership.",
+      "ticker": "XOM"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 2.83,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 2.6,
+      "target": 3.25,
+      "thesis": "Regulatory milestone for its preservative-free ketamine program - 8:30 AM ET call today, following an FDA Orange Book listing for its generic ketamine ANDA on Oct 28.",
+      "ticker": "NRXP"
+    }
+  ],
+  "shorts": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 68.36,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 73.83,
+      "target": 58.11,
+      "thesis": "Weak Q4 outlook - PC slowdown plus a two-week Kiryat Gat fab shutdown cutting ~$300M from Q4 revenue - overshadowing a mixed Q3.",
+      "ticker": "INTC"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 232.54,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 251.14,
+      "target": 197.66,
+      "thesis": "Q3 miss - adjusted EPS $1.89 vs ~$1.96-1.97 expected, ~$220B 2026 capex plan; gap down toward/below its long-term 200-day moving average.",
+      "ticker": "AMZN"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "exit_reason": null,
+      "fill": 100.25,
+      "fill_date": "2026-10-30",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 108.27,
+      "target": 85.21,
+      "thesis": "Q4 revenue outlook below consensus, plus search-traffic losses to Google AI and a Citizens downgrade; extending a -15% five-day slide.",
+      "ticker": "RDDT"
+    }
+  ],
+  "summary": {
+    "closed": 0,
+    "open": 8,
+    "total_pnl_pct": 0,
+    "total_trades": 8
+  }
+}
