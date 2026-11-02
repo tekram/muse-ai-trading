@@ -955,12 +955,68 @@
       "fill": 2.83,
       "exit": 2.6,
       "pnl": -8.13
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "MFIC",
+      "side": "long",
+      "fill": 10.2,
+      "exit": 10.29,
+      "pnl": 0.88
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "CART",
+      "side": "long",
+      "fill": 60.38,
+      "exit": 57.59,
+      "pnl": -4.62
+    },
+    {
+      "date": "2026-10-27",
+      "ticker": "HSBC",
+      "side": "short",
+      "fill": 85.55,
+      "exit": 85.91,
+      "pnl": -0.42
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "AMZN",
+      "side": "short",
+      "fill": 232.54,
+      "exit": 251.14,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "INO",
+      "side": "long",
+      "fill": 1.99,
+      "exit": 1.83,
+      "pnl": -8.04
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "OKTA",
+      "side": "long",
+      "fill": 205.0,
+      "exit": 188.6,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "CLRO",
+      "side": "long",
+      "fill": 6.69,
+      "exit": 6.15,
+      "pnl": -8.07
     }
   ],
-  "total_pnl": -166.85,
-  "total_pnl_pct": -166.85,
-  "total_trades": 117,
-  "updated_at": "2026-11-02 14:52 UTC",
-  "win_rate": 38.46,
-  "wins": 45
+  "total_pnl": -203.12,
+  "total_pnl_pct": -203.12,
+  "total_trades": 124,
+  "updated_at": "2026-11-02 22:19 UTC",
+  "win_rate": 37.1,
+  "wins": 46
 }
