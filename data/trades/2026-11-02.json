@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-02",
+  "brief": "premarket brief 2026-11-02 07:13 CT",
+  "longs": [
+    {
+      "ticker": "INO",
+      "side": "long",
+      "fill_date": "2026-11-02",
+      "fill": 1.99,
+      "stop": 1.83,
+      "target": 2.29,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "FDA granted accelerated approval for Voceryq (INO-3107), the first plasmid DNA-based immunotherapy approved in the U.S., for recurrent respiratory papillomatosis; +~167-240% premarket on huge volume."
+    },
+    {
+      "ticker": "PERI",
+      "side": "long",
+      "fill_date": "2026-11-02",
+      "fill": 11.42,
+      "stop": 10.51,
+      "target": 13.13,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Affle agreed to acquire Perion for $11.70/share in cash (~$420M), a 34.5% premium to Friday's $8.70 close; gapping toward the deal price, which caps upside."
+    },
+    {
+      "ticker": "OKTA",
+      "side": "long",
+      "fill_date": "2026-11-02",
+      "fill": 205.0,
+      "stop": 188.6,
+      "target": 235.75,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "S&P Dow Jones announced Okta joins the S&P 500 before the open Wed Nov 4, replacing Kenvue; rebounding after a -6.1% Friday drop to $208.24."
+    },
+    {
+      "ticker": "ECHO",
+      "side": "long",
+      "fill_date": "2026-11-02",
+      "fill": 101.12,
+      "stop": 93.03,
+      "target": 116.29,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Report that SpaceX is in talks to buy Boost Mobile or gain access to its network for a Starlink Mobile wireless service; no deal confirmed, no price reported."
+    },
+    {
+      "ticker": "CLRO",
+      "side": "long",
+      "fill_date": "2026-11-02",
+      "fill": 6.69,
+      "stop": 6.15,
+      "target": 7.69,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "After-hours bounce / unusual volume with no fresh company announcement found; high-risk momentum name only, with conflicting premarket snapshots."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "INTC",
+      "side": "short",
+      "fill_date": "2026-11-02",
+      "fill": 65.4,
+      "stop": 70.63,
+      "target": 55.59,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 beat but Q4 guide badly missed ($15-16B revenue, $0.25 EPS vs ~$17.1B / ~$0.43 expected); -28.6% Friday to $65.76 on record volume, Bank of America downgrade."
+    },
+    {
+      "ticker": "KOS",
+      "side": "short",
+      "fill_date": "2026-11-02",
+      "fill": 2.55,
+      "stop": 2.75,
+      "target": 2.17,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 missed on both lines (EPS $0.06 vs ~$0.13, revenue ~$410M vs ~$466M, net loss $43M); Q4 production guided below Q3, compounded by crude falling ~4%."
+    },
+    {
+      "ticker": "TMUS",
+      "side": "short",
+      "fill_date": "2026-11-02",
+      "fill": 153.66,
+      "stop": 165.95,
+      "target": 130.61,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline."
+    },
+    {
+      "ticker": "T",
+      "side": "short",
+      "fill_date": "2026-11-02",
+      "fill": 21.1,
+      "stop": 22.79,
+      "target": 17.94,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline."
+    },
+    {
+      "ticker": "VZ",
+      "side": "short",
+      "fill_date": "2026-11-02",
+      "fill": 44.03,
+      "stop": 47.55,
+      "target": 37.43,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline."
+    }
+  ],
+  "summary": {
+    "total_trades": 10,
+    "open": 10,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
