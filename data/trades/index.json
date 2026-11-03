@@ -1012,12 +1012,76 @@
       "pnl": -8.07,
       "side": "long",
       "ticker": "CLRO"
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "VRT",
+      "side": "long",
+      "fill": 243.0,
+      "exit": 235.97,
+      "pnl": -2.89
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "SKHY",
+      "side": "long",
+      "fill": 157.76,
+      "exit": 150.79,
+      "pnl": -4.42
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "FLEX",
+      "side": "long",
+      "fill": 89.5,
+      "exit": 88.1,
+      "pnl": -1.56
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "GEV",
+      "side": "long",
+      "fill": 876.38,
+      "exit": 918.2,
+      "pnl": 4.77
+    },
+    {
+      "date": "2026-10-28",
+      "ticker": "LOGI",
+      "side": "short",
+      "fill": 99.89,
+      "exit": 92.85,
+      "pnl": 7.05
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "MDGL",
+      "side": "long",
+      "fill": 449.32,
+      "exit": 413.37,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "BLZE",
+      "side": "long",
+      "fill": 9.67,
+      "exit": 8.9,
+      "pnl": -7.96
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "SHOP",
+      "side": "short",
+      "fill": 136.43,
+      "exit": 147.34,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -203.12,
-  "total_pnl_pct": -203.12,
-  "total_trades": 124,
-  "updated_at": "2026-11-03 14:51 UTC",
-  "win_rate": 37.1,
-  "wins": 46
+  "total_pnl": -224.13,
+  "total_pnl_pct": -224.13,
+  "total_trades": 132,
+  "updated_at": "2026-11-03 22:17 UTC",
+  "win_rate": 36.36,
+  "wins": 48
 }
