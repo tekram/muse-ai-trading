@@ -17,7 +17,8 @@
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
-    "2026-11-02"
+    "2026-11-02",
+    "2026-11-03"
   ],
   "recent": [
     {
@@ -910,113 +911,113 @@
     },
     {
       "date": "2026-10-26",
-      "ticker": "META",
-      "side": "long",
-      "fill": 638.36,
       "exit": 614.99,
-      "pnl": -3.66
+      "fill": 638.36,
+      "pnl": -3.66,
+      "side": "long",
+      "ticker": "META"
     },
     {
       "date": "2026-10-26",
-      "ticker": "TSLA",
-      "side": "long",
-      "fill": 383.83,
       "exit": 399.81,
-      "pnl": 4.16
+      "fill": 383.83,
+      "pnl": 4.16,
+      "side": "long",
+      "ticker": "TSLA"
     },
     {
       "date": "2026-10-26",
-      "ticker": "MSFT",
-      "side": "long",
-      "fill": 527.4,
       "exit": 521.91,
-      "pnl": -1.04
+      "fill": 527.4,
+      "pnl": -1.04,
+      "side": "long",
+      "ticker": "MSFT"
     },
     {
       "date": "2026-10-28",
-      "ticker": "MU",
-      "side": "long",
-      "fill": 961.71,
       "exit": 884.77,
-      "pnl": -8.0
+      "fill": 961.71,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MU"
     },
     {
       "date": "2026-10-29",
-      "ticker": "LITE",
-      "side": "long",
-      "fill": 947.88,
       "exit": 872.05,
-      "pnl": -8.0
+      "fill": 947.88,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "LITE"
     },
     {
       "date": "2026-10-30",
-      "ticker": "NRXP",
-      "side": "long",
-      "fill": 2.83,
       "exit": 2.6,
-      "pnl": -8.13
+      "fill": 2.83,
+      "pnl": -8.13,
+      "side": "long",
+      "ticker": "NRXP"
     },
     {
       "date": "2026-10-27",
-      "ticker": "MFIC",
-      "side": "long",
-      "fill": 10.2,
       "exit": 10.29,
-      "pnl": 0.88
-    },
-    {
-      "date": "2026-10-27",
-      "ticker": "CART",
+      "fill": 10.2,
+      "pnl": 0.88,
       "side": "long",
-      "fill": 60.38,
-      "exit": 57.59,
-      "pnl": -4.62
+      "ticker": "MFIC"
     },
     {
       "date": "2026-10-27",
-      "ticker": "HSBC",
-      "side": "short",
-      "fill": 85.55,
+      "exit": 57.59,
+      "fill": 60.38,
+      "pnl": -4.62,
+      "side": "long",
+      "ticker": "CART"
+    },
+    {
+      "date": "2026-10-27",
       "exit": 85.91,
-      "pnl": -0.42
+      "fill": 85.55,
+      "pnl": -0.42,
+      "side": "short",
+      "ticker": "HSBC"
     },
     {
       "date": "2026-10-30",
-      "ticker": "AMZN",
-      "side": "short",
-      "fill": 232.54,
       "exit": 251.14,
-      "pnl": -8.0
+      "fill": 232.54,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "AMZN"
     },
     {
       "date": "2026-11-02",
-      "ticker": "INO",
-      "side": "long",
-      "fill": 1.99,
       "exit": 1.83,
-      "pnl": -8.04
+      "fill": 1.99,
+      "pnl": -8.04,
+      "side": "long",
+      "ticker": "INO"
     },
     {
       "date": "2026-11-02",
-      "ticker": "OKTA",
-      "side": "long",
-      "fill": 205.0,
       "exit": 188.6,
-      "pnl": -8.0
+      "fill": 205.0,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "OKTA"
     },
     {
       "date": "2026-11-02",
-      "ticker": "CLRO",
-      "side": "long",
-      "fill": 6.69,
       "exit": 6.15,
-      "pnl": -8.07
+      "fill": 6.69,
+      "pnl": -8.07,
+      "side": "long",
+      "ticker": "CLRO"
     }
   ],
   "total_pnl": -203.12,
   "total_pnl_pct": -203.12,
   "total_trades": 124,
-  "updated_at": "2026-11-02 22:19 UTC",
+  "updated_at": "2026-11-03 14:51 UTC",
   "win_rate": 37.1,
   "wins": 46
 }

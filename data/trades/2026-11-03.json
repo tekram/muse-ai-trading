@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-03",
+  "brief": "premarket brief 2026-11-03 07:13 CT",
+  "longs": [
+    {
+      "ticker": "MDGL",
+      "side": "long",
+      "fill_date": "2026-11-03",
+      "fill": 449.32,
+      "stop": 413.37,
+      "target": 516.72,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 results before the open \u2014 Rezdiffra net sales $431.3M, +50% year over year, first quarter of profitability, year-to-date sales past $1.1B; +14.1% premarket."
+    },
+    {
+      "ticker": "BLZE",
+      "side": "long",
+      "fill_date": "2026-11-03",
+      "fill": 9.67,
+      "stop": 8.9,
+      "target": 11.12,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 (Nov 2 after close) \u2014 EPS $0.09 beat by $0.03, revenue $46.65M (+25.5% year over year) beat by ~$2M, B2 cloud revenue +47%, and full-year revenue guidance raised ~$5M at the midpoint."
+    },
+    {
+      "ticker": "LSCC",
+      "side": "long",
+      "fill_date": "2026-11-03",
+      "fill": 107.0,
+      "stop": 98.44,
+      "target": 123.05,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Semiconductor rebound \u2014 SOXX +2.70% premarket after \u22123.79% Monday; no single Lattice company headline confirmed, a sector-bounce gap after a weak month (down ~29% over the prior 30 days)."
+    },
+    {
+      "ticker": "GRAB",
+      "side": "long",
+      "fill_date": "2026-11-03",
+      "fill": 3.21,
+      "stop": 2.95,
+      "target": 3.69,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 revenue up 27% with guidance raised, per Benzinga's after-hours report; gap from a low base (prior close ~$2.86) with heavy premarket volume."
+    },
+    {
+      "ticker": "BE",
+      "side": "long",
+      "fill_date": "2026-11-03",
+      "fill": 210.33,
+      "stop": 193.5,
+      "target": 241.88,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Theme-driven \u2014 energy outperforming as oil rebounds plus AI-power/infrastructure demand; no fresh Bloom-specific earnings headline confirmed this morning."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "SHOP",
+      "side": "short",
+      "fill_date": "2026-11-03",
+      "fill": 136.43,
+      "stop": 147.34,
+      "target": 115.97,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 beat on EPS ($0.49 vs $0.47) but revenue $3.74B roughly in line to slightly below estimates, GMV $119.1\u2013$119.2B vs ~$120B+ expected, and gross operating profit $1.781B vs $1.799B expected; gapping below its 50-day moving average and a $151.29 cup-with-handle buy point."
+    },
+    {
+      "ticker": "DT",
+      "side": "short",
+      "fill_date": "2026-11-03",
+      "fill": 46.0,
+      "stop": 49.68,
+      "target": 39.1,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Fiscal Q2 beat (EPS $0.54 vs $0.49, revenue $579.9M vs $568M) spoiled by guidance \u2014 current-quarter EPS guide $0.44\u2013$0.45 vs ~$0.51 expected, full-year EPS guide cut to $1.88\u2013$1.90 vs $1.96 expected, with the Arize acquisition cited."
+    },
+    {
+      "ticker": "PLTR",
+      "side": "short",
+      "fill_date": "2026-11-03",
+      "fill": 168.18,
+      "stop": 181.63,
+      "target": 142.95,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Sell-the-news despite a beat \u2014 Q3 revenue $2.313B (+96%) vs ~$2.17B expected, EPS $0.44 vs $0.40, full-year guide raised to ~$8.53B \u2014 with attention on Q3 closed contract value of $2.9B, down from the prior quarter."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
