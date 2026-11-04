@@ -8,7 +8,7 @@
       "exit_reason": null,
       "fill": 80.62,
       "fill_date": "2026-10-30",
-      "mark": 85.07,
+      "mark": 85.86,
       "mark_as_of": "2026-11-04 14:05 CT",
       "pnl_pct": null,
       "side": "long",
@@ -17,19 +17,19 @@
       "target": 92.71,
       "thesis": "Q3 revenue +39% to $139.4M, testing-services revenue +65%, raised 2026 guide to $520-530M revenue and $90-100M adjusted EBITDA.",
       "ticker": "CDNA",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 13.92,
+      "exit_date": "2026-11-04",
+      "exit_reason": "Target hit (+15% at 13.92).",
       "fill": 12.1,
       "fill_date": "2026-10-30",
       "mark": 14.0,
       "mark_as_of": "2026-11-04 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": 15.04,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 11.13,
       "target": 13.92,
       "thesis": "Q3 beat - revenue $2.16B (+38%), record deliveries of 19,248, raised 2026 delivery outlook plus a Jefferies upgrade back to Buy.",
@@ -42,7 +42,7 @@
       "exit_reason": null,
       "fill": 183.59,
       "fill_date": "2026-10-30",
-      "mark": 189.36,
+      "mark": 189.01,
       "mark_as_of": "2026-11-04 14:05 CT",
       "pnl_pct": null,
       "side": "long",
@@ -51,19 +51,19 @@
       "target": 211.13,
       "thesis": "Q3 beat - revenue $16.21B (+7%), core EPS $2.79 (+17-19%), oncology revenue +17%, full-year guidance reiterated; gapping toward a 200-day reclaim.",
       "ticker": "AZN",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 171.1,
+      "exit_date": "2026-11-04",
+      "exit_reason": "Stop hit \u2014 day low 167.39 <= stop 171.1.",
       "fill": 185.98,
       "fill_date": "2026-10-30",
       "mark": 168.76,
       "mark_as_of": "2026-11-04 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 171.1,
       "target": 213.88,
       "thesis": "Q3 adjusted EPS $4.23 beat, with refining earnings now rivaling upstream on war-driven refining margins; energy is the morning's defensive leadership.",
@@ -89,16 +89,16 @@
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 58.11,
+      "exit_date": "2026-11-04",
+      "exit_reason": "Target hit (+15% at 58.11).",
       "fill": 68.36,
       "fill_date": "2026-10-30",
       "mark": 57.9,
       "mark_as_of": "2026-11-04 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": 14.99,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 73.83,
       "target": 58.11,
       "thesis": "Weak Q4 outlook - PC slowdown plus a two-week Kiryat Gat fab shutdown cutting ~$300M from Q4 revenue - overshadowing a mixed Q3.",
@@ -128,7 +128,7 @@
       "exit_reason": null,
       "fill": 100.25,
       "fill_date": "2026-10-30",
-      "mark": 100.81,
+      "mark": 101.89,
       "mark_as_of": "2026-11-04 14:05 CT",
       "pnl_pct": null,
       "side": "short",
@@ -137,13 +137,13 @@
       "target": 85.21,
       "thesis": "Q4 revenue outlook below consensus, plus search-traffic losses to Google AI and a Citizens downgrade; extending a -15% five-day slide.",
       "ticker": "RDDT",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 6,
-    "closed": 2,
-    "total_pnl_pct": -16.13
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": 5.9
   }
 }

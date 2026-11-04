@@ -1077,12 +1077,124 @@
       "fill": 136.43,
       "exit": 147.34,
       "pnl": -8.0
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "MSFT",
+      "side": "long",
+      "fill": 540.22,
+      "exit": 555.8,
+      "pnl": 2.88
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "CROX",
+      "side": "long",
+      "fill": 140.0,
+      "exit": 161.0,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "EBAY",
+      "side": "long",
+      "fill": 121.96,
+      "exit": 125.15,
+      "pnl": 2.62
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "GOOGL",
+      "side": "short",
+      "fill": 286.88,
+      "exit": 288.93,
+      "pnl": -0.71
+    },
+    {
+      "date": "2026-10-29",
+      "ticker": "NOW",
+      "side": "short",
+      "fill": 120.91,
+      "exit": 108.81,
+      "pnl": 10.01
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "RIVN",
+      "side": "long",
+      "fill": 12.1,
+      "exit": 13.92,
+      "pnl": 15.04
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "XOM",
+      "side": "long",
+      "fill": 185.98,
+      "exit": 171.1,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "INTC",
+      "side": "short",
+      "fill": 68.36,
+      "exit": 58.11,
+      "pnl": 14.99
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "KOS",
+      "side": "short",
+      "fill": 2.55,
+      "exit": 2.17,
+      "pnl": 14.9
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "BE",
+      "side": "long",
+      "fill": 210.33,
+      "exit": 193.5,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "AIOK",
+      "side": "long",
+      "fill": 11.99,
+      "exit": 11.03,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "DOX",
+      "side": "short",
+      "fill": 42.93,
+      "exit": 46.36,
+      "pnl": -7.99
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "SWKS",
+      "side": "short",
+      "fill": 73.28,
+      "exit": 79.14,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "DJT",
+      "side": "short",
+      "fill": 5.37,
+      "exit": 4.56,
+      "pnl": 15.08
     }
   ],
-  "total_pnl": -224.13,
-  "total_pnl_pct": -224.13,
-  "total_trades": 132,
-  "updated_at": "2026-11-04 14:52 UTC",
-  "win_rate": 36.36,
-  "wins": 48
+  "total_pnl": -174.32,
+  "total_pnl_pct": -174.32,
+  "total_trades": 146,
+  "updated_at": "2026-11-04 22:15 UTC",
+  "win_rate": 38.36,
+  "wins": 56
 }

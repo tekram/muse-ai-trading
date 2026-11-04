@@ -22,7 +22,7 @@
       "ticker": "PERI",
       "side": "long",
       "fill_date": "2026-11-02",
-      "mark": 11.41,
+      "mark": 11.45,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 11.42,
       "stop": 10.51,
@@ -32,7 +32,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Affle agreed to acquire Perion for $11.70/share in cash (~$420M), a 34.5% premium to Friday's $8.70 close; gapping toward the deal price, which caps upside.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
       "ticker": "OKTA",
@@ -54,7 +54,7 @@
       "ticker": "ECHO",
       "side": "long",
       "fill_date": "2026-11-02",
-      "mark": 99.12,
+      "mark": 98.62,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 101.12,
       "stop": 93.03,
@@ -64,7 +64,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Report that SpaceX is in talks to buy Boost Mobile or gain access to its network for a Starlink Mobile wireless service; no deal confirmed, no price reported.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
       "ticker": "CLRO",
@@ -88,7 +88,7 @@
       "ticker": "INTC",
       "side": "short",
       "fill_date": "2026-11-02",
-      "mark": 57.9,
+      "mark": 58.27,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 65.4,
       "stop": 70.63,
@@ -98,7 +98,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat but Q4 guide badly missed ($15-16B revenue, $0.25 EPS vs ~$17.1B / ~$0.43 expected); -28.6% Friday to $65.76 on record volume, Bank of America downgrade.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
       "ticker": "KOS",
@@ -109,18 +109,19 @@
       "fill": 2.55,
       "stop": 2.75,
       "target": 2.17,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 2.17,
+      "exit_date": "2026-11-04",
+      "pnl_pct": 14.9,
       "thesis": "Q3 missed on both lines (EPS $0.06 vs ~$0.13, revenue ~$410M vs ~$466M, net loss $43M); Q4 production guided below Q3, compounded by crude falling ~4%.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-03",
+      "exit_reason": "Target hit (+15% at 2.17)."
     },
     {
       "ticker": "TMUS",
       "side": "short",
       "fill_date": "2026-11-02",
-      "mark": 158.2,
+      "mark": 159.17,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 153.66,
       "stop": 165.95,
@@ -130,13 +131,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
       "ticker": "T",
       "side": "short",
       "fill_date": "2026-11-02",
-      "mark": 21.75,
+      "mark": 21.83,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 21.1,
       "stop": 22.79,
@@ -146,13 +147,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     },
     {
       "ticker": "VZ",
       "side": "short",
       "fill_date": "2026-11-02",
-      "mark": 46.1,
+      "mark": 46.17,
       "mark_as_of": "2026-11-04 14:05 CT",
       "fill": 44.03,
       "stop": 47.55,
@@ -162,13 +163,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "SpaceX/EchoStar Boost Mobile talks threaten a new satellite-powered wireless competitor; telecom incumbents down ~1-2.3% premarket on the headline.",
-      "mark_date": "2026-11-03"
+      "mark_date": "2026-11-04"
     }
   ],
   "summary": {
     "total_trades": 10,
-    "open": 7,
-    "closed": 3,
-    "total_pnl_pct": -24.11
+    "open": 6,
+    "closed": 4,
+    "total_pnl_pct": -9.21
   }
 }
