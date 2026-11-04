@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-04",
+ "brief": "premarket brief 2026-11-04 07:13 CT",
+ "longs": [
+  {
+   "ticker": "AMD",
+   "side": "long",
+   "fill_date": "2026-11-04",
+   "fill": 485.25,
+   "stop": 446.43,
+   "target": 558.04,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Record Q3 revenue $13.38B (+45% YoY), data-center revenue $8.55B (+97% YoY), non-GAAP EPS $2.09 beating estimates; Q4 revenue guided to ~$17B (+/-3%). Gapping up off a beat-and-raise, leading the chip rebound."
+  },
+  {
+   "ticker": "ANET",
+   "side": "long",
+   "fill_date": "2026-11-04",
+   "fill": 179.0,
+   "stop": 164.68,
+   "target": 205.85,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Q3 revenue $3.66B (+58.5% YoY, fastest since its IPO), above its $3.3B guide; Q4 guided to $3.9-4.0B. Earnings gap higher on its strongest growth print since listing."
+  },
+  {
+   "ticker": "FSLR",
+   "side": "long",
+   "fill_date": "2026-11-04",
+   "fill": 206.0,
+   "stop": 189.52,
+   "target": 236.9,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Solar group bid as election results were read as friendlier to clean energy. Sharp gap up with the solar theme leading this morning."
+  },
+  {
+   "ticker": "AIOK",
+   "side": "long",
+   "fill_date": "2026-11-04",
+   "fill": 11.99,
+   "stop": 11.03,
+   "target": 13.79,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Sale of its LPG carrier Dream Arrax to Robin Energy for $18M, a deal that previously drove a 138% surge on heavy volume. Low-float momentum name whipping between the low-$12s and near-$14 premarket - high volatility."
+  }
+ ],
+ "shorts": [
+  {
+   "ticker": "DOX",
+   "side": "short",
+   "fill_date": "2026-11-04",
+   "fill": 42.93,
+   "stop": 46.36,
+   "target": 36.49,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Fiscal 2027 revenue guided down 14.3-17.9% and EPS down 26-30%, citing a T-Mobile contract dispute that could end in termination; Oppenheimer downgraded to Perform. Gap-down toward its lowest since early 2013."
+  },
+  {
+   "ticker": "SWKS",
+   "side": "short",
+   "fill_date": "2026-11-04",
+   "fill": 73.28,
+   "stop": 79.14,
+   "target": 62.29,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Weak December-quarter guidance reported alongside AMD/Arista after the close. Earnings gap-down against a strong chip tape - relative weakness."
+  },
+  {
+   "ticker": "DJT",
+   "side": "short",
+   "fill_date": "2026-11-04",
+   "fill": 5.37,
+   "stop": 5.8,
+   "target": 4.56,
+   "status": "open",
+   "exit": null,
+   "exit_date": null,
+   "pnl_pct": null,
+   "thesis": "Democratic midterm sweep. Election-driven gap-down, no earnings catalyst behind it."
+  }
+ ],
+ "summary": {
+  "total_trades": 7,
+  "open": 7,
+  "closed": 0,
+  "total_pnl_pct": 0
+ }
+}
