@@ -11,12 +11,13 @@
       "fill": 485.25,
       "stop": 446.43,
       "target": 558.04,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 446.43,
+      "exit_date": "2026-11-05",
+      "pnl_pct": -8.0,
       "thesis": "Record Q3 revenue $13.38B (+45% YoY), data-center revenue $8.55B (+97% YoY), non-GAAP EPS $2.09 beating estimates; Q4 revenue guided to ~$17B (+/-3%). Gapping up off a beat-and-raise, leading the chip rebound.",
-      "mark_date": "2026-11-04"
+      "mark_date": "2026-11-04",
+      "exit_reason": "Stop hit \u2014 day low 402.1 <= stop 446.43."
     },
     {
       "ticker": "ANET",
@@ -27,12 +28,13 @@
       "fill": 179.0,
       "stop": 164.68,
       "target": 205.85,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 164.68,
+      "exit_date": "2026-11-05",
+      "pnl_pct": -8.0,
       "thesis": "Q3 revenue $3.66B (+58.5% YoY, fastest since its IPO), above its $3.3B guide; Q4 guided to $3.9-4.0B. Earnings gap higher on its strongest growth print since listing.",
-      "mark_date": "2026-11-04"
+      "mark_date": "2026-11-04",
+      "exit_reason": "Stop hit \u2014 day low 158.345 <= stop 164.68."
     },
     {
       "ticker": "FSLR",
@@ -43,12 +45,13 @@
       "fill": 206.0,
       "stop": 189.52,
       "target": 236.9,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 189.52,
+      "exit_date": "2026-11-05",
+      "pnl_pct": -8.0,
       "thesis": "Solar group bid as election results were read as friendlier to clean energy. Sharp gap up with the solar theme leading this morning.",
-      "mark_date": "2026-11-04"
+      "mark_date": "2026-11-04",
+      "exit_reason": "Stop hit \u2014 day low 185.11 <= stop 189.52."
     },
     {
       "ticker": "AIOK",
@@ -119,8 +122,8 @@
   ],
   "summary": {
     "total_trades": 7,
-    "open": 3,
-    "closed": 4,
-    "total_pnl_pct": -8.92
+    "open": 0,
+    "closed": 7,
+    "total_pnl_pct": -32.92
   }
 }

@@ -1190,12 +1190,100 @@
       "fill": 5.37,
       "exit": 4.56,
       "pnl": 15.08
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "CDNA",
+      "side": "long",
+      "fill": 80.62,
+      "exit": 76.33,
+      "pnl": -5.32
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "AZN",
+      "side": "long",
+      "fill": 183.59,
+      "exit": 186.85,
+      "pnl": 1.78
+    },
+    {
+      "date": "2026-10-30",
+      "ticker": "RDDT",
+      "side": "short",
+      "fill": 100.25,
+      "exit": 93.81,
+      "pnl": 6.42
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "ECHO",
+      "side": "long",
+      "fill": 101.12,
+      "exit": 93.03,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "INTC",
+      "side": "short",
+      "fill": 65.4,
+      "exit": 55.59,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "LSCC",
+      "side": "long",
+      "fill": 107.0,
+      "exit": 98.44,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "AMD",
+      "side": "long",
+      "fill": 485.25,
+      "exit": 446.43,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "ANET",
+      "side": "long",
+      "fill": 179.0,
+      "exit": 164.68,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-04",
+      "ticker": "FSLR",
+      "side": "long",
+      "fill": 206.0,
+      "exit": 189.52,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "ARQ",
+      "side": "long",
+      "fill": 2.49,
+      "exit": 2.29,
+      "pnl": -8.03
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "TBI",
+      "side": "long",
+      "fill": 13.48,
+      "exit": 12.4,
+      "pnl": -8.01
     }
   ],
-  "total_pnl": -174.32,
-  "total_pnl_pct": -174.32,
-  "total_trades": 146,
-  "updated_at": "2026-11-05 14:52 UTC",
-  "win_rate": 38.36,
-  "wins": 56
+  "total_pnl": -212.48,
+  "total_pnl_pct": -212.48,
+  "total_trades": 157,
+  "updated_at": "2026-11-05 22:17 UTC",
+  "win_rate": 37.58,
+  "wins": 59
 }

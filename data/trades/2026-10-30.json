@@ -3,16 +3,16 @@
   "date": "2026-10-30",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 76.33,
+      "exit_date": "2026-11-05",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 76.33.",
       "fill": 80.62,
       "fill_date": "2026-10-30",
       "mark": 77.25,
       "mark_as_of": "2026-11-05 14:20 CT",
-      "pnl_pct": null,
+      "pnl_pct": -5.32,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 74.17,
       "target": 92.71,
       "thesis": "Q3 revenue +39% to $139.4M, testing-services revenue +65%, raised 2026 guide to $520-530M revenue and $90-100M adjusted EBITDA.",
@@ -37,16 +37,16 @@
       "mark_date": "2026-11-03"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 186.85,
+      "exit_date": "2026-11-05",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 186.85.",
       "fill": 183.59,
       "fill_date": "2026-10-30",
       "mark": 187.49,
       "mark_as_of": "2026-11-05 14:25 CT",
-      "pnl_pct": null,
+      "pnl_pct": 1.78,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 168.9,
       "target": 211.13,
       "thesis": "Q3 beat - revenue $16.21B (+7%), core EPS $2.79 (+17-19%), oncology revenue +17%, full-year guidance reiterated; gapping toward a 200-day reclaim.",
@@ -123,16 +123,16 @@
       "mark_date": "2026-10-30"
     },
     {
-      "exit": null,
-      "exit_date": null,
-      "exit_reason": null,
+      "exit": 93.81,
+      "exit_date": "2026-11-05",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 93.81.",
       "fill": 100.25,
       "fill_date": "2026-10-30",
       "mark": 94.21,
       "mark_as_of": "2026-11-05 14:25 CT",
-      "pnl_pct": null,
+      "pnl_pct": 6.42,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 108.27,
       "target": 85.21,
       "thesis": "Q4 revenue outlook below consensus, plus search-traffic losses to Google AI and a Citizens downgrade; extending a -15% five-day slide.",
@@ -142,8 +142,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": 5.9
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": 8.78
   }
 }
