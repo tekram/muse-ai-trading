@@ -6,7 +6,7 @@
       "ticker": "NET",
       "side": "long",
       "fill_date": "2026-11-06",
-      "mark": 272.08,
+      "mark": 268.75,
       "mark_as_of": "2026-11-06 13:45 CT",
       "fill": 286.97,
       "stop": 264.01,
@@ -15,13 +15,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 revenue +39% and full-year guidance raised. Strong beat + raise in a beaten-down software tape; gap is on real volume."
+      "thesis": "Q3 revenue +39% and full-year guidance raised. Strong beat + raise in a beaten-down software tape; gap is on real volume.",
+      "mark_date": "2026-11-06"
     },
     {
       "ticker": "ABNB",
       "side": "long",
       "fill_date": "2026-11-06",
-      "mark": 191.9,
+      "mark": 189.99,
       "mark_as_of": "2026-11-06 13:45 CT",
       "fill": 191.15,
       "stop": 175.86,
@@ -30,13 +31,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 revenue $4.9B beat the $4.75B consensus on stronger-than-expected demand. Gap reclaims much of Thursday's -3.5% drop; approaching its 52-week high area."
+      "thesis": "Q3 revenue $4.9B beat the $4.75B consensus on stronger-than-expected demand. Gap reclaims much of Thursday's -3.5% drop; approaching its 52-week high area.",
+      "mark_date": "2026-11-06"
     },
     {
       "ticker": "IREN",
       "side": "long",
       "fill_date": "2026-11-06",
-      "mark": 21.26,
+      "mark": 21.64,
       "mark_as_of": "2026-11-06 13:45 CT",
       "fill": 21.15,
       "stop": 19.46,
@@ -45,13 +47,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Fiscal Q1 beat - revenue $228M vs ~$221M expected; AI Cloud revenue +182% sequentially to $200M, backlog $20.3B, operating ARR doubled to $1B."
+      "thesis": "Fiscal Q1 beat - revenue $228M vs ~$221M expected; AI Cloud revenue +182% sequentially to $200M, backlog $20.3B, operating ARR doubled to $1B.",
+      "mark_date": "2026-11-06"
     },
     {
       "ticker": "MU",
       "side": "long",
       "fill_date": "2026-11-06",
-      "mark": 690.8,
+      "mark": 690.0,
       "mark_as_of": "2026-11-06 13:45 CT",
       "fill": 708.35,
       "stop": 651.68,
@@ -60,7 +63,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Bounce play - fell 17.5% Thursday on AI-spending/data-center fears; IREN's demand print plus a sector-wide memory rebound is driving the snapback. Oversold bounce, not a fresh catalyst."
+      "thesis": "Bounce play - fell 17.5% Thursday on AI-spending/data-center fears; IREN's demand print plus a sector-wide memory rebound is driving the snapback. Oversold bounce, not a fresh catalyst.",
+      "mark_date": "2026-11-06"
     },
     {
       "ticker": "SNDK",
@@ -71,11 +75,12 @@
       "fill": 898.27,
       "stop": 826.41,
       "target": 1033.01,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Same memory-sector snapback after a -22% Thursday plunge. Highest-beta bounce name of the morning."
+      "status": "closed",
+      "exit": 826.41,
+      "exit_date": "2026-11-06",
+      "pnl_pct": -8.0,
+      "thesis": "Same memory-sector snapback after a -22% Thursday plunge. Highest-beta bounce name of the morning.",
+      "exit_reason": "Stop hit \u2014 day low 816.4201 <= stop 826.41."
     }
   ],
   "shorts": [
@@ -88,17 +93,18 @@
       "fill": 17.34,
       "stop": 18.73,
       "target": 14.74,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Big Q3 miss and slashed full-year EBITDA guidance, blamed on heavy investment in prediction markets. Gap-down on guidance cut - breakdown below support with no floor in sight."
+      "status": "closed",
+      "exit": 18.73,
+      "exit_date": "2026-11-06",
+      "pnl_pct": -8.02,
+      "thesis": "Big Q3 miss and slashed full-year EBITDA guidance, blamed on heavy investment in prediction markets. Gap-down on guidance cut - breakdown below support with no floor in sight.",
+      "exit_reason": "Stop hit \u2014 day high 18.79 >= stop 18.73."
     },
     {
       "ticker": "TEAM",
       "side": "short",
       "fill_date": "2026-11-06",
-      "mark": 155.65,
+      "mark": 153.68,
       "mark_as_of": "2026-11-06 13:45 CT",
       "fill": 154.92,
       "stop": 167.31,
@@ -107,7 +113,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Full-year revenue growth projected to slow; caught in the AI/software de-rating. Guidance disappointment into a weak tape."
+      "thesis": "Full-year revenue growth projected to slow; caught in the AI/software de-rating. Guidance disappointment into a weak tape.",
+      "mark_date": "2026-11-06"
     },
     {
       "ticker": "INO",
@@ -118,17 +125,18 @@
       "fill": 1.13,
       "stop": 1.22,
       "target": 0.96,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Priced a $75M secondary offering at $1.05, well below the prior close - dilutive financing gap-down; avoid."
+      "status": "closed",
+      "exit": 1.22,
+      "exit_date": "2026-11-06",
+      "pnl_pct": -7.96,
+      "thesis": "Priced a $75M secondary offering at $1.05, well below the prior close - dilutive financing gap-down; avoid.",
+      "exit_reason": "Stop hit \u2014 day high 1.27 >= stop 1.22."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 5,
+    "closed": 3,
+    "total_pnl_pct": -23.98
   }
 }

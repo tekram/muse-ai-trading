@@ -1279,12 +1279,76 @@
       "fill": 13.48,
       "exit": 12.4,
       "pnl": -8.01
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "PERI",
+      "side": "long",
+      "fill": 11.42,
+      "exit": 11.39,
+      "pnl": -0.26
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "TMUS",
+      "side": "short",
+      "fill": 153.66,
+      "exit": 162.01,
+      "pnl": -5.43
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "T",
+      "side": "short",
+      "fill": 21.1,
+      "exit": 21.63,
+      "pnl": -2.51
+    },
+    {
+      "date": "2026-11-02",
+      "ticker": "VZ",
+      "side": "short",
+      "fill": 44.03,
+      "exit": 45.69,
+      "pnl": -3.77
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "QCOM",
+      "side": "short",
+      "fill": 150.06,
+      "exit": 162.06,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "SNDK",
+      "side": "long",
+      "fill": 898.27,
+      "exit": 826.41,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "DKNG",
+      "side": "short",
+      "fill": 17.34,
+      "exit": 18.73,
+      "pnl": -8.02
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "INO",
+      "side": "short",
+      "fill": 1.13,
+      "exit": 1.22,
+      "pnl": -7.96
     }
   ],
-  "total_pnl": -212.48,
-  "total_pnl_pct": -212.48,
-  "total_trades": 157,
-  "updated_at": "2026-11-06 14:52 UTC",
-  "win_rate": 37.58,
+  "total_pnl": -256.43,
+  "total_pnl_pct": -256.43,
+  "total_trades": 165,
+  "updated_at": "2026-11-06 22:17 UTC",
+  "win_rate": 35.76,
   "wins": 59
 }
