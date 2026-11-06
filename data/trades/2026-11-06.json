@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-06",
+  "brief": "premarket brief 2026-11-06 07:13 CT",
+  "longs": [
+    {
+      "ticker": "NET",
+      "side": "long",
+      "fill_date": "2026-11-06",
+      "fill": 286.97,
+      "stop": 264.01,
+      "target": 330.02,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 revenue +39% and full-year guidance raised. Strong beat + raise in a beaten-down software tape; gap is on real volume."
+    },
+    {
+      "ticker": "ABNB",
+      "side": "long",
+      "fill_date": "2026-11-06",
+      "fill": 191.15,
+      "stop": 175.86,
+      "target": 219.82,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 revenue $4.9B beat the $4.75B consensus on stronger-than-expected demand. Gap reclaims much of Thursday's -3.5% drop; approaching its 52-week high area."
+    },
+    {
+      "ticker": "IREN",
+      "side": "long",
+      "fill_date": "2026-11-06",
+      "fill": 21.15,
+      "stop": 19.46,
+      "target": 24.32,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Fiscal Q1 beat - revenue $228M vs ~$221M expected; AI Cloud revenue +182% sequentially to $200M, backlog $20.3B, operating ARR doubled to $1B."
+    },
+    {
+      "ticker": "MU",
+      "side": "long",
+      "fill_date": "2026-11-06",
+      "fill": 708.35,
+      "stop": 651.68,
+      "target": 814.6,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Bounce play - fell 17.5% Thursday on AI-spending/data-center fears; IREN's demand print plus a sector-wide memory rebound is driving the snapback. Oversold bounce, not a fresh catalyst."
+    },
+    {
+      "ticker": "SNDK",
+      "side": "long",
+      "fill_date": "2026-11-06",
+      "fill": 898.27,
+      "stop": 826.41,
+      "target": 1033.01,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Same memory-sector snapback after a -22% Thursday plunge. Highest-beta bounce name of the morning."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "DKNG",
+      "side": "short",
+      "fill_date": "2026-11-06",
+      "fill": 17.34,
+      "stop": 18.73,
+      "target": 14.74,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Big Q3 miss and slashed full-year EBITDA guidance, blamed on heavy investment in prediction markets. Gap-down on guidance cut - breakdown below support with no floor in sight."
+    },
+    {
+      "ticker": "TEAM",
+      "side": "short",
+      "fill_date": "2026-11-06",
+      "fill": 154.92,
+      "stop": 167.31,
+      "target": 131.68,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Full-year revenue growth projected to slow; caught in the AI/software de-rating. Guidance disappointment into a weak tape."
+    },
+    {
+      "ticker": "INO",
+      "side": "short",
+      "fill_date": "2026-11-06",
+      "fill": 1.13,
+      "stop": 1.22,
+      "target": 0.96,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Priced a $75M secondary offering at $1.05, well below the prior close - dilutive financing gap-down; avoid."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
