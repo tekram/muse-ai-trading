@@ -42,7 +42,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Upgraded by Oppenheimer overnight; rotation into Nvidia rivals as NVDA sinks on its CEO probe. Liquid large-cap gap on an analyst call.",
-      "mark": 508.58,
+      "mark": 509.01,
+      "mark_as_of": "2026-11-09 14:55 CT",
       "mark_date": "2026-11-09"
     },
     {
@@ -57,7 +58,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power.",
-      "mark": 97.4,
+      "mark": 97.49,
+      "mark_as_of": "2026-11-09 14:55 CT",
       "mark_date": "2026-11-09"
     },
     {
@@ -72,7 +74,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal.",
-      "mark": 276.09,
+      "mark": 275.96,
+      "mark_as_of": "2026-11-09 14:55 CT",
       "mark_date": "2026-11-09"
     }
   ],
@@ -103,7 +106,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close.",
-      "mark": 178.67,
+      "mark": 178.6,
+      "mark_as_of": "2026-11-09 14:55 CT",
       "mark_date": "2026-11-09"
     },
     {
@@ -118,7 +122,8 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed.",
-      "mark": 31.0,
+      "mark": 30.98,
+      "mark_as_of": "2026-11-09 14:55 CT",
       "mark_date": "2026-11-09"
     }
   ],
