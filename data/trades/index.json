@@ -1344,12 +1344,76 @@
       "fill": 1.13,
       "exit": 1.22,
       "pnl": -7.96
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "GRAB",
+      "side": "long",
+      "fill": 3.21,
+      "exit": 3.44,
+      "pnl": 7.17
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "DT",
+      "side": "short",
+      "fill": 46.0,
+      "exit": 43.97,
+      "pnl": 4.41
+    },
+    {
+      "date": "2026-11-03",
+      "ticker": "PLTR",
+      "side": "short",
+      "fill": 168.18,
+      "exit": 169.2,
+      "pnl": -0.61
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "APP",
+      "side": "long",
+      "fill": 349.83,
+      "exit": 402.3,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "MNTN",
+      "side": "short",
+      "fill": 5.1,
+      "exit": 5.51,
+      "pnl": -8.04
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "CKX",
+      "side": "long",
+      "fill": 17.5,
+      "exit": 16.1,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "CECO",
+      "side": "long",
+      "fill": 61.01,
+      "exit": 56.13,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "ZURA",
+      "side": "short",
+      "fill": 1.26,
+      "exit": 1.07,
+      "pnl": 15.08
     }
   ],
-  "total_pnl": -256.43,
-  "total_pnl_pct": -256.43,
-  "total_trades": 165,
-  "updated_at": "2026-11-09 14:56 UTC",
-  "win_rate": 35.76,
-  "wins": 59
+  "total_pnl": -239.42,
+  "total_pnl_pct": -239.42,
+  "total_trades": 173,
+  "updated_at": "2026-11-09 22:17 UTC",
+  "win_rate": 36.42,
+  "wins": 63
 }

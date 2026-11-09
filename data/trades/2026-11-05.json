@@ -12,11 +12,12 @@
       "fill": 349.83,
       "stop": 321.84,
       "target": 402.3,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 earnings beat estimates; ad-tech strength seen as easing AI-disruption worries. Gap up on a clean beat with the stock already in a strong uptrend."
+      "status": "closed",
+      "exit": 402.3,
+      "exit_date": "2026-11-09",
+      "pnl_pct": 15.0,
+      "thesis": "Q3 earnings beat estimates; ad-tech strength seen as easing AI-disruption worries. Gap up on a clean beat with the stock already in a strong uptrend.",
+      "exit_reason": "Target hit (+15% at 402.3)."
     },
     {
       "ticker": "ARQ",
@@ -39,9 +40,9 @@
       "ticker": "ADMA",
       "side": "long",
       "fill_date": "2026-11-05",
-      "mark": 12.72,
+      "mark": 12.79,
       "mark_as_of": "2026-11-06 14:55 CT",
-      "mark_date": "2026-11-06",
+      "mark_date": "2026-11-09",
       "fill": 12.01,
       "stop": 11.05,
       "target": 13.81,
@@ -72,9 +73,9 @@
       "ticker": "SONY",
       "side": "long",
       "fill_date": "2026-11-05",
-      "mark": 26.98,
+      "mark": 27.06,
       "mark_as_of": "2026-11-06 14:55 CT",
-      "mark_date": "2026-11-06",
+      "mark_date": "2026-11-09",
       "fill": 27.57,
       "stop": 25.36,
       "target": 31.71,
@@ -113,19 +114,20 @@
       "fill": 5.1,
       "stop": 5.51,
       "target": 4.34,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 earnings and revenue lagged estimates. Huge gap-down on a miss; avoid catching the knife."
+      "status": "closed",
+      "exit": 5.51,
+      "exit_date": "2026-11-09",
+      "pnl_pct": -8.04,
+      "thesis": "Q3 earnings and revenue lagged estimates. Huge gap-down on a miss; avoid catching the knife.",
+      "exit_reason": "Stop hit \u2014 day high 5.53 >= stop 5.51."
     },
     {
       "ticker": "ZG",
       "side": "short",
       "fill_date": "2026-11-05",
-      "mark": 30.37,
+      "mark": 31.28,
       "mark_as_of": "2026-11-06 14:55 CT",
-      "mark_date": "2026-11-06",
+      "mark_date": "2026-11-09",
       "fill": 31.75,
       "stop": 34.29,
       "target": 26.99,
@@ -138,8 +140,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 5,
-    "closed": 3,
-    "total_pnl_pct": -24.04
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": -17.08
   }
 }

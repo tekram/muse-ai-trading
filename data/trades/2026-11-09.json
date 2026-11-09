@@ -9,11 +9,12 @@
       "fill": 17.5,
       "stop": 16.1,
       "target": 20.13,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "$1B equity commitment plus a $10.13/share special dividend; +52-56% premarket on ~892x volume spike - micro-cap land deal, expect violent swings."
+      "status": "closed",
+      "exit": 16.1,
+      "exit_date": "2026-11-09",
+      "pnl_pct": -8.0,
+      "thesis": "$1B equity commitment plus a $10.13/share special dividend; +52-56% premarket on ~892x volume spike - micro-cap land deal, expect violent swings.",
+      "exit_reason": "Stop hit \u2014 day low 15.05 <= stop 16.1. (stop-before-target convention; target 20.13 also touched at day high 24.74)."
     },
     {
       "ticker": "CECO",
@@ -22,11 +23,12 @@
       "fill": 61.01,
       "stop": 56.13,
       "target": 70.16,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Record Q3 - orders +234% to $777.6M, backlog +205% to $2.19B, revenue +105% to $404.4M, adjusted EBITDA +202%; introduced 2027 revenue outlook of $2.1-2.3B."
+      "status": "closed",
+      "exit": 56.13,
+      "exit_date": "2026-11-09",
+      "pnl_pct": -8.0,
+      "thesis": "Record Q3 - orders +234% to $777.6M, backlog +205% to $2.19B, revenue +105% to $404.4M, adjusted EBITDA +202%; introduced 2027 revenue outlook of $2.1-2.3B.",
+      "exit_reason": "Stop hit \u2014 day low 51.395 <= stop 56.13."
     },
     {
       "ticker": "AMD",
@@ -39,7 +41,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Upgraded by Oppenheimer overnight; rotation into Nvidia rivals as NVDA sinks on its CEO probe. Liquid large-cap gap on an analyst call."
+      "thesis": "Upgraded by Oppenheimer overnight; rotation into Nvidia rivals as NVDA sinks on its CEO probe. Liquid large-cap gap on an analyst call.",
+      "mark": 508.58,
+      "mark_date": "2026-11-09"
     },
     {
       "ticker": "NRG",
@@ -52,7 +56,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power."
+      "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power.",
+      "mark": 97.4,
+      "mark_date": "2026-11-09"
     },
     {
       "ticker": "CEG",
@@ -65,7 +71,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal."
+      "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal.",
+      "mark": 276.09,
+      "mark_date": "2026-11-09"
     }
   ],
   "shorts": [
@@ -76,11 +84,12 @@
       "fill": 1.26,
       "stop": 1.36,
       "target": 1.07,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Phase 2 TibuSHIELD study in hidradenitis suppurativa failed its primary endpoint - binary clinical failure, -69% premarket."
+      "status": "closed",
+      "exit": 1.07,
+      "exit_date": "2026-11-09",
+      "pnl_pct": 15.08,
+      "thesis": "Phase 2 TibuSHIELD study in hidradenitis suppurativa failed its primary endpoint - binary clinical failure, -69% premarket.",
+      "exit_reason": "Target hit (+15% at 1.07)."
     },
     {
       "ticker": "NVDA",
@@ -93,7 +102,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close."
+      "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close.",
+      "mark": 178.67,
+      "mark_date": "2026-11-09"
     },
     {
       "ticker": "IONS",
@@ -106,13 +117,15 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed."
+      "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed.",
+      "mark": 31.0,
+      "mark_date": "2026-11-09"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 5,
+    "closed": 3,
+    "total_pnl_pct": -0.92
   }
 }
