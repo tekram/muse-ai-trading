@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-09",
+  "brief": "premarket brief 2026-11-09 07:13 CT",
+  "longs": [
+    {
+      "ticker": "CKX",
+      "side": "long",
+      "fill_date": "2026-11-09",
+      "fill": 17.5,
+      "stop": 16.1,
+      "target": 20.13,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "$1B equity commitment plus a $10.13/share special dividend; +52-56% premarket on ~892x volume spike - micro-cap land deal, expect violent swings."
+    },
+    {
+      "ticker": "CECO",
+      "side": "long",
+      "fill_date": "2026-11-09",
+      "fill": 61.01,
+      "stop": 56.13,
+      "target": 70.16,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Record Q3 - orders +234% to $777.6M, backlog +205% to $2.19B, revenue +105% to $404.4M, adjusted EBITDA +202%; introduced 2027 revenue outlook of $2.1-2.3B."
+    },
+    {
+      "ticker": "AMD",
+      "side": "long",
+      "fill_date": "2026-11-09",
+      "fill": 473.39,
+      "stop": 435.52,
+      "target": 544.4,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Upgraded by Oppenheimer overnight; rotation into Nvidia rivals as NVDA sinks on its CEO probe. Liquid large-cap gap on an analyst call."
+    },
+    {
+      "ticker": "NRG",
+      "side": "long",
+      "fill_date": "2026-11-09",
+      "fill": 93.5,
+      "stop": 86.02,
+      "target": 107.53,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power."
+    },
+    {
+      "ticker": "CEG",
+      "side": "long",
+      "fill_date": "2026-11-09",
+      "fill": 260.46,
+      "stop": 239.62,
+      "target": 299.53,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "ZURA",
+      "side": "short",
+      "fill_date": "2026-11-09",
+      "fill": 1.26,
+      "stop": 1.36,
+      "target": 1.07,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Phase 2 TibuSHIELD study in hidradenitis suppurativa failed its primary endpoint - binary clinical failure, -69% premarket."
+    },
+    {
+      "ticker": "NVDA",
+      "side": "short",
+      "fill_date": "2026-11-09",
+      "fill": 173.03,
+      "stop": 186.87,
+      "target": 147.08,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close."
+    },
+    {
+      "ticker": "IONS",
+      "side": "short",
+      "fill_date": "2026-11-09",
+      "fill": 32.27,
+      "stop": 34.85,
+      "target": 27.43,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
