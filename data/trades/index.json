@@ -1409,12 +1409,52 @@
       "fill": 1.26,
       "exit": 1.07,
       "pnl": 15.08
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "IREN",
+      "side": "long",
+      "fill": 21.15,
+      "exit": 19.46,
+      "pnl": -7.99
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "SANM",
+      "side": "long",
+      "fill": 166.4,
+      "exit": 153.09,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "APPS",
+      "side": "short",
+      "fill": 8.29,
+      "exit": 7.05,
+      "pnl": 14.96
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "RKLB",
+      "side": "short",
+      "fill": 54.99,
+      "exit": 59.39,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "HIMS",
+      "side": "short",
+      "fill": 22.12,
+      "exit": 18.8,
+      "pnl": 15.01
     }
   ],
-  "total_pnl": -239.42,
-  "total_pnl_pct": -239.42,
-  "total_trades": 173,
-  "updated_at": "2026-11-10 14:53 UTC",
-  "win_rate": 36.42,
-  "wins": 63
+  "total_pnl": -233.44,
+  "total_pnl_pct": -233.44,
+  "total_trades": 178,
+  "updated_at": "2026-11-10 22:16 UTC",
+  "win_rate": 36.52,
+  "wins": 65
 }

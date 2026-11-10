@@ -3,26 +3,27 @@
   "date": "2026-11-10",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 153.09,
+      "exit_date": "2026-11-10",
       "fill": 166.4,
       "fill_date": "2026-11-10",
       "mark": 155.61,
       "mark_as_of": "2026-11-10 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 153.09,
       "target": 191.36,
       "thesis": "Fiscal Q4 blowout - revenue $3.86B, +84% y/y, beat $3.48B consensus; non-GAAP EPS $4.43 vs $3.19 expected. Raised FY27 guidance on AI/cloud infrastructure demand and the completed ZT Systems integration.",
-      "ticker": "SANM"
+      "ticker": "SANM",
+      "exit_reason": "Stop hit \u2014 day low 150.4001 <= stop 153.09."
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 71.64,
       "fill_date": "2026-11-10",
-      "mark": 75.07,
+      "mark": 75.01,
       "mark_as_of": "2026-11-10 14:05 CT",
       "pnl_pct": null,
       "side": "long",
@@ -30,14 +31,15 @@
       "stop": 65.91,
       "target": 82.39,
       "thesis": "Q3 EPS $0.83 vs $0.56 expected; revenue $707.4M, +84% y/y vs $599.7M expected; raised full-year 2026 sales growth guidance to 72-75%; order backlog $1.9B, +40.5% y/y.",
-      "ticker": "AAON"
+      "ticker": "AAON",
+      "mark_date": "2026-11-10"
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 173.97,
       "fill_date": "2026-11-10",
-      "mark": 166.62,
+      "mark": 168.89,
       "mark_as_of": "2026-11-10 14:05 CT",
       "pnl_pct": null,
       "side": "long",
@@ -45,14 +47,15 @@
       "stop": 160.05,
       "target": 200.07,
       "thesis": "Partial retracement of Monday's -4.27% drop on the board's investigation into CEO Jensen Huang; options flow aggressively bullish into the dip, ~75% of Monday's options premium in calls.",
-      "ticker": "NVDA"
+      "ticker": "NVDA",
+      "mark_date": "2026-11-10"
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 218.25,
       "fill_date": "2026-11-10",
-      "mark": 224.24,
+      "mark": 224.64,
       "mark_as_of": "2026-11-10 14:05 CT",
       "pnl_pct": null,
       "side": "long",
@@ -60,60 +63,64 @@
       "stop": 200.79,
       "target": 250.99,
       "thesis": "FQ2 net bookings $1.60B slightly missed and FY27 guidance cut - yet shares up on GTA 6 momentum: preloads began, 7M+ preorders generating $750M+, game unlocks Nov 19.",
-      "ticker": "TTWO"
+      "ticker": "TTWO",
+      "mark_date": "2026-11-10"
     }
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 7.05,
+      "exit_date": "2026-11-10",
       "fill": 8.29,
       "fill_date": "2026-11-10",
       "mark": 6.99,
       "mark_as_of": "2026-11-10 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": 14.96,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 8.95,
       "target": 7.05,
       "thesis": "Q2 FY27 revenue beat and raised guidance, but margin compression and heavy AI investment spending overwhelmed the print. Gapping down hard on a beat.",
-      "ticker": "APPS"
+      "ticker": "APPS",
+      "exit_reason": "Target hit (+15% at 7.05)."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 59.39,
+      "exit_date": "2026-11-10",
       "fill": 54.99,
       "fill_date": "2026-11-10",
       "mark": 59.87,
       "mark_as_of": "2026-11-10 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 59.39,
       "target": 46.74,
       "thesis": "Record Q3 revenue $267.8M (+73% y/y, beat ~$258M) and backlog up 52% to $3.57B, but the loss widened to -$0.12/share vs -$0.07 expected, and the first Neutron launch was pushed to no earlier than 2027.",
-      "ticker": "RKLB"
+      "ticker": "RKLB",
+      "exit_reason": "Stop hit \u2014 day high 63.77 >= stop 59.39."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 18.8,
+      "exit_date": "2026-11-10",
       "fill": 22.12,
       "fill_date": "2026-11-10",
       "mark": 18.82,
       "mark_as_of": "2026-11-10 14:05 CT",
-      "pnl_pct": null,
+      "pnl_pct": 15.01,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 23.89,
       "target": 18.8,
       "thesis": "Extending its slump after an unexpected Q3 loss and narrowed full-year revenue guidance.",
-      "ticker": "HIMS"
+      "ticker": "HIMS",
+      "exit_reason": "Target hit (+15% at 18.8)."
     }
   ],
   "summary": {
-    "closed": 0,
-    "open": 7,
-    "total_pnl_pct": 0,
-    "total_trades": 7
+    "total_trades": 7,
+    "open": 3,
+    "closed": 4,
+    "total_pnl_pct": 13.97
   }
 }
