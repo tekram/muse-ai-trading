@@ -37,14 +37,15 @@
       "fill": 473.39,
       "stop": 435.52,
       "target": 544.4,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 544.4,
+      "exit_date": "2026-11-11",
+      "pnl_pct": 15.0,
       "thesis": "Upgraded by Oppenheimer overnight; rotation into Nvidia rivals as NVDA sinks on its CEO probe. Liquid large-cap gap on an analyst call.",
       "mark": 559.39,
       "mark_as_of": "2026-11-11 13:55 CT",
-      "mark_date": "2026-11-10"
+      "mark_date": "2026-11-10",
+      "exit_reason": "Target hit (+15% at 544.4)."
     },
     {
       "ticker": "NRG",
@@ -58,9 +59,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power.",
-      "mark": 98.81,
+      "mark": 97.5,
       "mark_as_of": "2026-11-11 13:55 CT",
-      "mark_date": "2026-11-10"
+      "mark_date": "2026-11-11"
     },
     {
       "ticker": "CEG",
@@ -74,9 +75,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal.",
-      "mark": 275.42,
+      "mark": 274.73,
       "mark_as_of": "2026-11-11 13:55 CT",
-      "mark_date": "2026-11-10"
+      "mark_date": "2026-11-11"
     }
   ],
   "shorts": [
@@ -106,9 +107,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close.",
-      "mark": 175.6,
+      "mark": 173.73,
       "mark_as_of": "2026-11-11 13:55 CT",
-      "mark_date": "2026-11-10"
+      "mark_date": "2026-11-11"
     },
     {
       "ticker": "IONS",
@@ -122,15 +123,15 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed.",
-      "mark": 28.79,
+      "mark": 28.33,
       "mark_as_of": "2026-11-11 13:55 CT",
-      "mark_date": "2026-11-10"
+      "mark_date": "2026-11-11"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 5,
-    "closed": 3,
-    "total_pnl_pct": -0.92
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": 14.08
   }
 }

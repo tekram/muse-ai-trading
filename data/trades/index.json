@@ -1450,12 +1450,68 @@
       "pnl": 15.01,
       "side": "short",
       "ticker": "HIMS"
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "ADMA",
+      "side": "long",
+      "fill": 12.01,
+      "exit": 13.19,
+      "pnl": 9.83
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "SONY",
+      "side": "long",
+      "fill": 27.57,
+      "exit": 26.49,
+      "pnl": -3.92
+    },
+    {
+      "date": "2026-11-05",
+      "ticker": "ZG",
+      "side": "short",
+      "fill": 31.75,
+      "exit": 29.77,
+      "pnl": 6.24
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "MU",
+      "side": "long",
+      "fill": 708.35,
+      "exit": 814.6,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "AMD",
+      "side": "long",
+      "fill": 473.39,
+      "exit": 544.4,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "STAK",
+      "side": "short",
+      "fill": 2.68,
+      "exit": 2.28,
+      "pnl": 14.93
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "OMH",
+      "side": "short",
+      "fill": 25.3,
+      "exit": 27.32,
+      "pnl": -7.98
     }
   ],
-  "total_pnl": -233.44,
-  "total_pnl_pct": -233.44,
-  "total_trades": 178,
-  "updated_at": "2026-11-11 14:52 UTC",
-  "win_rate": 36.52,
-  "wins": 65
+  "total_pnl": -184.34,
+  "total_pnl_pct": -184.34,
+  "total_trades": 185,
+  "updated_at": "2026-11-11 22:15 UTC",
+  "win_rate": 37.84,
+  "wins": 70
 }

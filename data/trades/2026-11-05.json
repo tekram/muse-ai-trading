@@ -46,11 +46,12 @@
       "fill": 12.01,
       "stop": 11.05,
       "target": 13.81,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 earnings and revenue beat estimates. Earnings-gap breakout candidate."
+      "status": "closed",
+      "exit": 13.19,
+      "exit_date": "2026-11-11",
+      "pnl_pct": 9.83,
+      "thesis": "Q3 earnings and revenue beat estimates. Earnings-gap breakout candidate.",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 13.19."
     },
     {
       "ticker": "TBI",
@@ -79,11 +80,12 @@
       "fill": 27.57,
       "stop": 25.36,
       "target": 31.71,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Raised full-year earnings guidance after fiscal Q2 revenue beat, helped by the new Spider-Man film. Large-cap gap on a guidance raise."
+      "status": "closed",
+      "exit": 26.49,
+      "exit_date": "2026-11-11",
+      "pnl_pct": -3.92,
+      "thesis": "Raised full-year earnings guidance after fiscal Q2 revenue beat, helped by the new Spider-Man film. Large-cap gap on a guidance raise.",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 26.49."
     }
   ],
   "shorts": [
@@ -131,17 +133,18 @@
       "fill": 31.75,
       "stop": 34.29,
       "target": 26.99,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 key metrics came in below Wall Street estimates. Gap-down on a miss."
+      "status": "closed",
+      "exit": 29.77,
+      "exit_date": "2026-11-11",
+      "pnl_pct": 6.24,
+      "thesis": "Q3 key metrics came in below Wall Street estimates. Gap-down on a miss.",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 29.77."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": -17.08
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -4.93
   }
 }
