@@ -1,0 +1,118 @@
+{
+  "brief": "premarket brief 2026-11-11 07:13 CT",
+  "date": "2026-11-11",
+  "longs": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 55.97,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 51.49,
+      "target": 64.37,
+      "thesis": "Q3 revenue $3.66B, +168% YoY, beat the $3.54B estimate; raised 2026 revenue guidance to $13.0-13.3B; backlog $132.5B, +138% YoY. Gap-up with a real fundamental driver after a bruising stretch (down >38% YTD).",
+      "ticker": "CRWV"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 9.72,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 8.94,
+      "target": 11.18,
+      "thesis": "Q3 results: returned to sales growth for the first time in four years, gross margin expanded, swung to adjusted net income; raised FY2026 sales and margin guidance. Gapping above its 52-week high ($8.07, Nov 6) - clean breakout level on an earnings beat.",
+      "ticker": "FOSL"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 172.8,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 158.98,
+      "target": 198.72,
+      "thesis": "CoreWeave's results are easing AI-bubble fears and NVDA is CoreWeave's key backer. Mean-reversion bounce after a two-day slide of more than 9%, not a breakout - watch whether it reclaims the slide.",
+      "ticker": "NVDA"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 777.14,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 714.97,
+      "target": 893.71,
+      "thesis": "Memory-chip rally: TSMC's October revenue +59.7% YoY; SNDK +8%, STX/WDC +7% across semis. Bounce off a weak week (PHLX Semis fell 5.7%) with a sector-wide tailwind.",
+      "ticker": "MU"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 149.72,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 137.74,
+      "target": 172.18,
+      "thesis": "Neocloud sympathy with CRWV's beat; +12-15% premarket to ~$154. Reports Q3 before Thursday's open - earnings tomorrow is event risk, size accordingly.",
+      "ticker": "NBIS"
+    }
+  ],
+  "shorts": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 12.99,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 14.03,
+      "target": 11.04,
+      "thesis": "Q3 miss: revenue $1.41M vs $3.52M expected, -28% YoY; wider-than-expected loss; FY2026 revenue guide below estimates. Bouncing +3% premarket with quantum peers - a fade-the-bounce candidate, not a clean gap-down short.",
+      "ticker": "RGTI"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 2.68,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 2.89,
+      "target": 2.28,
+      "thesis": "Parabolic low-float runner reversing after +198% over five sessions (+1,132% YTD); -49% premarket with no fresh catalyst. Avoid chasing either side; the collapse is momentum unwinding, not a defined short setup.",
+      "ticker": "STAK"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 25.3,
+      "fill_date": "2026-11-11",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 27.32,
+      "target": 21.51,
+      "thesis": "Day's top gainer (+77% premarket) but avoid: no catalyst in published coverage. Low-float name already +485% Monday and +62.5% Tuesday, with repeated volatility halts. Do not chase.",
+      "ticker": "OMH"
+    }
+  ],
+  "summary": {
+    "closed": 0,
+    "open": 8,
+    "total_pnl_pct": 0,
+    "total_trades": 8
+  }
+}
