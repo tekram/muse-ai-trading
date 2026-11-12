@@ -3,59 +3,62 @@
   "date": "2026-11-11",
   "longs": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 51.49,
+      "exit_date": "2026-11-12",
       "fill": 55.97,
       "fill_date": "2026-11-11",
       "mark": 55.16,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 51.49,
       "target": 64.37,
       "thesis": "Q3 revenue $3.66B, +168% YoY, beat the $3.54B estimate; raised 2026 revenue guidance to $13.0-13.3B; backlog $132.5B, +138% YoY. Gap-up with a real fundamental driver after a bruising stretch (down >38% YTD).",
       "ticker": "CRWV",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Stop hit \u2014 day low 50.17 <= stop 51.49."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 8.94,
+      "exit_date": "2026-11-12",
       "fill": 9.72,
       "fill_date": "2026-11-11",
       "mark": 8.89,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.02,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 8.94,
       "target": 11.18,
       "thesis": "Q3 results: returned to sales growth for the first time in four years, gross margin expanded, swung to adjusted net income; raised FY2026 sales and margin guidance. Gapping above its 52-week high ($8.07, Nov 6) - clean breakout level on an earnings beat.",
       "ticker": "FOSL",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Stop hit \u2014 day low 8.635 <= stop 8.94."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 158.98,
+      "exit_date": "2026-11-12",
       "fill": 172.8,
       "fill_date": "2026-11-11",
       "mark": 163.22,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 158.98,
       "target": 198.72,
       "thesis": "CoreWeave's results are easing AI-bubble fears and NVDA is CoreWeave's key backer. Mean-reversion bounce after a two-day slide of more than 9%, not a breakout - watch whether it reclaims the slide.",
       "ticker": "NVDA",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Stop hit \u2014 day low 148.8 <= stop 158.98."
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 777.14,
       "fill_date": "2026-11-11",
-      "mark": 790.55,
+      "mark": 798.44,
       "mark_as_of": "2026-11-12 14:30 CT",
       "pnl_pct": null,
       "side": "long",
@@ -64,41 +67,43 @@
       "target": 893.71,
       "thesis": "Memory-chip rally: TSMC's October revenue +59.7% YoY; SNDK +8%, STX/WDC +7% across semis. Bounce off a weak week (PHLX Semis fell 5.7%) with a sector-wide tailwind.",
       "ticker": "MU",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-12"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 137.74,
+      "exit_date": "2026-11-12",
       "fill": 149.72,
       "fill_date": "2026-11-11",
       "mark": 125.73,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 137.74,
       "target": 172.18,
       "thesis": "Neocloud sympathy with CRWV's beat; +12-15% premarket to ~$154. Reports Q3 before Thursday's open - earnings tomorrow is event risk, size accordingly.",
       "ticker": "NBIS",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Stop hit \u2014 day low 118.81 <= stop 137.74."
     }
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 11.04,
+      "exit_date": "2026-11-12",
       "fill": 12.99,
       "fill_date": "2026-11-11",
       "mark": 10.36,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "pnl_pct": null,
+      "pnl_pct": 15.01,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 14.03,
       "target": 11.04,
       "thesis": "Q3 miss: revenue $1.41M vs $3.52M expected, -28% YoY; wider-than-expected loss; FY2026 revenue guide below estimates. Bouncing +3% premarket with quantum peers - a fade-the-bounce candidate, not a clean gap-down short.",
       "ticker": "RGTI",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Target hit (+15% at 11.04)."
     },
     {
       "exit": 2.28,
@@ -135,8 +140,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 6,
-    "closed": 2,
-    "total_pnl_pct": 6.95
+    "open": 1,
+    "closed": 7,
+    "total_pnl_pct": -10.06
   }
 }

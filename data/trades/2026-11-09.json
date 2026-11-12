@@ -59,9 +59,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power.",
-      "mark": 97.82,
+      "mark": 98.05,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-12"
     },
     {
       "ticker": "CEG",
@@ -75,9 +75,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal.",
-      "mark": 280.4,
+      "mark": 282.4,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-12"
     }
   ],
   "shorts": [
@@ -107,9 +107,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close.",
-      "mark": 163.22,
+      "mark": 166.19,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-12"
     },
     {
       "ticker": "IONS",
@@ -118,20 +118,21 @@
       "fill": 32.27,
       "stop": 34.85,
       "target": 27.43,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 27.43,
+      "exit_date": "2026-11-12",
+      "pnl_pct": 15.0,
       "thesis": "Fell -15.7% premarket despite beating Q3 revenue estimates - sell-the-news on the print; no new catalyst confirmed.",
       "mark": 27.39,
       "mark_as_of": "2026-11-12 14:30 CT",
-      "mark_date": "2026-11-11"
+      "mark_date": "2026-11-11",
+      "exit_reason": "Target hit (+15% at 27.43)."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 4,
-    "closed": 4,
-    "total_pnl_pct": 14.08
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": 29.08
   }
 }

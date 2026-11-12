@@ -1507,12 +1507,116 @@
       "fill": 25.3,
       "exit": 27.32,
       "pnl": -7.98
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "NET",
+      "side": "long",
+      "fill": 286.97,
+      "exit": 318.5,
+      "pnl": 10.99
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "ABNB",
+      "side": "long",
+      "fill": 191.15,
+      "exit": 181.13,
+      "pnl": -5.24
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "TEAM",
+      "side": "short",
+      "fill": 154.92,
+      "exit": 152.29,
+      "pnl": 1.7
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "IONS",
+      "side": "short",
+      "fill": 32.27,
+      "exit": 27.43,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "NVDA",
+      "side": "long",
+      "fill": 173.97,
+      "exit": 160.05,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "CRWV",
+      "side": "long",
+      "fill": 55.97,
+      "exit": 51.49,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "FOSL",
+      "side": "long",
+      "fill": 9.72,
+      "exit": 8.94,
+      "pnl": -8.02
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "NVDA",
+      "side": "long",
+      "fill": 172.8,
+      "exit": 158.98,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "NBIS",
+      "side": "long",
+      "fill": 149.72,
+      "exit": 137.74,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "RGTI",
+      "side": "short",
+      "fill": 12.99,
+      "exit": 11.04,
+      "pnl": 15.01
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "ADXN",
+      "side": "long",
+      "fill": 4.6,
+      "exit": 5.29,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "NVDA",
+      "side": "short",
+      "fill": 151.01,
+      "exit": 163.09,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "NBIS",
+      "side": "short",
+      "fill": 119.94,
+      "exit": 129.54,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -184.34,
-  "total_pnl_pct": -184.34,
-  "total_trades": 185,
-  "updated_at": "2026-11-12 14:51 UTC",
-  "win_rate": 37.84,
-  "wins": 70
+  "total_pnl": -187.9,
+  "total_pnl_pct": -187.9,
+  "total_trades": 198,
+  "updated_at": "2026-11-12 22:18 UTC",
+  "win_rate": 37.88,
+  "wins": 75
 }
