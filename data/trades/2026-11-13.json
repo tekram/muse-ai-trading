@@ -6,7 +6,7 @@
       "ticker": "MOD",
       "side": "long",
       "fill_date": "2026-11-13",
-      "mark": 138.18,
+      "mark": 135.66,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 142.0,
       "stop": 130.64,
@@ -15,7 +15,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Bloomberg reported Samsung Electronics is in talks to acquire the data-center cooling maker; neither company has confirmed, no price or terms reported. Gapping far above the prior day's high on deal-premium expectations, reclaiming the ~15% slide since its Nov 3 earnings miss."
+      "thesis": "Bloomberg reported Samsung Electronics is in talks to acquire the data-center cooling maker; neither company has confirmed, no price or terms reported. Gapping far above the prior day's high on deal-premium expectations, reclaiming the ~15% slide since its Nov 3 earnings miss.",
+      "mark_date": "2026-11-13"
     },
     {
       "ticker": "MRLN",
@@ -26,17 +27,18 @@
       "fill": 1.24,
       "stop": 1.14,
       "target": 1.43,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 revenue $3.46M beat the ~$2.0M estimate (+58% sequentially) and a new $8.9M USSOCOM task order moves the C-130J autonomy program into integration. Beaten-down microcap gapping off a Nov 5 52-week low ($0.74), still ~81% below its 200-day."
+      "status": "closed",
+      "exit": 1.14,
+      "exit_date": "2026-11-13",
+      "pnl_pct": -8.06,
+      "thesis": "Q3 revenue $3.46M beat the ~$2.0M estimate (+58% sequentially) and a new $8.9M USSOCOM task order moves the C-130J autonomy program into integration. Beaten-down microcap gapping off a Nov 5 52-week low ($0.74), still ~81% below its 200-day.",
+      "exit_reason": "Stop hit \u2014 day low 1.09 <= stop 1.14."
     },
     {
       "ticker": "CBRS",
       "side": "long",
       "fill_date": "2026-11-13",
-      "mark": 109.74,
+      "mark": 108.72,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 108.7,
       "stop": 100.0,
@@ -45,7 +47,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Surprise Q3 profit (adjusted +$29.8M vs a $38.4M loss expected) and raised 2026 revenue forecast to $940-960M; cloud/services revenue more than tripled on the OpenAI deal, Microsoft signed as a customer. Deep drawdown name (down 47.2% from its May IPO price) gapping on a clean raise."
+      "thesis": "Surprise Q3 profit (adjusted +$29.8M vs a $38.4M loss expected) and raised 2026 revenue forecast to $940-960M; cloud/services revenue more than tripled on the OpenAI deal, Microsoft signed as a customer. Deep drawdown name (down 47.2% from its May IPO price) gapping on a clean raise.",
+      "mark_date": "2026-11-13"
     },
     {
       "ticker": "NMAX",
@@ -56,17 +59,18 @@
       "fill": 9.25,
       "stop": 8.51,
       "target": 10.64,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 swung to a $15.2M profit ($0.12/share) from a $4.1M loss a year ago; revenue +52.5% to $69.0M. Thin premarket volume (~6.2k shares), so the print is fragile."
+      "status": "closed",
+      "exit": 8.51,
+      "exit_date": "2026-11-13",
+      "pnl_pct": -8.0,
+      "thesis": "Q3 swung to a $15.2M profit ($0.12/share) from a $4.1M loss a year ago; revenue +52.5% to $69.0M. Thin premarket volume (~6.2k shares), so the print is fragile.",
+      "exit_reason": "Stop hit \u2014 day low 8.45 <= stop 8.51."
     },
     {
       "ticker": "CSCO",
       "side": "long",
       "fill_date": "2026-11-13",
-      "mark": 95.86,
+      "mark": 95.64,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 100.47,
       "stop": 92.43,
@@ -75,7 +79,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning."
+      "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning.",
+      "mark_date": "2026-11-13"
     }
   ],
   "shorts": [
@@ -88,11 +93,12 @@
       "fill": 5.33,
       "stop": 5.76,
       "target": 4.53,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Disclosed a delay to its FDA BLA filing for CAN-2409 in prostate cancer to mid-2027 (previously guided this year); Q3 loss widened to $21.9M. Breaking down hard after a +49% year-to-date run into the report."
+      "status": "closed",
+      "exit": 5.76,
+      "exit_date": "2026-11-13",
+      "pnl_pct": -8.07,
+      "thesis": "Disclosed a delay to its FDA BLA filing for CAN-2409 in prostate cancer to mid-2027 (previously guided this year); Q3 loss widened to $21.9M. Breaking down hard after a +49% year-to-date run into the report.",
+      "exit_reason": "Stop hit \u2014 day high 6.63 >= stop 5.76."
     },
     {
       "ticker": "GP",
@@ -103,17 +109,18 @@
       "fill": 1.0,
       "stop": 1.08,
       "target": 0.85,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Giving back Thursday's +175.6% regular-session surge on continued EV micro-cap weakness and dilution fears. A one-day parabolic move unwinding - the fade side of yesterday's top gainer."
+      "status": "closed",
+      "exit": 1.08,
+      "exit_date": "2026-11-13",
+      "pnl_pct": -8.0,
+      "thesis": "Giving back Thursday's +175.6% regular-session surge on continued EV micro-cap weakness and dilution fears. A one-day parabolic move unwinding - the fade side of yesterday's top gainer.",
+      "exit_reason": "Stop hit \u2014 day high 1.22 >= stop 1.08. (stop-before-target convention; target 0.85 also touched at day low 0.8132)."
     },
     {
       "ticker": "NVDA",
       "side": "short",
       "fill_date": "2026-11-13",
-      "mark": 162.84,
+      "mark": 162.85,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 169.91,
       "stop": 183.5,
@@ -122,13 +129,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17."
+      "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17.",
+      "mark_date": "2026-11-13"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": -32.13
   }
 }

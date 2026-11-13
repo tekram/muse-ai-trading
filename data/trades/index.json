@@ -1612,12 +1612,84 @@
       "fill": 119.94,
       "exit": 129.54,
       "pnl": -8.0
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "NRG",
+      "side": "long",
+      "fill": 93.5,
+      "exit": 97.1,
+      "pnl": 3.85
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "CEG",
+      "side": "long",
+      "fill": 260.46,
+      "exit": 280.2,
+      "pnl": 7.58
+    },
+    {
+      "date": "2026-11-09",
+      "ticker": "NVDA",
+      "side": "short",
+      "fill": 173.03,
+      "exit": 162.85,
+      "pnl": 5.88
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "AAON",
+      "side": "long",
+      "fill": 71.64,
+      "exit": 82.39,
+      "pnl": 15.01
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "AMD",
+      "side": "long",
+      "fill": 569.28,
+      "exit": 523.74,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "MRLN",
+      "side": "long",
+      "fill": 1.24,
+      "exit": 1.14,
+      "pnl": -8.06
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "NMAX",
+      "side": "long",
+      "fill": 9.25,
+      "exit": 8.51,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "CADL",
+      "side": "short",
+      "fill": 5.33,
+      "exit": 5.76,
+      "pnl": -8.07
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "GP",
+      "side": "short",
+      "fill": 1.0,
+      "exit": 1.08,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -187.9,
-  "total_pnl_pct": -187.9,
-  "total_trades": 198,
-  "updated_at": "2026-11-13 14:54 UTC",
-  "win_rate": 37.88,
-  "wins": 75
+  "total_pnl": -195.71,
+  "total_pnl_pct": -195.71,
+  "total_trades": 207,
+  "updated_at": "2026-11-13 22:15 UTC",
+  "win_rate": 38.16,
+  "wins": 79
 }

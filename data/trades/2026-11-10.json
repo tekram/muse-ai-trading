@@ -19,20 +19,21 @@
       "exit_reason": "Stop hit \u2014 day low 150.4001 <= stop 153.09."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 82.39,
+      "exit_date": "2026-11-13",
       "fill": 71.64,
       "fill_date": "2026-11-10",
       "mark": 80.45,
       "mark_as_of": "2026-11-13 14:10 CT",
-      "pnl_pct": null,
+      "pnl_pct": 15.01,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 65.91,
       "target": 82.39,
       "thesis": "Q3 EPS $0.83 vs $0.56 expected; revenue $707.4M, +84% y/y vs $599.7M expected; raised full-year 2026 sales growth guidance to 72-75%; order backlog $1.9B, +40.5% y/y.",
       "ticker": "AAON",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-12",
+      "exit_reason": "Target hit (+15% at 82.39)."
     },
     {
       "exit": 160.05,
@@ -56,7 +57,7 @@
       "exit_date": null,
       "fill": 218.25,
       "fill_date": "2026-11-10",
-      "mark": 227.89,
+      "mark": 227.82,
       "mark_as_of": "2026-11-13 14:10 CT",
       "pnl_pct": null,
       "side": "long",
@@ -65,7 +66,7 @@
       "target": 250.99,
       "thesis": "FQ2 net bookings $1.60B slightly missed and FY27 guidance cut - yet shares up on GTA 6 momentum: preloads began, 7M+ preorders generating $750M+, game unlocks Nov 19.",
       "ticker": "TTWO",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-13"
     }
   ],
   "shorts": [
@@ -120,8 +121,8 @@
   ],
   "summary": {
     "total_trades": 7,
-    "open": 2,
-    "closed": 5,
-    "total_pnl_pct": 5.97
+    "open": 1,
+    "closed": 6,
+    "total_pnl_pct": 20.98
   }
 }

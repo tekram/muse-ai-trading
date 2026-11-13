@@ -54,14 +54,15 @@
       "fill": 93.5,
       "stop": 86.02,
       "target": 107.53,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 97.1,
+      "exit_date": "2026-11-13",
+      "pnl_pct": 3.85,
       "thesis": "Q3 adjusted EPS $4.68 vs ~$3.03-3.35 expected, revenue $9.47B beat, net income tripled to $561M; plus a $4B sale of 4.9 GW of gas-fired generation to LS Power.",
       "mark": 96.52,
       "mark_as_of": "2026-11-13 14:10 CT",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-12",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 97.1."
     },
     {
       "ticker": "CEG",
@@ -70,14 +71,15 @@
       "fill": 260.46,
       "stop": 239.62,
       "target": 299.53,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 280.2,
+      "exit_date": "2026-11-13",
+      "pnl_pct": 7.58,
       "thesis": "Q3 adjusted EPS $5.06 vs $3.89 expected, revenue $9.55B (+45% y/y), raised full-year guidance to $12.50-12.80, plus a 20-year 270 MW nuclear supply deal.",
       "mark": 278.62,
       "mark_as_of": "2026-11-13 14:10 CT",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-12",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 280.2."
     }
   ],
   "shorts": [
@@ -102,14 +104,15 @@
       "fill": 173.03,
       "stop": 186.87,
       "target": 147.08,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 162.85,
+      "exit_date": "2026-11-13",
+      "pnl_pct": 5.88,
       "thesis": "Board opened an independent probe into CEO Jensen Huang over alleged ties to a Chinese intelligence asset; stock at a near-7-month low, ~22% below its Oct 6 record close.",
       "mark": 162.84,
       "mark_as_of": "2026-11-13 14:10 CT",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-12",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 162.85."
     },
     {
       "ticker": "IONS",
@@ -131,8 +134,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": 29.08
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": 46.39
   }
 }

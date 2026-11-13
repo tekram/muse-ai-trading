@@ -11,18 +11,19 @@
       "fill": 569.28,
       "stop": 523.74,
       "target": 654.67,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 523.74,
+      "exit_date": "2026-11-13",
+      "pnl_pct": -8.0,
       "thesis": "Nvidia-rotation flow: closed +7.32% Wed at $552.90 and +4.32% after hours; gapping above the prior day's high ($567.65) toward its $658.52 52-week high, with heavy call flow (75% of $444M premium).",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-12",
+      "exit_reason": "Stop hit \u2014 day low 520.01 <= stop 523.74."
     },
     {
       "ticker": "FIGR",
       "side": "long",
       "fill_date": "2026-11-12",
-      "mark": 25.62,
+      "mark": 25.22,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 25.34,
       "stop": 23.31,
@@ -32,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat: EPS $0.36 vs $0.31 expected, revenue $287M (+84% YoY), loan marketplace volume +135% to $5.8B; Q4 volume guide $6.2-6.7B and buyback doubled to $400M. Bouncing off its Nov 5 52-week low ($19.54).",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-13"
     },
     {
       "ticker": "ADXN",
@@ -54,7 +55,7 @@
       "ticker": "AVGO",
       "side": "long",
       "fill_date": "2026-11-12",
-      "mark": 346.15,
+      "mark": 347.01,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 356.8,
       "stop": 328.26,
@@ -64,7 +65,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Same Nvidia-rotation flow as AMD; closed +3.99% Wed at $345.22 and +2.36% after hours. Holding above the prior day's high ($356.85 intraday) with room toward its $495 52-week high.",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-13"
     }
   ],
   "shorts": [
@@ -104,7 +105,7 @@
       "ticker": "CTVA",
       "side": "short",
       "fill_date": "2026-11-12",
-      "mark": 9.28,
+      "mark": 9.43,
       "mark_as_of": "2026-11-13 14:10 CT",
       "fill": 10.51,
       "stop": 11.35,
@@ -114,13 +115,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 EPS $0.06 beat the $0.02 estimate, but sales of $1.6B missed and 2026 EBITDA guidance of ~$1.1B implies Q4 under $200M vs ~$400M expected; Citi called guidance 'sharply lower.' Earnings beat, guidance cut - the classic fade setup.",
-      "mark_date": "2026-11-12"
+      "mark_date": "2026-11-13"
     }
   ],
   "summary": {
     "total_trades": 7,
-    "open": 4,
-    "closed": 3,
-    "total_pnl_pct": -1.0
+    "open": 3,
+    "closed": 4,
+    "total_pnl_pct": -9.0
   }
 }
