@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-13",
+  "brief": "premarket brief 2026-11-13 07:13 CT",
+  "longs": [
+    {
+      "ticker": "MOD",
+      "side": "long",
+      "fill_date": "2026-11-13",
+      "fill": 142.0,
+      "stop": 130.64,
+      "target": 163.3,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Bloomberg reported Samsung Electronics is in talks to acquire the data-center cooling maker; neither company has confirmed, no price or terms reported. Gapping far above the prior day's high on deal-premium expectations, reclaiming the ~15% slide since its Nov 3 earnings miss."
+    },
+    {
+      "ticker": "MRLN",
+      "side": "long",
+      "fill_date": "2026-11-13",
+      "fill": 1.24,
+      "stop": 1.14,
+      "target": 1.43,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 revenue $3.46M beat the ~$2.0M estimate (+58% sequentially) and a new $8.9M USSOCOM task order moves the C-130J autonomy program into integration. Beaten-down microcap gapping off a Nov 5 52-week low ($0.74), still ~81% below its 200-day."
+    },
+    {
+      "ticker": "CBRS",
+      "side": "long",
+      "fill_date": "2026-11-13",
+      "fill": 108.7,
+      "stop": 100.0,
+      "target": 125.01,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Surprise Q3 profit (adjusted +$29.8M vs a $38.4M loss expected) and raised 2026 revenue forecast to $940-960M; cloud/services revenue more than tripled on the OpenAI deal, Microsoft signed as a customer. Deep drawdown name (down 47.2% from its May IPO price) gapping on a clean raise."
+    },
+    {
+      "ticker": "NMAX",
+      "side": "long",
+      "fill_date": "2026-11-13",
+      "fill": 9.25,
+      "stop": 8.51,
+      "target": 10.64,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 swung to a $15.2M profit ($0.12/share) from a $4.1M loss a year ago; revenue +52.5% to $69.0M. Thin premarket volume (~6.2k shares), so the print is fragile."
+    },
+    {
+      "ticker": "CSCO",
+      "side": "long",
+      "fill_date": "2026-11-13",
+      "fill": 100.47,
+      "stop": 92.43,
+      "target": 115.54,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "CADL",
+      "side": "short",
+      "fill_date": "2026-11-13",
+      "fill": 5.33,
+      "stop": 5.76,
+      "target": 4.53,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Disclosed a delay to its FDA BLA filing for CAN-2409 in prostate cancer to mid-2027 (previously guided this year); Q3 loss widened to $21.9M. Breaking down hard after a +49% year-to-date run into the report."
+    },
+    {
+      "ticker": "GP",
+      "side": "short",
+      "fill_date": "2026-11-13",
+      "fill": 1.0,
+      "stop": 1.08,
+      "target": 0.85,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Giving back Thursday's +175.6% regular-session surge on continued EV micro-cap weakness and dilution fears. A one-day parabolic move unwinding - the fade side of yesterday's top gainer."
+    },
+    {
+      "ticker": "NVDA",
+      "side": "short",
+      "fill_date": "2026-11-13",
+      "fill": 169.91,
+      "stop": 183.5,
+      "target": 144.42,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
