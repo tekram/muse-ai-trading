@@ -11,12 +11,13 @@
       "fill": 142.0,
       "stop": 130.64,
       "target": 163.3,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 130.64,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -8.0,
       "thesis": "Bloomberg reported Samsung Electronics is in talks to acquire the data-center cooling maker; neither company has confirmed, no price or terms reported. Gapping far above the prior day's high on deal-premium expectations, reclaiming the ~15% slide since its Nov 3 earnings miss.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-13",
+      "exit_reason": "Stop hit \u2014 day low 128.67 <= stop 130.64."
     },
     {
       "ticker": "MRLN",
@@ -43,12 +44,13 @@
       "fill": 108.7,
       "stop": 100.0,
       "target": 125.01,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 100.0,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -8.0,
       "thesis": "Surprise Q3 profit (adjusted +$29.8M vs a $38.4M loss expected) and raised 2026 revenue forecast to $940-960M; cloud/services revenue more than tripled on the OpenAI deal, Microsoft signed as a customer. Deep drawdown name (down 47.2% from its May IPO price) gapping on a clean raise.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-13",
+      "exit_reason": "Stop hit \u2014 day low 97.8 <= stop 100.0."
     },
     {
       "ticker": "NMAX",
@@ -70,7 +72,7 @@
       "ticker": "CSCO",
       "side": "long",
       "fill_date": "2026-11-13",
-      "mark": 95.64,
+      "mark": 94.52,
       "mark_as_of": "2026-11-13 14:55 CT",
       "fill": 100.47,
       "stop": 92.43,
@@ -80,7 +82,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-16"
     }
   ],
   "shorts": [
@@ -120,7 +122,7 @@
       "ticker": "NVDA",
       "side": "short",
       "fill_date": "2026-11-13",
-      "mark": 162.82,
+      "mark": 156.14,
       "mark_as_of": "2026-11-13 14:55 CT",
       "fill": 169.91,
       "stop": 183.5,
@@ -130,13 +132,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-16"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 4,
-    "closed": 4,
-    "total_pnl_pct": -32.13
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": -48.13
   }
 }

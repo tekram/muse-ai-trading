@@ -23,7 +23,7 @@
       "ticker": "FIGR",
       "side": "long",
       "fill_date": "2026-11-12",
-      "mark": 25.22,
+      "mark": 25.36,
       "mark_as_of": "2026-11-13 14:55 CT",
       "fill": 25.34,
       "stop": 23.31,
@@ -33,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat: EPS $0.36 vs $0.31 expected, revenue $287M (+84% YoY), loan marketplace volume +135% to $5.8B; Q4 volume guide $6.2-6.7B and buyback doubled to $400M. Bouncing off its Nov 5 52-week low ($19.54).",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-16"
     },
     {
       "ticker": "ADXN",
@@ -60,12 +60,13 @@
       "fill": 356.8,
       "stop": 328.26,
       "target": 410.32,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 328.26,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -8.0,
       "thesis": "Same Nvidia-rotation flow as AMD; closed +3.99% Wed at $345.22 and +2.36% after hours. Holding above the prior day's high ($356.85 intraday) with room toward its $495 52-week high.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-13",
+      "exit_reason": "Stop hit \u2014 day low 327.8 <= stop 328.26."
     }
   ],
   "shorts": [
@@ -110,18 +111,19 @@
       "fill": 10.51,
       "stop": 11.35,
       "target": 8.93,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 8.93,
+      "exit_date": "2026-11-16",
+      "pnl_pct": 15.03,
       "thesis": "Q3 EPS $0.06 beat the $0.02 estimate, but sales of $1.6B missed and 2026 EBITDA guidance of ~$1.1B implies Q4 under $200M vs ~$400M expected; Citi called guidance 'sharply lower.' Earnings beat, guidance cut - the classic fade setup.",
-      "mark_date": "2026-11-13"
+      "mark_date": "2026-11-13",
+      "exit_reason": "Target hit (+15% at 8.93)."
     }
   ],
   "summary": {
     "total_trades": 7,
-    "open": 3,
-    "closed": 4,
-    "total_pnl_pct": -9.0
+    "open": 1,
+    "closed": 6,
+    "total_pnl_pct": -1.97
   }
 }

@@ -1685,12 +1685,84 @@
       "fill": 1.0,
       "exit": 1.08,
       "pnl": -8.0
+    },
+    {
+      "date": "2026-11-10",
+      "ticker": "TTWO",
+      "side": "long",
+      "fill": 218.25,
+      "exit": 213.47,
+      "pnl": -2.19
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "AVGO",
+      "side": "long",
+      "fill": 356.8,
+      "exit": 328.26,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "CTVA",
+      "side": "short",
+      "fill": 10.51,
+      "exit": 8.93,
+      "pnl": 15.03
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "MOD",
+      "side": "long",
+      "fill": 142.0,
+      "exit": 130.64,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "CBRS",
+      "side": "long",
+      "fill": 108.7,
+      "exit": 100.0,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "AKAN",
+      "side": "long",
+      "fill": 1.92,
+      "exit": 1.77,
+      "pnl": -7.81
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "GP",
+      "side": "long",
+      "fill": 1.54,
+      "exit": 1.42,
+      "pnl": -7.79
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "CLRO",
+      "side": "long",
+      "fill": 4.61,
+      "exit": 4.24,
+      "pnl": -8.03
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "SLSN",
+      "side": "long",
+      "fill": 1.58,
+      "exit": 1.82,
+      "pnl": 15.19
     }
   ],
-  "total_pnl": -195.71,
-  "total_pnl_pct": -195.71,
-  "total_trades": 207,
-  "updated_at": "2026-11-16 14:52 UTC",
-  "win_rate": 38.16,
-  "wins": 79
+  "total_pnl": -215.31,
+  "total_pnl_pct": -215.31,
+  "total_trades": 216,
+  "updated_at": "2026-11-16 22:20 UTC",
+  "win_rate": 37.5,
+  "wins": 81
 }

@@ -9,11 +9,12 @@
       "fill": 1.92,
       "stop": 1.77,
       "target": 2.21,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Speculative momentum continuation after +102% Friday on ~89M shares; no fresh company news identified. Broke out of a sub-$1 base, now well above Friday's $1.36 close."
+      "status": "closed",
+      "exit": 1.77,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -7.81,
+      "thesis": "Speculative momentum continuation after +102% Friday on ~89M shares; no fresh company news identified. Broke out of a sub-$1 base, now well above Friday's $1.36 close.",
+      "exit_reason": "Stop hit \u2014 day low 1.7 <= stop 1.77. (stop-before-target convention; target 2.21 also touched at day high 2.38)."
     },
     {
       "ticker": "GP",
@@ -22,11 +23,12 @@
       "fill": 1.54,
       "stop": 1.42,
       "target": 1.77,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Continuation of last week's parabolic run (+174% Thu, +123% intraday Wed) with no company news; Nasdaq $1 minimum-bid compliance chase, tiny ~2.1M-share float after the Oct 19 1-for-5 split."
+      "status": "closed",
+      "exit": 1.42,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -7.79,
+      "thesis": "Continuation of last week's parabolic run (+174% Thu, +123% intraday Wed) with no company news; Nasdaq $1 minimum-bid compliance chase, tiny ~2.1M-share float after the Oct 19 1-for-5 split.",
+      "exit_reason": "Stop hit \u2014 day low 1.32 <= stop 1.42. (stop-before-target convention; target 1.77 also touched at day high 1.92)."
     },
     {
       "ticker": "CLRO",
@@ -35,11 +37,12 @@
       "fill": 4.61,
       "stop": 4.24,
       "target": 5.3,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Cortigent reverse merger pending final regulatory approval, outside date late Dec 2026; low-float, volatile. Gapping toward the top of its 50-day range ($1.72-$5.65) from Friday's $3.37 close."
+      "status": "closed",
+      "exit": 4.24,
+      "exit_date": "2026-11-16",
+      "pnl_pct": -8.03,
+      "thesis": "Cortigent reverse merger pending final regulatory approval, outside date late Dec 2026; low-float, volatile. Gapping toward the top of its 50-day range ($1.72-$5.65) from Friday's $3.37 close.",
+      "exit_reason": "Stop hit \u2014 day low 4.12 <= stop 4.24."
     },
     {
       "ticker": "SLSN",
@@ -48,11 +51,12 @@
       "fill": 1.58,
       "stop": 1.45,
       "target": 1.82,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Top Nasdaq gainer this morning (+67.7% premarket to $1.51); no fresh catalyst identified in this morning's searches \u2014 pure momentum, treat as a watch."
+      "status": "closed",
+      "exit": 1.82,
+      "exit_date": "2026-11-16",
+      "pnl_pct": 15.19,
+      "thesis": "Top Nasdaq gainer this morning (+67.7% premarket to $1.51); no fresh catalyst identified in this morning's searches \u2014 pure momentum, treat as a watch.",
+      "exit_reason": "Target hit (+15% at 1.82)."
     },
     {
       "ticker": "MOD",
@@ -65,7 +69,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Bloomberg reported Samsung is in takeover talks (deal could come within weeks; no price or terms confirmed, neither company has confirmed). Friday call volume ran +355%; $147.31 caps the rally; Investor Day Wed Nov 18."
+      "thesis": "Bloomberg reported Samsung is in takeover talks (deal could come within weeks; no price or terms confirmed, neither company has confirmed). Friday call volume ran +355%; $147.31 caps the rally; Investor Day Wed Nov 18.",
+      "mark": 130.55,
+      "mark_date": "2026-11-16"
     }
   ],
   "shorts": [
@@ -80,7 +86,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "FDA issued a Complete Response Letter on Nov 15 for ivonescimab (EGFR-mutant NSCLC) \u2014 no statistically significant overall-survival benefit, so the US launch is halted. Breaking down hard on the regulatory rejection."
+      "thesis": "FDA issued a Complete Response Letter on Nov 15 for ivonescimab (EGFR-mutant NSCLC) \u2014 no statistically significant overall-survival benefit, so the US launch is halted. Breaking down hard on the regulatory rejection.",
+      "mark": 11.82,
+      "mark_date": "2026-11-16"
     },
     {
       "ticker": "NVDA",
@@ -93,7 +101,9 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "CEO Jensen Huang resigned; earnings land Tue after the close; -12% last week and now >30% below recent highs. Chips weak across the board \u2014 avoid into the print with the leadership vacuum unresolved."
+      "thesis": "CEO Jensen Huang resigned; earnings land Tue after the close; -12% last week and now >30% below recent highs. Chips weak across the board \u2014 avoid into the print with the leadership vacuum unresolved.",
+      "mark": 156.14,
+      "mark_date": "2026-11-16"
     },
     {
       "ticker": "CSCO",
@@ -106,13 +116,15 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q1 beat ($1.40 vs $1.33) but gross margin squeezed to 65.6% from 68.1%; crossed below its 200-day ($102.21). Street price-target cuts followed (Citi $120, Truist $127, Barclays $109; Morgan Stanley cut to Equal Weight)."
+      "thesis": "Q1 beat ($1.40 vs $1.33) but gross margin squeezed to 65.6% from 68.1%; crossed below its 200-day ($102.21). Street price-target cuts followed (Citi $120, Truist $127, Barclays $109; Morgan Stanley cut to Equal Weight).",
+      "mark": 94.52,
+      "mark_date": "2026-11-16"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": -8.44
   }
 }
