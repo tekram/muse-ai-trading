@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-16",
+  "brief": "premarket brief 2026-11-16 07:13 CT",
+  "longs": [
+    {
+      "ticker": "AKAN",
+      "side": "long",
+      "fill_date": "2026-11-16",
+      "fill": 1.92,
+      "stop": 1.77,
+      "target": 2.21,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Speculative momentum continuation after +102% Friday on ~89M shares; no fresh company news identified. Broke out of a sub-$1 base, now well above Friday's $1.36 close."
+    },
+    {
+      "ticker": "GP",
+      "side": "long",
+      "fill_date": "2026-11-16",
+      "fill": 1.54,
+      "stop": 1.42,
+      "target": 1.77,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Continuation of last week's parabolic run (+174% Thu, +123% intraday Wed) with no company news; Nasdaq $1 minimum-bid compliance chase, tiny ~2.1M-share float after the Oct 19 1-for-5 split."
+    },
+    {
+      "ticker": "CLRO",
+      "side": "long",
+      "fill_date": "2026-11-16",
+      "fill": 4.61,
+      "stop": 4.24,
+      "target": 5.3,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Cortigent reverse merger pending final regulatory approval, outside date late Dec 2026; low-float, volatile. Gapping toward the top of its 50-day range ($1.72-$5.65) from Friday's $3.37 close."
+    },
+    {
+      "ticker": "SLSN",
+      "side": "long",
+      "fill_date": "2026-11-16",
+      "fill": 1.58,
+      "stop": 1.45,
+      "target": 1.82,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Top Nasdaq gainer this morning (+67.7% premarket to $1.51); no fresh catalyst identified in this morning's searches \u2014 pure momentum, treat as a watch."
+    },
+    {
+      "ticker": "MOD",
+      "side": "long",
+      "fill_date": "2026-11-16",
+      "fill": 132.35,
+      "stop": 121.76,
+      "target": 152.2,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Bloomberg reported Samsung is in takeover talks (deal could come within weeks; no price or terms confirmed, neither company has confirmed). Friday call volume ran +355%; $147.31 caps the rally; Investor Day Wed Nov 18."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "SMMT",
+      "side": "short",
+      "fill_date": "2026-11-16",
+      "fill": 12.71,
+      "stop": 13.73,
+      "target": 10.8,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "FDA issued a Complete Response Letter on Nov 15 for ivonescimab (EGFR-mutant NSCLC) \u2014 no statistically significant overall-survival benefit, so the US launch is halted. Breaking down hard on the regulatory rejection."
+    },
+    {
+      "ticker": "NVDA",
+      "side": "short",
+      "fill_date": "2026-11-16",
+      "fill": 159.02,
+      "stop": 171.74,
+      "target": 135.17,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "CEO Jensen Huang resigned; earnings land Tue after the close; -12% last week and now >30% below recent highs. Chips weak across the board \u2014 avoid into the print with the leadership vacuum unresolved."
+    },
+    {
+      "ticker": "CSCO",
+      "side": "short",
+      "fill_date": "2026-11-16",
+      "fill": 94.49,
+      "stop": 102.05,
+      "target": 80.32,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q1 beat ($1.40 vs $1.33) but gross margin squeezed to 65.6% from 68.1%; crossed below its 200-day ($102.21). Street price-target cuts followed (Citi $120, Truist $127, Barclays $109; Morgan Stanley cut to Equal Weight)."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
