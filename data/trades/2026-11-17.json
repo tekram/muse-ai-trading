@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-17",
+  "brief": "premarket brief 2026-11-17 07:13 CT",
+  "longs": [
+    {
+      "ticker": "MRVL",
+      "side": "long",
+      "fill_date": "2026-11-17",
+      "fill": 150.2,
+      "stop": 138.18,
+      "target": 172.73,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Marvell + Penguin Solutions announced an AI-memory collaboration Nov 16 (CXL cards powered by Marvell Structera X controllers); bouncing after a -7.3% Monday rout to $145.36 \u2014 chip-rebound leader, well off its $329.88 52-week high."
+    },
+    {
+      "ticker": "INTC",
+      "side": "long",
+      "fill_date": "2026-11-17",
+      "fill": 55.17,
+      "stop": 50.76,
+      "target": 63.45,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Part of the broad chip bounce after Monday's semiconductor washout; no company-specific news \u2014 rebounding with the SOX complex, momentum follow-through watch, not a standalone setup."
+    },
+    {
+      "ticker": "AYTU",
+      "side": "long",
+      "fill_date": "2026-11-17",
+      "fill": 2.66,
+      "stop": 2.45,
+      "target": 3.06,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Definitive $2.70/share cash buyout by Rosemont Pharmaceuticals ($16.53M deal); gapping to just under the deal price \u2014 buyout-arb gap, upside capped at the offer."
+    },
+    {
+      "ticker": "SPAI",
+      "side": "long",
+      "fill_date": "2026-11-17",
+      "fill": 3.01,
+      "stop": 2.77,
+      "target": 3.46,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Reported revenue +2,539% year over year; strong gap on heavy volume (2.7M shares premarket) \u2014 small-cap momentum, thin and volatile."
+    },
+    {
+      "ticker": "GP",
+      "side": "long",
+      "fill_date": "2026-11-17",
+      "fill": 2.71,
+      "stop": 2.49,
+      "target": 3.12,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Speculative surge continuing after yesterday's action despite a GAAP EPS loss of $1.64; pure momentum/parabolic name, no fundamental leg \u2014 treat as a lottery ticket, not a setup."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "RCAT",
+      "side": "short",
+      "fill_date": "2026-11-17",
+      "fill": 2.55,
+      "stop": 2.75,
+      "target": 2.17,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Withdrew full-year 2026 revenue guidance and missed Q3 estimates; gapping down through support on 10x relative volume \u2014 broken guidance story, avoid longs."
+    },
+    {
+      "ticker": "GMM",
+      "side": "short",
+      "fill_date": "2026-11-17",
+      "fill": 1.58,
+      "stop": 1.71,
+      "target": 1.34,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Giving back Monday's +120.6% parabolic run after its indirect Anthropic investment announcement \u2014 the news didn't hold the move; classic post-parabolic fade."
+    },
+    {
+      "ticker": "ALAB",
+      "side": "short",
+      "fill_date": "2026-11-17",
+      "fill": 207.63,
+      "stop": 224.24,
+      "target": 176.49,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Chip weakness continuing into the AI-leadership selloff ahead of NVDA earnings (no company-specific news); breaking down with the semiconductor complex \u2014 weak into the event."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
