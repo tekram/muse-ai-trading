@@ -54,20 +54,21 @@
       "exit_reason": "Stop hit \u2014 day low 148.8 <= stop 158.98."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 714.97,
+      "exit_date": "2026-11-17",
       "fill": 777.14,
       "fill_date": "2026-11-11",
       "mark": 712.42,
       "mark_as_of": "2026-11-17 14:55 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 714.97,
       "target": 893.71,
       "thesis": "Memory-chip rally: TSMC's October revenue +59.7% YoY; SNDK +8%, STX/WDC +7% across semis. Bounce off a weak week (PHLX Semis fell 5.7%) with a sector-wide tailwind.",
       "ticker": "MU",
-      "mark_date": "2026-11-16"
+      "mark_date": "2026-11-16",
+      "exit_reason": "Stop hit \u2014 day low 666.88 <= stop 714.97."
     },
     {
       "exit": 137.74,
@@ -140,8 +141,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 1,
-    "closed": 7,
-    "total_pnl_pct": -10.06
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -18.06
   }
 }

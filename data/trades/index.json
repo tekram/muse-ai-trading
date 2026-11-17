@@ -1758,12 +1758,44 @@
       "fill": 1.58,
       "exit": 1.82,
       "pnl": 15.19
+    },
+    {
+      "date": "2026-11-11",
+      "ticker": "MU",
+      "side": "long",
+      "fill": 777.14,
+      "exit": 714.97,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "SMMT",
+      "side": "short",
+      "fill": 12.71,
+      "exit": 10.8,
+      "pnl": 15.03
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "GP",
+      "side": "long",
+      "fill": 2.71,
+      "exit": 2.49,
+      "pnl": -8.12
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "GMM",
+      "side": "short",
+      "fill": 1.58,
+      "exit": 1.34,
+      "pnl": 15.19
     }
   ],
-  "total_pnl": -215.31,
-  "total_pnl_pct": -215.31,
-  "total_trades": 216,
-  "updated_at": "2026-11-17 14:53 UTC",
-  "win_rate": 37.5,
-  "wins": 81
+  "total_pnl": -201.21,
+  "total_pnl_pct": -201.21,
+  "total_trades": 220,
+  "updated_at": "2026-11-17 22:16 UTC",
+  "win_rate": 37.73,
+  "wins": 83
 }

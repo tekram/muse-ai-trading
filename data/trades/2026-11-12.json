@@ -23,7 +23,7 @@
       "ticker": "FIGR",
       "side": "long",
       "fill_date": "2026-11-12",
-      "mark": 24.7,
+      "mark": 24.72,
       "mark_as_of": "2026-11-17 14:55 CT",
       "fill": 25.34,
       "stop": 23.31,
@@ -33,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat: EPS $0.36 vs $0.31 expected, revenue $287M (+84% YoY), loan marketplace volume +135% to $5.8B; Q4 volume guide $6.2-6.7B and buyback doubled to $400M. Bouncing off its Nov 5 52-week low ($19.54).",
-      "mark_date": "2026-11-16"
+      "mark_date": "2026-11-17"
     },
     {
       "ticker": "ADXN",
