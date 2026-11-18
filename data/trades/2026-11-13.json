@@ -72,7 +72,7 @@
       "ticker": "CSCO",
       "side": "long",
       "fill_date": "2026-11-13",
-      "mark": 97.16,
+      "mark": 97.18,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 100.47,
       "stop": 92.43,
@@ -82,7 +82,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     }
   ],
   "shorts": [
@@ -122,7 +122,7 @@
       "ticker": "NVDA",
       "side": "short",
       "fill_date": "2026-11-13",
-      "mark": 150.64,
+      "mark": 150.96,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 169.91,
       "stop": 183.5,
@@ -132,7 +132,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     }
   ],
   "summary": {

@@ -28,12 +28,13 @@
       "fill": 25.34,
       "stop": 23.31,
       "target": 29.14,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 26.06,
+      "exit_date": "2026-11-18",
+      "pnl_pct": 2.84,
       "thesis": "Q3 beat: EPS $0.36 vs $0.31 expected, revenue $287M (+84% YoY), loan marketplace volume +135% to $5.8B; Q4 volume guide $6.2-6.7B and buyback doubled to $400M. Bouncing off its Nov 5 52-week low ($19.54).",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-17",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 26.06."
     },
     {
       "ticker": "ADXN",
@@ -122,8 +123,8 @@
   ],
   "summary": {
     "total_trades": 7,
-    "open": 1,
-    "closed": 6,
-    "total_pnl_pct": -1.97
+    "open": 0,
+    "closed": 7,
+    "total_pnl_pct": 0.87
   }
 }

@@ -70,9 +70,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Bloomberg reported Samsung is in takeover talks (deal could come within weeks; no price or terms confirmed, neither company has confirmed). Friday call volume ran +355%; $147.31 caps the rally; Investor Day Wed Nov 18.",
-      "mark": 138.22,
+      "mark": 137.88,
       "mark_as_of": "2026-11-18 14:55 CT",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     }
   ],
   "shorts": [
@@ -105,9 +105,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "CEO Jensen Huang resigned; earnings land Tue after the close; -12% last week and now >30% below recent highs. Chips weak across the board \u2014 avoid into the print with the leadership vacuum unresolved.",
-      "mark": 150.64,
+      "mark": 150.96,
       "mark_as_of": "2026-11-18 14:55 CT",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "CSCO",
@@ -121,9 +121,9 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q1 beat ($1.40 vs $1.33) but gross margin squeezed to 65.6% from 68.1%; crossed below its 200-day ($102.21). Street price-target cuts followed (Citi $120, Truist $127, Barclays $109; Morgan Stanley cut to Equal Weight).",
-      "mark": 97.16,
+      "mark": 97.18,
       "mark_as_of": "2026-11-18 14:55 CT",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     }
   ],
   "summary": {

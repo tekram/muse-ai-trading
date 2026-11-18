@@ -6,7 +6,7 @@
       "ticker": "NVDA",
       "side": "long",
       "fill_date": "2026-11-18",
-      "mark": 150.64,
+      "mark": 150.96,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 159.19,
       "stop": 146.45,
@@ -15,13 +15,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 FY2027 blowout — revenue $115.8B (+103% y/y) vs ~$109B expected, adj. EPS $2.68 vs ~$2.48, data center $107.6B; Q4 guide ~$130B vs ~$125B consensus. Bouncing after six straight weekly declines and a ~24% November slide."
+      "thesis": "Q3 FY2027 blowout \u2014 revenue $115.8B (+103% y/y) vs ~$109B expected, adj. EPS $2.68 vs ~$2.48, data center $107.6B; Q4 guide ~$130B vs ~$125B consensus. Bouncing after six straight weekly declines and a ~24% November slide.",
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "TJX",
       "side": "long",
       "fill_date": "2026-11-18",
-      "mark": 140.37,
+      "mark": 140.3,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 137.01,
       "stop": 126.05,
@@ -30,7 +31,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season."
+      "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season.",
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "PONY",
@@ -41,11 +43,12 @@
       "fill": 4.36,
       "stop": 4.01,
       "target": 5.01,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Q3 loss of $0.11/share, narrower than the $0.18 consensus loss (sales $25.4M missed the $39.1M consensus). Gap-up on earnings, small-cap autonomous-driving name with momentum."
+      "status": "closed",
+      "exit": 4.01,
+      "exit_date": "2026-11-18",
+      "pnl_pct": -8.03,
+      "thesis": "Q3 loss of $0.11/share, narrower than the $0.18 consensus loss (sales $25.4M missed the $39.1M consensus). Gap-up on earnings, small-cap autonomous-driving name with momentum.",
+      "exit_reason": "Stop hit \u2014 day low 3.67 <= stop 4.01."
     },
     {
       "ticker": "NBIS",
@@ -56,11 +59,12 @@
       "fill": 109.83,
       "stop": 101.04,
       "target": 126.3,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "AI-infrastructure sympathy rally on NVDA's beat and $130B guide; cloud backlog narrative back in favor. Bouncing after a ~25% slide over 5 sessions; still well below its $299.86 52-week high."
+      "status": "closed",
+      "exit": 101.04,
+      "exit_date": "2026-11-18",
+      "pnl_pct": -8.0,
+      "thesis": "AI-infrastructure sympathy rally on NVDA's beat and $130B guide; cloud backlog narrative back in favor. Bouncing after a ~25% slide over 5 sessions; still well below its $299.86 52-week high.",
+      "exit_reason": "Stop hit \u2014 day low 100.8 <= stop 101.04."
     },
     {
       "ticker": "GP",
@@ -71,11 +75,12 @@
       "fill": 2.87,
       "stop": 2.64,
       "target": 3.3,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Momentum continuation — +87% on Tuesday, +~400% over 5 sessions; EV-sector positioning. Extreme extension — speculative only, chase risk is high; watch for follow-through above Tuesday's $3.39 high or a sharp fade."
+      "status": "closed",
+      "exit": 2.64,
+      "exit_date": "2026-11-18",
+      "pnl_pct": -8.01,
+      "thesis": "Momentum continuation \u2014 +87% on Tuesday, +~400% over 5 sessions; EV-sector positioning. Extreme extension \u2014 speculative only, chase risk is high; watch for follow-through above Tuesday's $3.39 high or a sharp fade.",
+      "exit_reason": "Stop hit \u2014 day low 2.3201 <= stop 2.64."
     }
   ],
   "shorts": [
@@ -83,7 +88,7 @@
       "ticker": "AAOI",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 40.81,
+      "mark": 40.79,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 41.35,
       "stop": 44.66,
@@ -92,7 +97,8 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Filed a massive $550M mixed-shelf stock offering — dilution overhang on a name already -40% over the past month. Breaking down from the $45 area; prior session range $42.65–48.22."
+      "thesis": "Filed a massive $550M mixed-shelf stock offering \u2014 dilution overhang on a name already -40% over the past month. Breaking down from the $45 area; prior session range $42.65\u201348.22.",
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "SLS",
@@ -103,17 +109,18 @@
       "fill": 19.51,
       "stop": 21.07,
       "target": 16.58,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
-      "thesis": "Priced a $150M underwritten public offering immediately after Tuesday's +156% clinical-data surge to $19.15. Classic post-parabolic offering fade — the offering caps the move; avoid chasing the spike."
+      "status": "closed",
+      "exit": 21.07,
+      "exit_date": "2026-11-18",
+      "pnl_pct": -8.0,
+      "thesis": "Priced a $150M underwritten public offering immediately after Tuesday's +156% clinical-data surge to $19.15. Classic post-parabolic offering fade \u2014 the offering caps the move; avoid chasing the spike.",
+      "exit_reason": "Stop hit \u2014 day high 21.4 >= stop 21.07."
     },
     {
       "ticker": "LOW",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 222.26,
+      "mark": 222.78,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 212.07,
       "stop": 229.04,
@@ -122,13 +129,14 @@
       "exit": null,
       "exit_date": null,
       "pnl_pct": null,
-      "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold."
+      "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold.",
+      "mark_date": "2026-11-18"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": -32.04
   }
 }

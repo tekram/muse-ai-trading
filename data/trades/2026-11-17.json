@@ -6,7 +6,7 @@
       "ticker": "MRVL",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 145.57,
+      "mark": 145.54,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 150.2,
       "stop": 138.18,
@@ -16,13 +16,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Marvell + Penguin Solutions announced an AI-memory collaboration Nov 16 (CXL cards powered by Marvell Structera X controllers); bouncing after a -7.3% Monday rout to $145.36 \u2014 chip-rebound leader, well off its $329.88 52-week high.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "INTC",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 54.63,
+      "mark": 54.67,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 55.17,
       "stop": 50.76,
@@ -32,7 +32,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Part of the broad chip bounce after Monday's semiconductor washout; no company-specific news \u2014 rebounding with the SOX complex, momentum follow-through watch, not a standalone setup.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "AYTU",
@@ -48,13 +48,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Definitive $2.70/share cash buyout by Rosemont Pharmaceuticals ($16.53M deal); gapping to just under the deal price \u2014 buyout-arb gap, upside capped at the offer.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "SPAI",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 2.92,
+      "mark": 2.91,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 3.01,
       "stop": 2.77,
@@ -64,7 +64,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Reported revenue +2,539% year over year; strong gap on heavy volume (2.7M shares premarket) \u2014 small-cap momentum, thin and volatile.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     },
     {
       "ticker": "GP",
@@ -93,12 +93,13 @@
       "fill": 2.55,
       "stop": 2.75,
       "target": 2.17,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 2.17,
+      "exit_date": "2026-11-18",
+      "pnl_pct": 14.9,
       "thesis": "Withdrew full-year 2026 revenue guidance and missed Q3 estimates; gapping down through support on 10x relative volume \u2014 broken guidance story, avoid longs.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-17",
+      "exit_reason": "Target hit (+15% at 2.17)."
     },
     {
       "ticker": "GMM",
@@ -120,7 +121,7 @@
       "ticker": "ALAB",
       "side": "short",
       "fill_date": "2026-11-17",
-      "mark": 216.62,
+      "mark": 216.75,
       "mark_as_of": "2026-11-18 14:55 CT",
       "fill": 207.63,
       "stop": 224.24,
@@ -130,13 +131,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Chip weakness continuing into the AI-leadership selloff ahead of NVDA earnings (no company-specific news); breaking down with the semiconductor complex \u2014 weak into the event.",
-      "mark_date": "2026-11-17"
+      "mark_date": "2026-11-18"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 6,
-    "closed": 2,
-    "total_pnl_pct": 7.07
+    "open": 5,
+    "closed": 3,
+    "total_pnl_pct": 21.97
   }
 }

@@ -1791,12 +1791,60 @@
       "fill": 1.58,
       "exit": 1.34,
       "pnl": 15.19
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "FIGR",
+      "side": "long",
+      "fill": 25.34,
+      "exit": 26.06,
+      "pnl": 2.84
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "RCAT",
+      "side": "short",
+      "fill": 2.55,
+      "exit": 2.17,
+      "pnl": 14.9
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "PONY",
+      "side": "long",
+      "fill": 4.36,
+      "exit": 4.01,
+      "pnl": -8.03
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "NBIS",
+      "side": "long",
+      "fill": 109.83,
+      "exit": 101.04,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "GP",
+      "side": "long",
+      "fill": 2.87,
+      "exit": 2.64,
+      "pnl": -8.01
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "SLS",
+      "side": "short",
+      "fill": 19.51,
+      "exit": 21.07,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -201.21,
-  "total_pnl_pct": -201.21,
-  "total_trades": 220,
-  "updated_at": "2026-11-18 14:55 UTC",
-  "win_rate": 37.73,
-  "wins": 83
+  "total_pnl": -215.51,
+  "total_pnl_pct": -215.51,
+  "total_trades": 226,
+  "updated_at": "2026-11-18 22:15 UTC",
+  "win_rate": 37.61,
+  "wins": 85
 }
