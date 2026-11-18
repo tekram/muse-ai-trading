@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-18",
+  "brief": "premarket brief 2026-11-18 07:13 CT",
+  "longs": [
+    {
+      "ticker": "NVDA",
+      "side": "long",
+      "fill_date": "2026-11-18",
+      "fill": 159.19,
+      "stop": 146.45,
+      "target": 183.07,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 FY2027 blowout — revenue $115.8B (+103% y/y) vs ~$109B expected, adj. EPS $2.68 vs ~$2.48, data center $107.6B; Q4 guide ~$130B vs ~$125B consensus. Bouncing after six straight weekly declines and a ~24% November slide."
+    },
+    {
+      "ticker": "TJX",
+      "side": "long",
+      "fill_date": "2026-11-18",
+      "fill": 137.01,
+      "stop": 126.05,
+      "target": 157.56,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season."
+    },
+    {
+      "ticker": "PONY",
+      "side": "long",
+      "fill_date": "2026-11-18",
+      "fill": 4.36,
+      "stop": 4.01,
+      "target": 5.01,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 loss of $0.11/share, narrower than the $0.18 consensus loss (sales $25.4M missed the $39.1M consensus). Gap-up on earnings, small-cap autonomous-driving name with momentum."
+    },
+    {
+      "ticker": "NBIS",
+      "side": "long",
+      "fill_date": "2026-11-18",
+      "fill": 109.83,
+      "stop": 101.04,
+      "target": 126.3,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "AI-infrastructure sympathy rally on NVDA's beat and $130B guide; cloud backlog narrative back in favor. Bouncing after a ~25% slide over 5 sessions; still well below its $299.86 52-week high."
+    },
+    {
+      "ticker": "GP",
+      "side": "long",
+      "fill_date": "2026-11-18",
+      "fill": 2.87,
+      "stop": 2.64,
+      "target": 3.3,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Momentum continuation — +87% on Tuesday, +~400% over 5 sessions; EV-sector positioning. Extreme extension — speculative only, chase risk is high; watch for follow-through above Tuesday's $3.39 high or a sharp fade."
+    }
+  ],
+  "shorts": [
+    {
+      "ticker": "AAOI",
+      "side": "short",
+      "fill_date": "2026-11-18",
+      "fill": 41.35,
+      "stop": 44.66,
+      "target": 35.15,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Filed a massive $550M mixed-shelf stock offering — dilution overhang on a name already -40% over the past month. Breaking down from the $45 area; prior session range $42.65–48.22."
+    },
+    {
+      "ticker": "SLS",
+      "side": "short",
+      "fill_date": "2026-11-18",
+      "fill": 19.51,
+      "stop": 21.07,
+      "target": 16.58,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Priced a $150M underwritten public offering immediately after Tuesday's +156% clinical-data surge to $19.15. Classic post-parabolic offering fade — the offering caps the move; avoid chasing the spike."
+    },
+    {
+      "ticker": "LOW",
+      "side": "short",
+      "fill_date": "2026-11-18",
+      "fill": 212.07,
+      "stop": 229.04,
+      "target": 180.26,
+      "status": "open",
+      "exit": null,
+      "exit_date": null,
+      "pnl_pct": null,
+      "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold."
+    }
+  ],
+  "summary": {
+    "total_trades": 8,
+    "open": 8,
+    "closed": 0,
+    "total_pnl_pct": 0
+  }
+}
