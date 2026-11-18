@@ -18,7 +18,7 @@
       "group": "subsector",
       "weekly": 1.15,
       "daily": -1.36,
-      "intraday": -1.92,
+      "intraday": -2.03,
       "price": 177.53
     },
     {
@@ -108,8 +108,8 @@
       "group": "segment",
       "weekly": -2.34,
       "daily": -1.02,
-      "intraday": -0.8,
-      "price": 732.4
+      "intraday": -0.81,
+      "price": 732.39
     },
     {
       "ticker": "XLI",
@@ -243,7 +243,7 @@
       "group": "segment",
       "weekly": -4.12,
       "daily": -1.44,
-      "intraday": -1.15,
+      "intraday": -1.11,
       "price": 269.02
     },
     {
@@ -252,7 +252,7 @@
       "group": "subsector",
       "weekly": -4.48,
       "daily": -1.44,
-      "intraday": -1.01,
+      "intraday": -0.99,
       "price": 88.3
     },
     {
@@ -265,13 +265,13 @@
       "price": 95.76
     },
     {
-      "ticker": "BETZ",
-      "name": "Sports Betting & Gaming",
-      "group": "subsector",
-      "weekly": -4.57,
-      "daily": -1.65,
-      "intraday": -0.76,
-      "price": 15.76
+      "ticker": "GLD",
+      "name": "Gold",
+      "group": "commodity",
+      "weekly": -4.58,
+      "daily": -0.13,
+      "intraday": -0.4,
+      "price": 352.46
     },
     {
       "ticker": "SMH",
@@ -281,6 +281,15 @@
       "daily": -0.37,
       "intraday": -1.33,
       "price": 460.21
+    },
+    {
+      "ticker": "BETZ",
+      "name": "Sports Betting & Gaming",
+      "group": "subsector",
+      "weekly": -4.94,
+      "daily": -2.03,
+      "intraday": -1.13,
+      "price": 15.7
     },
     {
       "ticker": "XPH",
