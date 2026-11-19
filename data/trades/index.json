@@ -1840,12 +1840,68 @@
       "fill": 19.51,
       "exit": 21.07,
       "pnl": -8.0
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "CSCO",
+      "side": "long",
+      "fill": 100.47,
+      "exit": 94.7,
+      "pnl": -5.74
+    },
+    {
+      "date": "2026-11-13",
+      "ticker": "NVDA",
+      "side": "short",
+      "fill": 169.91,
+      "exit": 145.98,
+      "pnl": 14.08
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "SPAI",
+      "side": "long",
+      "fill": 3.01,
+      "exit": 2.77,
+      "pnl": -7.97
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "ALAB",
+      "side": "short",
+      "fill": 207.63,
+      "exit": 224.24,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "NVDA",
+      "side": "long",
+      "fill": 159.19,
+      "exit": 146.45,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "SEAT",
+      "side": "long",
+      "fill": 2.52,
+      "exit": 2.32,
+      "pnl": -7.94
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "SOXS",
+      "side": "short",
+      "fill": 52.81,
+      "exit": 57.03,
+      "pnl": -7.99
     }
   ],
-  "total_pnl": -215.51,
-  "total_pnl_pct": -215.51,
-  "total_trades": 226,
-  "updated_at": "2026-11-19 14:52 UTC",
-  "win_rate": 37.61,
-  "wins": 85
+  "total_pnl": -247.07,
+  "total_pnl_pct": -247.07,
+  "total_trades": 233,
+  "updated_at": "2026-11-19 22:17 UTC",
+  "win_rate": 36.91,
+  "wins": 86
 }

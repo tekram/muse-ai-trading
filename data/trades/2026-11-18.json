@@ -11,18 +11,19 @@
       "fill": 159.19,
       "stop": 146.45,
       "target": 183.07,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 146.45,
+      "exit_date": "2026-11-19",
+      "pnl_pct": -8.0,
       "thesis": "Q3 FY2027 blowout \u2014 revenue $115.8B (+103% y/y) vs ~$109B expected, adj. EPS $2.68 vs ~$2.48, data center $107.6B; Q4 guide ~$130B vs ~$125B consensus. Bouncing after six straight weekly declines and a ~24% November slide.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-18",
+      "exit_reason": "Stop hit \u2014 day low 145.71 <= stop 146.45."
     },
     {
       "ticker": "TJX",
       "side": "long",
       "fill_date": "2026-11-18",
-      "mark": 139.5,
+      "mark": 139.41,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 137.01,
       "stop": 126.05,
@@ -32,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     },
     {
       "ticker": "PONY",
@@ -88,7 +89,7 @@
       "ticker": "AAOI",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 39.43,
+      "mark": 39.46,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 41.35,
       "stop": 44.66,
@@ -98,7 +99,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Filed a massive $550M mixed-shelf stock offering \u2014 dilution overhang on a name already -40% over the past month. Breaking down from the $45 area; prior session range $42.65\u201348.22.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     },
     {
       "ticker": "SLS",
@@ -120,7 +121,7 @@
       "ticker": "LOW",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 219.19,
+      "mark": 219.14,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 212.07,
       "stop": 229.04,
@@ -130,13 +131,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 4,
-    "closed": 4,
-    "total_pnl_pct": -32.04
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": -40.04
   }
 }

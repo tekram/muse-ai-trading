@@ -77,12 +77,13 @@
       "fill": 100.47,
       "stop": 92.43,
       "target": 115.54,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 94.7,
+      "exit_date": "2026-11-19",
+      "pnl_pct": -5.74,
       "thesis": "Beat Q1 FY2027 earnings and raised its full-year revenue forecast, citing strong AI networking demand. Large-cap earnings follow-through gapping above the prior day's high; the cleanest quality name on the board this morning.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-18",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 94.7 (range 94.38\u201399.26, stop 92.43 / target 115.54 untouched)."
     }
   ],
   "shorts": [
@@ -127,18 +128,19 @@
       "fill": 169.91,
       "stop": 183.5,
       "target": 144.42,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 145.98,
+      "exit_date": "2026-11-19",
+      "pnl_pct": 14.08,
       "thesis": "CEO Jensen Huang resigned; CFO Colette Kress is interim CEO. Closed Thu -4.34% at $166.19 and is down ~24% over 30 days; governance overhang persists, with earnings due Nov 17.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-18",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 145.98 (range 145.71\u2013158.13, stop 183.5 / target 144.42 untouched)."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": -48.13
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -39.79
   }
 }

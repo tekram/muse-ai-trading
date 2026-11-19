@@ -6,7 +6,7 @@
       "ticker": "MRVL",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 138.36,
+      "mark": 138.47,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 150.2,
       "stop": 138.18,
@@ -16,13 +16,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Marvell + Penguin Solutions announced an AI-memory collaboration Nov 16 (CXL cards powered by Marvell Structera X controllers); bouncing after a -7.3% Monday rout to $145.36 \u2014 chip-rebound leader, well off its $329.88 52-week high.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     },
     {
       "ticker": "INTC",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 55.68,
+      "mark": 55.72,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 55.17,
       "stop": 50.76,
@@ -32,7 +32,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Part of the broad chip bounce after Monday's semiconductor washout; no company-specific news \u2014 rebounding with the SOX complex, momentum follow-through watch, not a standalone setup.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     },
     {
       "ticker": "AYTU",
@@ -48,7 +48,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Definitive $2.70/share cash buyout by Rosemont Pharmaceuticals ($16.53M deal); gapping to just under the deal price \u2014 buyout-arb gap, upside capped at the offer.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-19"
     },
     {
       "ticker": "SPAI",
@@ -59,12 +59,13 @@
       "fill": 3.01,
       "stop": 2.77,
       "target": 3.46,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 2.77,
+      "exit_date": "2026-11-19",
+      "pnl_pct": -7.97,
       "thesis": "Reported revenue +2,539% year over year; strong gap on heavy volume (2.7M shares premarket) \u2014 small-cap momentum, thin and volatile.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-18",
+      "exit_reason": "Stop hit \u2014 day low 2.48 <= stop 2.77."
     },
     {
       "ticker": "GP",
@@ -126,18 +127,19 @@
       "fill": 207.63,
       "stop": 224.24,
       "target": 176.49,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 224.24,
+      "exit_date": "2026-11-19",
+      "pnl_pct": -8.0,
       "thesis": "Chip weakness continuing into the AI-leadership selloff ahead of NVDA earnings (no company-specific news); breaking down with the semiconductor complex \u2014 weak into the event.",
-      "mark_date": "2026-11-18"
+      "mark_date": "2026-11-18",
+      "exit_reason": "Stop hit \u2014 day high 240.05 >= stop 224.24."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 5,
-    "closed": 3,
-    "total_pnl_pct": 21.97
+    "open": 3,
+    "closed": 5,
+    "total_pnl_pct": 6.0
   }
 }
