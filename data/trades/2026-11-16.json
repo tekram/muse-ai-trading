@@ -65,14 +65,15 @@
       "fill": 132.35,
       "stop": 121.76,
       "target": 152.2,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 121.76,
+      "exit_date": "2026-11-20",
+      "pnl_pct": -8.0,
       "thesis": "Bloomberg reported Samsung is in takeover talks (deal could come within weeks; no price or terms confirmed, neither company has confirmed). Friday call volume ran +355%; $147.31 caps the rally; Investor Day Wed Nov 18.",
       "mark": 134.6,
       "mark_as_of": "2026-11-19 14:55 CT",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Stop hit \u2014 day low 121.615 <= stop 121.76."
     }
   ],
   "shorts": [
@@ -100,14 +101,15 @@
       "fill": 159.02,
       "stop": 171.74,
       "target": 135.17,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 135.17,
+      "exit_date": "2026-11-20",
+      "pnl_pct": 15.0,
       "thesis": "CEO Jensen Huang resigned; earnings land Tue after the close; -12% last week and now >30% below recent highs. Chips weak across the board \u2014 avoid into the print with the leadership vacuum unresolved.",
       "mark": 146.0,
       "mark_as_of": "2026-11-19 14:55 CT",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Target hit (+15% at 135.17)."
     },
     {
       "ticker": "CSCO",
@@ -116,20 +118,21 @@
       "fill": 94.49,
       "stop": 102.05,
       "target": 80.32,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 90.64,
+      "exit_date": "2026-11-20",
+      "pnl_pct": 4.07,
       "thesis": "Q1 beat ($1.40 vs $1.33) but gross margin squeezed to 65.6% from 68.1%; crossed below its 200-day ($102.21). Street price-target cuts followed (Citi $120, Truist $127, Barclays $109; Morgan Stanley cut to Equal Weight).",
       "mark": 94.68,
       "mark_as_of": "2026-11-19 14:55 CT",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 90.64 (range 89.985\u201395.17, stop 102.05 / target 80.32 untouched)."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": 6.59
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": 17.66
   }
 }

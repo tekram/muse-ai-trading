@@ -23,7 +23,7 @@
       "ticker": "TJX",
       "side": "long",
       "fill_date": "2026-11-18",
-      "mark": 139.46,
+      "mark": 139.62,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 137.01,
       "stop": 126.05,
@@ -33,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "PONY",
@@ -94,12 +94,13 @@
       "fill": 41.35,
       "stop": 44.66,
       "target": 35.15,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 35.15,
+      "exit_date": "2026-11-20",
+      "pnl_pct": 14.99,
       "thesis": "Filed a massive $550M mixed-shelf stock offering \u2014 dilution overhang on a name already -40% over the past month. Breaking down from the $45 area; prior session range $42.65\u201348.22.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Target hit (+15% at 35.15)."
     },
     {
       "ticker": "SLS",
@@ -121,7 +122,7 @@
       "ticker": "LOW",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 219.12,
+      "mark": 220.84,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 212.07,
       "stop": 229.04,
@@ -131,13 +132,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": -40.04
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": -25.05
   }
 }

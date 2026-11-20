@@ -6,7 +6,7 @@
       "ticker": "PANW",
       "side": "long",
       "fill_date": "2026-11-19",
-      "mark": 361.73,
+      "mark": 343.32,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 355.81,
       "stop": 327.35,
@@ -16,7 +16,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q1 beat: EPS $1.05 vs $0.97 expected, revenue $3.4B, raised FY2027 revenue guide to $14.5-14.6B; +9.5% premarket, gapping above Wednesday's $342.36 high as cybersecurity leads the morning.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "NVDA",
@@ -27,12 +27,13 @@
       "fill": 152.92,
       "stop": 140.69,
       "target": 175.86,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 140.69,
+      "exit_date": "2026-11-20",
+      "pnl_pct": -8.0,
       "thesis": "Record Q3: revenue $115.8B (+103% YoY) vs ~$109B expected, EPS $2.68 vs $2.48, Q4 guide $130B; bouncing off oversold after falling 2.9% Wed and -10.6% over 5 sessions.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Stop hit \u2014 day low 124.5 <= stop 140.69."
     },
     {
       "ticker": "SEAT",
@@ -54,7 +55,7 @@
       "ticker": "CRWD",
       "side": "long",
       "fill_date": "2026-11-19",
-      "mark": 243.38,
+      "mark": 229.44,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 246.89,
       "stop": 227.14,
@@ -64,7 +65,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Riding the PANW cybersecurity beat; +6.5% premarket, gapping above Wednesday's $240.18 high with the whole security complex catching a bid. Reports Dec 1.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "MU",
@@ -75,12 +76,13 @@
       "fill": 740.33,
       "stop": 681.1,
       "target": 851.38,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 681.1,
+      "exit_date": "2026-11-20",
+      "pnl_pct": -8.0,
       "thesis": "Semiconductor strength post-NVDA - the chip complex is the morning's leadership theme; +4.9% premarket on ~$516M premarket dollar volume.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Stop hit \u2014 day low 585.2526 <= stop 681.1."
     }
   ],
   "shorts": [
@@ -88,7 +90,7 @@
       "ticker": "SLS",
       "side": "short",
       "fill_date": "2026-11-19",
-      "mark": 14.87,
+      "mark": 13.66,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 15.38,
       "stop": 16.61,
@@ -98,13 +100,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Priced a $150M public offering at $13.00/share, deeply discounted - classic post-surge dilution after Tuesday's +156% clinical-data run; yesterday's Premarket Paper target.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "NTES",
       "side": "short",
       "fill_date": "2026-11-19",
-      "mark": 104.75,
+      "mark": 99.85,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 111.87,
       "stop": 120.82,
@@ -114,7 +116,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 top- and bottom-line miss, revenue short by ~$340M - breaking down on a clean earnings disappointment.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "SOXS",
@@ -135,8 +137,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 6,
-    "closed": 2,
-    "total_pnl_pct": -15.93
+    "open": 4,
+    "closed": 4,
+    "total_pnl_pct": -31.93
   }
 }

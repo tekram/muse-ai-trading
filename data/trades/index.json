@@ -1897,12 +1897,84 @@
       "fill": 52.81,
       "exit": 57.03,
       "pnl": -7.99
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "MOD",
+      "side": "long",
+      "fill": 132.35,
+      "exit": 121.76,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "NVDA",
+      "side": "short",
+      "fill": 159.02,
+      "exit": 135.17,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-16",
+      "ticker": "CSCO",
+      "side": "short",
+      "fill": 94.49,
+      "exit": 90.64,
+      "pnl": 4.07
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "MRVL",
+      "side": "long",
+      "fill": 150.2,
+      "exit": 138.18,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "AAOI",
+      "side": "short",
+      "fill": 41.35,
+      "exit": 35.15,
+      "pnl": 14.99
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "NVDA",
+      "side": "long",
+      "fill": 152.92,
+      "exit": 140.69,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "MU",
+      "side": "long",
+      "fill": 740.33,
+      "exit": 681.1,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "MEDS",
+      "side": "long",
+      "fill": 0.99,
+      "exit": 0.91,
+      "pnl": -8.08
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "AKAN",
+      "side": "long",
+      "fill": 4.87,
+      "exit": 4.48,
+      "pnl": -8.01
     }
   ],
-  "total_pnl": -247.07,
-  "total_pnl_pct": -247.07,
-  "total_trades": 233,
-  "updated_at": "2026-11-20 14:53 UTC",
-  "win_rate": 36.91,
-  "wins": 86
+  "total_pnl": -261.1,
+  "total_pnl_pct": -261.1,
+  "total_trades": 242,
+  "updated_at": "2026-11-20 22:17 UTC",
+  "win_rate": 36.78,
+  "wins": 89
 }

@@ -11,18 +11,19 @@
       "fill": 150.2,
       "stop": 138.18,
       "target": 172.73,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 138.18,
+      "exit_date": "2026-11-20",
+      "pnl_pct": -8.0,
       "thesis": "Marvell + Penguin Solutions announced an AI-memory collaboration Nov 16 (CXL cards powered by Marvell Structera X controllers); bouncing after a -7.3% Monday rout to $145.36 \u2014 chip-rebound leader, well off its $329.88 52-week high.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-19",
+      "exit_reason": "Stop hit \u2014 day low 120.56 <= stop 138.18."
     },
     {
       "ticker": "INTC",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 55.65,
+      "mark": 51.28,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 55.17,
       "stop": 50.76,
@@ -32,13 +33,13 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Part of the broad chip bounce after Monday's semiconductor washout; no company-specific news \u2014 rebounding with the SOX complex, momentum follow-through watch, not a standalone setup.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "AYTU",
       "side": "long",
       "fill_date": "2026-11-17",
-      "mark": 2.65,
+      "mark": 2.66,
       "mark_as_of": "2026-11-19 14:55 CT",
       "fill": 2.66,
       "stop": 2.45,
@@ -48,7 +49,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Definitive $2.70/share cash buyout by Rosemont Pharmaceuticals ($16.53M deal); gapping to just under the deal price \u2014 buyout-arb gap, upside capped at the offer.",
-      "mark_date": "2026-11-19"
+      "mark_date": "2026-11-20"
     },
     {
       "ticker": "SPAI",
@@ -138,8 +139,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 3,
-    "closed": 5,
-    "total_pnl_pct": 6.0
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": -2.0
   }
 }
