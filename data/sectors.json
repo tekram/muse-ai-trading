@@ -1,439 +1,439 @@
 {
-  "date": "2026-10-15",
-  "as_of_ct": "2026-10-15 10:00 CT",
+  "date": "2026-11-20",
+  "as_of_ct": "2026-11-20 14:55 CT",
   "note": "Weekly = now vs close 5 trading days ago. Daily = now vs yesterday's close. Intraday = now vs today's open. All horizons end at the same 'now'.",
   "rows": [
-    {
-      "ticker": "XLV",
-      "name": "Health Care",
-      "group": "sector",
-      "weekly": 6.01,
-      "daily": 2.48,
-      "intraday": 1.04,
-      "price": 178.27
-    },
-    {
-      "ticker": "IHI",
-      "name": "Medical Devices",
-      "group": "subsector",
-      "weekly": 5.17,
-      "daily": 1.95,
-      "intraday": 0.47,
-      "price": 53.74
-    },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
       "group": "sector",
-      "weekly": 4.81,
-      "daily": 1.59,
-      "intraday": -0.3,
-      "price": 87.43
-    },
-    {
-      "ticker": "XRT",
-      "name": "Retail",
-      "group": "subsector",
-      "weekly": 4.56,
-      "daily": 3.59,
-      "intraday": 2.05,
-      "price": 87.74
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "group": "sector",
-      "weekly": 2.8,
-      "daily": 1.22,
-      "intraday": -0.02,
-      "price": 41.99
-    },
-    {
-      "ticker": "PEJ",
-      "name": "Leisure & Entertainment",
-      "group": "subsector",
-      "weekly": 2.73,
-      "daily": 2.3,
-      "intraday": 1.55,
-      "price": 65.01
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "group": "sector",
-      "weekly": 2.68,
-      "daily": 1.85,
-      "intraday": 0.84,
-      "price": 50.59
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "group": "sector",
-      "weekly": 2.23,
-      "daily": -1.38,
-      "intraday": -1.77,
-      "price": 66.69
-    },
-    {
-      "ticker": "DIA",
-      "name": "Dow 30",
-      "group": "segment",
-      "weekly": 1.68,
-      "daily": 0.89,
-      "intraday": 0.43,
-      "price": 520.24
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "group": "sector",
-      "weekly": 1.37,
-      "daily": 0.83,
-      "intraday": 0.1,
-      "price": 54.97
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "group": "sector",
-      "weekly": 1.23,
-      "daily": 1.42,
-      "intraday": 1.02,
-      "price": 113.08
+      "weekly": -2.01,
+      "daily": 0.71,
+      "intraday": -0.48,
+      "price": 90.5
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
       "group": "sector",
-      "weekly": 1.17,
-      "daily": -0.41,
-      "intraday": -1.51,
-      "price": 41.55
-    },
-    {
-      "ticker": "XOP",
-      "name": "Oil & Gas Exploration",
-      "group": "subsector",
-      "weekly": 0.8,
-      "daily": -1.42,
-      "intraday": -1.26,
-      "price": 195.03
-    },
-    {
-      "ticker": "GLD",
-      "name": "Gold",
-      "group": "commodity",
-      "weekly": 0.66,
-      "daily": 1.36,
-      "intraday": 0.05,
-      "price": 381.1
-    },
-    {
-      "ticker": "XBI",
-      "name": "Biotech",
-      "group": "subsector",
-      "weekly": 0.55,
-      "daily": 2.28,
-      "intraday": 1.62,
-      "price": 150.11
-    },
-    {
-      "ticker": "IYT",
-      "name": "Transportation",
-      "group": "subsector",
-      "weekly": 0.51,
-      "daily": 1.04,
-      "intraday": 0.93,
-      "price": 80.35
-    },
-    {
-      "ticker": "XPH",
-      "name": "Pharma",
-      "group": "subsector",
-      "weekly": 0.25,
-      "daily": 2.77,
-      "intraday": 1.79,
-      "price": 63.79
-    },
-    {
-      "ticker": "IBIT",
-      "name": "Bitcoin (spot)",
-      "group": "subsector",
-      "weekly": 0.11,
-      "daily": 0.15,
-      "intraday": 2.12,
-      "price": 46.31
-    },
-    {
-      "ticker": "KRE",
-      "name": "Regional Banks",
-      "group": "subsector",
-      "weekly": 0.09,
-      "daily": 1.63,
-      "intraday": 0.95,
-      "price": 69.65
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "group": "sector",
-      "weekly": 0.08,
-      "daily": 1.21,
-      "intraday": 1.36,
-      "price": 112.16
-    },
-    {
-      "ticker": "ITA",
-      "name": "Aerospace & Defense",
-      "group": "subsector",
-      "weekly": 0.01,
-      "daily": 0.32,
-      "intraday": 0.07,
-      "price": 204.9
-    },
-    {
-      "ticker": "KBE",
-      "name": "Banks",
-      "group": "subsector",
-      "weekly": -0.22,
-      "daily": 1.46,
-      "intraday": 0.68,
-      "price": 63.41
-    },
-    {
-      "ticker": "XHB",
-      "name": "Homebuilders",
-      "group": "subsector",
-      "weekly": -0.28,
-      "daily": 2.77,
-      "intraday": 1.06,
-      "price": 95.41
-    },
-    {
-      "ticker": "SPY",
-      "name": "S&P 500",
-      "group": "segment",
-      "weekly": -0.55,
-      "daily": 0.01,
-      "intraday": 0.45,
-      "price": 769.67
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "group": "sector",
-      "weekly": -1.0,
-      "daily": -0.2,
-      "intraday": 0.07,
-      "price": 166.71
-    },
-    {
-      "ticker": "IGV",
-      "name": "Software",
-      "group": "subsector",
-      "weekly": -1.19,
-      "daily": 0.59,
-      "intraday": 1.45,
-      "price": 108.29
-    },
-    {
-      "ticker": "GDX",
-      "name": "Gold Miners",
-      "group": "subsector",
-      "weekly": -1.2,
-      "daily": 2.73,
-      "intraday": 1.06,
-      "price": 85.68
-    },
-    {
-      "ticker": "IWM",
-      "name": "Russell 2000 (small cap)",
-      "group": "segment",
-      "weekly": -1.26,
-      "daily": 0.99,
-      "intraday": 0.98,
-      "price": 274.07
-    },
-    {
-      "ticker": "FDN",
-      "name": "Internet",
-      "group": "subsector",
-      "weekly": -1.38,
-      "daily": -0.03,
-      "intraday": 1.24,
-      "price": 290.9
-    },
-    {
-      "ticker": "TAN",
-      "name": "Solar",
-      "group": "subsector",
-      "weekly": -2.01,
-      "daily": -0.45,
-      "intraday": 1.68,
-      "price": 42.45
-    },
-    {
-      "ticker": "COPX",
-      "name": "Copper Miners",
-      "group": "subsector",
-      "weekly": -2.3,
-      "daily": -0.61,
-      "intraday": 1.5,
-      "price": 80.32
-    },
-    {
-      "ticker": "BETZ",
-      "name": "Sports Betting & Gaming",
-      "group": "subsector",
-      "weekly": -2.59,
-      "daily": 0.74,
-      "intraday": 0.99,
-      "price": 16.37
-    },
-    {
-      "ticker": "ETHE",
-      "name": "Ethereum (spot)",
-      "group": "subsector",
-      "weekly": -2.78,
-      "daily": -1.34,
-      "intraday": 2.51,
-      "price": 19.21
-    },
-    {
-      "ticker": "QQQ",
-      "name": "Nasdaq-100",
-      "group": "segment",
-      "weekly": -3.19,
-      "daily": -0.72,
-      "intraday": 0.72,
-      "price": 723.7
-    },
-    {
-      "ticker": "SLV",
-      "name": "Silver",
-      "group": "commodity",
-      "weekly": -3.52,
-      "daily": 2.69,
-      "intraday": 0.62,
-      "price": 51.57
+      "weekly": -2.97,
+      "daily": -0.65,
+      "intraday": -1.25,
+      "price": 42.73
     },
     {
       "ticker": "CIBR",
       "name": "Cybersecurity",
       "group": "subsector",
-      "weekly": -3.62,
-      "daily": -1.33,
-      "intraday": 0.47,
-      "price": 102.36
+      "weekly": -3.97,
+      "daily": -5.29,
+      "intraday": -4.13,
+      "price": 91.27
     },
     {
-      "ticker": "BOTZ",
-      "name": "Robotics & AI",
+      "ticker": "PEJ",
+      "name": "Leisure & Entertainment",
       "group": "subsector",
-      "weekly": -3.92,
-      "daily": -1.89,
-      "intraday": 0.71,
-      "price": 33.47
+      "weekly": -4.16,
+      "daily": -1.84,
+      "intraday": -1.45,
+      "price": 64.44
     },
     {
-      "ticker": "MSOS",
-      "name": "Cannabis",
-      "group": "subsector",
-      "weekly": -3.98,
-      "daily": 0.49,
-      "intraday": 0.74,
-      "price": 4.1
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "group": "sector",
+      "weekly": -4.25,
+      "daily": -0.92,
+      "intraday": -1.6,
+      "price": 42.49
     },
     {
-      "ticker": "SKYY",
-      "name": "Cloud Computing",
+      "ticker": "IHI",
+      "name": "Medical Devices",
       "group": "subsector",
-      "weekly": -4.17,
-      "daily": -0.6,
-      "intraday": 1.61,
-      "price": 163.04
+      "weekly": -4.5,
+      "daily": -1.11,
+      "intraday": -1.34,
+      "price": 55.41
     },
     {
-      "ticker": "XME",
-      "name": "Metals & Mining",
+      "ticker": "XRT",
+      "name": "Retail",
       "group": "subsector",
-      "weekly": -4.24,
-      "daily": 0.31,
-      "intraday": 0.55,
-      "price": 100.17
+      "weekly": -4.99,
+      "daily": -1.4,
+      "intraday": -1.27,
+      "price": 86.51
+    },
+    {
+      "ticker": "XHB",
+      "name": "Homebuilders",
+      "group": "subsector",
+      "weekly": -5.35,
+      "daily": -1.31,
+      "intraday": -1.5,
+      "price": 96.61
     },
     {
       "ticker": "JETS",
       "name": "Airlines",
       "group": "subsector",
-      "weekly": -4.59,
-      "daily": 1.47,
-      "intraday": 0.88,
-      "price": 26.22
+      "weekly": -5.93,
+      "daily": -3.59,
+      "intraday": -3.93,
+      "price": 27.13
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
+      "ticker": "IYT",
+      "name": "Transportation",
+      "group": "subsector",
+      "weekly": -5.93,
+      "daily": -2.6,
+      "intraday": -2.84,
+      "price": 78.75
+    },
+    {
+      "ticker": "KRE",
+      "name": "Regional Banks",
+      "group": "subsector",
+      "weekly": -6.06,
+      "daily": -1.34,
+      "intraday": -1.38,
+      "price": 68.33
+    },
+    {
+      "ticker": "XLV",
+      "name": "Health Care",
       "group": "sector",
-      "weekly": -5.12,
-      "daily": -1.46,
-      "intraday": 0.68,
-      "price": 187.65
+      "weekly": -6.1,
+      "daily": -0.07,
+      "intraday": -0.93,
+      "price": 177.33
+    },
+    {
+      "ticker": "KBE",
+      "name": "Banks",
+      "group": "subsector",
+      "weekly": -6.19,
+      "daily": -1.44,
+      "intraday": -1.69,
+      "price": 62.34
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "group": "sector",
+      "weekly": -6.21,
+      "daily": -2.89,
+      "intraday": -2.68,
+      "price": 112.53
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "group": "sector",
+      "weekly": -6.74,
+      "daily": -0.51,
+      "intraday": -0.21,
+      "price": 60.58
+    },
+    {
+      "ticker": "XBI",
+      "name": "Biotech",
+      "group": "subsector",
+      "weekly": -6.83,
+      "daily": -2.67,
+      "intraday": -1.83,
+      "price": 140.27
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "group": "sector",
+      "weekly": -6.94,
+      "daily": -1.75,
+      "intraday": -1.92,
+      "price": 54.61
+    },
+    {
+      "ticker": "XPH",
+      "name": "Pharma",
+      "group": "subsector",
+      "weekly": -7.06,
+      "daily": -2.07,
+      "intraday": -1.43,
+      "price": 62.11
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "group": "sector",
+      "weekly": -7.32,
+      "daily": -3.06,
+      "intraday": -2.79,
+      "price": 156.42
+    },
+    {
+      "ticker": "ITA",
+      "name": "Aerospace & Defense",
+      "group": "subsector",
+      "weekly": -7.37,
+      "daily": -2.87,
+      "intraday": -2.63,
+      "price": 66.24
+    },
+    {
+      "ticker": "IWM",
+      "name": "Russell 2000 (small cap)",
+      "group": "segment",
+      "weekly": -7.4,
+      "daily": -2.73,
+      "intraday": -2.4,
+      "price": 257.01
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "group": "sector",
+      "weekly": -7.43,
+      "daily": -2.17,
+      "intraday": -2.17,
+      "price": 48.35
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "group": "sector",
+      "weekly": -7.96,
+      "daily": -2.65,
+      "intraday": -2.51,
+      "price": 100.04
+    },
+    {
+      "ticker": "DIA",
+      "name": "Dow 30",
+      "group": "segment",
+      "weekly": -8.01,
+      "daily": -1.94,
+      "intraday": -1.86,
+      "price": 481.25
+    },
+    {
+      "ticker": "SPY",
+      "name": "S&P 500",
+      "group": "segment",
+      "weekly": -8.41,
+      "daily": -3.49,
+      "intraday": -3.17,
+      "price": 690.91
+    },
+    {
+      "ticker": "XOP",
+      "name": "Oil & Gas Exploration",
+      "group": "subsector",
+      "weekly": -8.94,
+      "daily": -0.98,
+      "intraday": -0.12,
+      "price": 168.27
+    },
+    {
+      "ticker": "GLD",
+      "name": "Gold",
+      "group": "commodity",
+      "weekly": -9.13,
+      "daily": -3.63,
+      "intraday": -1.31,
+      "price": 323.0
+    },
+    {
+      "ticker": "IGV",
+      "name": "Software",
+      "group": "subsector",
+      "weekly": -9.56,
+      "daily": -4.77,
+      "intraday": -3.39,
+      "price": 91.52
+    },
+    {
+      "ticker": "BETZ",
+      "name": "Sports Betting & Gaming",
+      "group": "subsector",
+      "weekly": -9.66,
+      "daily": -2.31,
+      "intraday": -1.48,
+      "price": 14.79
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Nasdaq-100",
+      "group": "segment",
+      "weekly": -10.27,
+      "daily": -5.43,
+      "intraday": -4.5,
+      "price": 610.04
+    },
+    {
+      "ticker": "SKYY",
+      "name": "Cloud Computing",
+      "group": "subsector",
+      "weekly": -10.45,
+      "daily": -4.9,
+      "intraday": -3.44,
+      "price": 136.57
+    },
+    {
+      "ticker": "FDN",
+      "name": "Internet",
+      "group": "subsector",
+      "weekly": -10.46,
+      "daily": -4.37,
+      "intraday": -3.48,
+      "price": 241.2
     },
     {
       "ticker": "LIT",
       "name": "Lithium & Batteries",
       "group": "subsector",
-      "weekly": -5.49,
-      "daily": -1.73,
-      "intraday": 1.01,
-      "price": 65.23
+      "weekly": -11.66,
+      "daily": -4.45,
+      "intraday": -2.79,
+      "price": 51.91
     },
     {
       "ticker": "UFO",
       "name": "Space",
       "group": "subsector",
-      "weekly": -6.12,
-      "daily": -0.73,
-      "intraday": 1.26,
-      "price": 39.44
+      "weekly": -11.82,
+      "daily": -5.5,
+      "intraday": -3.94,
+      "price": 35.88
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "group": "sector",
+      "weekly": -12.43,
+      "daily": -7.2,
+      "intraday": -6.04,
+      "price": 149.12
+    },
+    {
+      "ticker": "BOTZ",
+      "name": "Robotics & AI",
+      "group": "subsector",
+      "weekly": -12.65,
+      "daily": -5.93,
+      "intraday": -3.86,
+      "price": 27.28
+    },
+    {
+      "ticker": "XME",
+      "name": "Metals & Mining",
+      "group": "subsector",
+      "weekly": -14.2,
+      "daily": -5.8,
+      "intraday": -4.27,
+      "price": 80.43
     },
     {
       "ticker": "QTUM",
       "name": "Quantum Computing",
       "group": "subsector",
-      "weekly": -7.31,
-      "daily": -1.39,
-      "intraday": 0.94,
-      "price": 139.86
+      "weekly": -14.41,
+      "daily": -6.98,
+      "intraday": -5.14,
+      "price": 111.36
+    },
+    {
+      "ticker": "MSOS",
+      "name": "Cannabis",
+      "group": "subsector",
+      "weekly": -14.78,
+      "daily": -6.21,
+      "intraday": -5.93,
+      "price": 3.17
+    },
+    {
+      "ticker": "IBIT",
+      "name": "Bitcoin (spot)",
+      "group": "subsector",
+      "weekly": -15.23,
+      "daily": -5.9,
+      "intraday": -5.9,
+      "price": 33.01
     },
     {
       "ticker": "URA",
       "name": "Uranium & Nuclear",
       "group": "subsector",
-      "weekly": -7.66,
-      "daily": 0.18,
-      "intraday": 2.86,
-      "price": 35.61
+      "weekly": -15.77,
+      "daily": -6.45,
+      "intraday": -4.59,
+      "price": 26.82
     },
     {
-      "ticker": "SMH",
-      "name": "Semiconductors",
+      "ticker": "GDX",
+      "name": "Gold Miners",
       "group": "subsector",
-      "weekly": -9.09,
-      "daily": -2.25,
-      "intraday": 1.04,
-      "price": 552.06
+      "weekly": -16.21,
+      "daily": -4.99,
+      "intraday": -3.26,
+      "price": 68.41
+    },
+    {
+      "ticker": "SLV",
+      "name": "Silver",
+      "group": "commodity",
+      "weekly": -16.22,
+      "daily": -6.74,
+      "intraday": -2.63,
+      "price": 36.97
     },
     {
       "ticker": "SOXX",
       "name": "Semiconductors (iShares)",
       "group": "subsector",
-      "weekly": -9.93,
-      "daily": -2.32,
-      "intraday": 1.39,
-      "price": 507.36
+      "weekly": -17.36,
+      "daily": -10.56,
+      "intraday": -8.68,
+      "price": 123.38
+    },
+    {
+      "ticker": "SMH",
+      "name": "Semiconductors",
+      "group": "subsector",
+      "weekly": -17.92,
+      "daily": -10.72,
+      "intraday": -8.88,
+      "price": 399.51
+    },
+    {
+      "ticker": "ETHE",
+      "name": "Ethereum (spot)",
+      "group": "subsector",
+      "weekly": -17.93,
+      "daily": -9.13,
+      "intraday": -8.8,
+      "price": 12.8
+    },
+    {
+      "ticker": "TAN",
+      "name": "Solar",
+      "group": "subsector",
+      "weekly": -18.39,
+      "daily": -7.21,
+      "intraday": -5.74,
+      "price": 33.99
+    },
+    {
+      "ticker": "COPX",
+      "name": "Copper Miners",
+      "group": "subsector",
+      "weekly": -18.39,
+      "daily": -4.69,
+      "intraday": -2.92,
+      "price": 56.5
     }
   ]
 }
