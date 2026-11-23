@@ -1,0 +1,118 @@
+{
+  "brief": "premarket brief 2026-11-23 07:13 CT",
+  "date": "2026-11-23",
+  "longs": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 238.01,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 218.97,
+      "target": 273.71,
+      "thesis": "CRWD agreed to acquire ZS in a $43.9B all-stock deal \u2014 1.135 CRWD shares per ZS share = $260.41, a 34% premium to Fri's $194.82 close.",
+      "ticker": "ZS"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 167.04,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 153.68,
+      "target": 192.1,
+      "thesis": "Dip-buying after a -14% Fri collapse; Mag 7 +4.2% leading the rebound, semis bouncing. Bouncing off Fri's washout low \u2014 not a confirmed turn.",
+      "ticker": "NVDA"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 93.0,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 85.56,
+      "target": 106.95,
+      "thesis": "GTCR, its largest shareholder (16%), confirmed in a filing it is evaluating a ~$50B takeover (Bloomberg). Holding Fri's +9.95% gain into the open.",
+      "ticker": "GPN"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 14.76,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 13.58,
+      "target": 16.97,
+      "thesis": "Broad semiconductor rebound on AI chip demand (ASX +13% alongside). Part of the chip bounce rather than a company-specific print.",
+      "ticker": "UMC"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 1.86,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "long",
+      "status": "open",
+      "stop": 1.71,
+      "target": 2.14,
+      "thesis": "AI healthcare data integration news. Repeat gaper \u2014 it stopped out in Premarket Paper on Fri \u2014 extreme volatility, penny stock.",
+      "ticker": "MEDS"
+    }
+  ],
+  "shorts": [
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 1.75,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 1.89,
+      "target": 1.49,
+      "thesis": "FDA issued a second complete response letter for deramiocel (Duchenne), citing serious data-integrity violations in the key trial \u2014 findings \u201cnot considered reliable or interpretable.\u201d",
+      "ticker": "CAPR"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 217.63,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 235.04,
+      "target": 184.99,
+      "thesis": "Acquirer on the $43.9B all-stock ZS deal \u2014 dilution and integration risk; shares were +96% YTD through Fri.",
+      "ticker": "CRWD"
+    },
+    {
+      "exit": null,
+      "exit_date": null,
+      "fill": 51.0,
+      "fill_date": "2026-11-23",
+      "pnl_pct": null,
+      "side": "short",
+      "status": "open",
+      "stop": 55.08,
+      "target": 43.35,
+      "thesis": "Reports after the close today into an AI-hardware selloff; avoid into earnings.",
+      "ticker": "HPE"
+    }
+  ],
+  "summary": {
+    "closed": 0,
+    "open": 8,
+    "total_pnl_pct": 0,
+    "total_trades": 8
+  }
+}
