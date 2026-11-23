@@ -23,7 +23,7 @@
       "ticker": "TJX",
       "side": "long",
       "fill_date": "2026-11-18",
-      "mark": 139.67,
+      "mark": 139.25,
       "mark_as_of": "2026-11-20 14:55 CT",
       "fill": 137.01,
       "stop": 126.05,
@@ -33,7 +33,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season.",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     },
     {
       "ticker": "PONY",
@@ -122,7 +122,7 @@
       "ticker": "LOW",
       "side": "short",
       "fill_date": "2026-11-18",
-      "mark": 220.83,
+      "mark": 226.14,
       "mark_as_of": "2026-11-20 14:55 CT",
       "fill": 212.07,
       "stop": 229.04,
@@ -132,7 +132,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold.",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     }
   ],
   "summary": {

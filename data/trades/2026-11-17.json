@@ -28,12 +28,13 @@
       "fill": 55.17,
       "stop": 50.76,
       "target": 63.45,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 59.66,
+      "exit_date": "2026-11-23",
+      "pnl_pct": 8.14,
       "thesis": "Part of the broad chip bounce after Monday's semiconductor washout; no company-specific news \u2014 rebounding with the SOX complex, momentum follow-through watch, not a standalone setup.",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-20",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 59.66 (range 56.655\u201359.77, stop 50.76 / target 63.45 untouched)."
     },
     {
       "ticker": "AYTU",
@@ -44,12 +45,13 @@
       "fill": 2.66,
       "stop": 2.45,
       "target": 3.06,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 2.67,
+      "exit_date": "2026-11-23",
+      "pnl_pct": 0.38,
       "thesis": "Definitive $2.70/share cash buyout by Rosemont Pharmaceuticals ($16.53M deal); gapping to just under the deal price \u2014 buyout-arb gap, upside capped at the offer.",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-20",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 2.67 (range 2.65\u20132.67, stop 2.45 / target 3.06 untouched)."
     },
     {
       "ticker": "SPAI",
@@ -139,8 +141,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": -2.0
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": 6.52
   }
 }

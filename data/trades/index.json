@@ -1970,12 +1970,76 @@
       "fill": 4.87,
       "exit": 4.48,
       "pnl": -8.01
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "INTC",
+      "side": "long",
+      "fill": 55.17,
+      "exit": 59.66,
+      "pnl": 8.14
+    },
+    {
+      "date": "2026-11-17",
+      "ticker": "AYTU",
+      "side": "long",
+      "fill": 2.66,
+      "exit": 2.67,
+      "pnl": 0.38
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "CRWD",
+      "side": "long",
+      "fill": 246.89,
+      "exit": 227.14,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "SLS",
+      "side": "short",
+      "fill": 15.38,
+      "exit": 13.07,
+      "pnl": 15.02
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "SNDK",
+      "side": "short",
+      "fill": 89.98,
+      "exit": 97.18,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "ZS",
+      "side": "long",
+      "fill": 238.01,
+      "exit": 218.97,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "MEDS",
+      "side": "long",
+      "fill": 1.86,
+      "exit": 1.71,
+      "pnl": -8.06
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "CAPR",
+      "side": "short",
+      "fill": 1.75,
+      "exit": 1.89,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -261.1,
-  "total_pnl_pct": -261.1,
-  "total_trades": 242,
-  "updated_at": "2026-11-23 14:54 UTC",
-  "win_rate": 36.78,
-  "wins": 89
+  "total_pnl": -277.62,
+  "total_pnl_pct": -277.62,
+  "total_trades": 250,
+  "updated_at": "2026-11-23 22:14 UTC",
+  "win_rate": 36.8,
+  "wins": 92
 }

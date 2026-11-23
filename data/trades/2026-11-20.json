@@ -28,9 +28,9 @@
       "target": 146.35,
       "thesis": "Raised FY27 sales-growth forecast to 4.9-5.2% - third raise - after strong Q3; +1.9% premarket, defensive relative strength on a red tape.",
       "ticker": "WMT",
-      "mark": 128.01,
+      "mark": 129.58,
       "mark_as_of": "2026-11-20 14:55 CT",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     },
     {
       "exit": null,
@@ -44,9 +44,9 @@
       "target": 164.76,
       "thesis": "Bloomberg reports Sanofi is weighing a takeover and speaking with advisers; no deal guaranteed, could be weeks away. +20.6% Thu to $144.46 on 4x volume, broke above its 200-day MA.",
       "ticker": "INSM",
-      "mark": 141.33,
+      "mark": 149.09,
       "mark_as_of": "2026-11-20 14:55 CT",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     },
     {
       "exit": 4.48,
@@ -76,25 +76,26 @@
       "target": 241.45,
       "thesis": "Q1 revenue +12% to $4.35B, but cut FY27 revenue guidance to $23.22B (Credit Karma headwinds), Q2 growth slows to 6-7%, Mailchimp divestiture. -11% premarket.",
       "ticker": "INTU",
-      "mark": 270.43,
+      "mark": 275.46,
       "mark_as_of": "2026-11-20 14:55 CT",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 97.18,
+      "exit_date": "2026-11-23",
       "fill": 89.98,
       "fill_date": "2026-11-20",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 97.18,
       "target": 76.48,
       "thesis": "TrendForce turned bearish on NAND pricing for 2027; memory unwind continues, -45% in a month. 8-for-1 split took effect Thu, so prices are split-adjusted.",
       "ticker": "SNDK",
       "mark": 79.3,
       "mark_as_of": "2026-11-20 14:55 CT",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-20",
+      "exit_reason": "Stop hit \u2014 day high 99.07 >= stop 97.18."
     },
     {
       "exit": null,
@@ -108,15 +109,15 @@
       "target": 76.38,
       "thesis": "Anthropic IPO debut faded: priced $83, opened ~$111.50, closed $97.17 (+17%); the debut was used as a liquidity event as the AI trade unwound. -6.5% premarket.",
       "ticker": "ANT",
-      "mark": 88.44,
+      "mark": 87.64,
       "mark_as_of": "2026-11-20 14:55 CT",
-      "mark_date": "2026-11-20"
+      "mark_date": "2026-11-23"
     }
   ],
   "summary": {
     "total_trades": 7,
-    "open": 5,
-    "closed": 2,
-    "total_pnl_pct": -16.09
+    "open": 4,
+    "closed": 3,
+    "total_pnl_pct": -24.09
   }
 }
