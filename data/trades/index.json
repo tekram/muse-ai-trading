@@ -32,7 +32,8 @@
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
   ],
   "recent": [
     {
@@ -1461,585 +1462,585 @@
     },
     {
       "date": "2026-11-05",
-      "ticker": "ADMA",
-      "side": "long",
-      "fill": 12.01,
       "exit": 13.19,
-      "pnl": 9.83
+      "fill": 12.01,
+      "pnl": 9.83,
+      "side": "long",
+      "ticker": "ADMA"
     },
     {
       "date": "2026-11-05",
-      "ticker": "SONY",
-      "side": "long",
-      "fill": 27.57,
       "exit": 26.49,
-      "pnl": -3.92
+      "fill": 27.57,
+      "pnl": -3.92,
+      "side": "long",
+      "ticker": "SONY"
     },
     {
       "date": "2026-11-05",
-      "ticker": "ZG",
-      "side": "short",
-      "fill": 31.75,
       "exit": 29.77,
-      "pnl": 6.24
+      "fill": 31.75,
+      "pnl": 6.24,
+      "side": "short",
+      "ticker": "ZG"
     },
     {
       "date": "2026-11-06",
-      "ticker": "MU",
-      "side": "long",
-      "fill": 708.35,
       "exit": 814.6,
-      "pnl": 15.0
+      "fill": 708.35,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "MU"
     },
     {
       "date": "2026-11-09",
-      "ticker": "AMD",
-      "side": "long",
-      "fill": 473.39,
       "exit": 544.4,
-      "pnl": 15.0
+      "fill": 473.39,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "AMD"
     },
     {
       "date": "2026-11-11",
-      "ticker": "STAK",
-      "side": "short",
-      "fill": 2.68,
       "exit": 2.28,
-      "pnl": 14.93
+      "fill": 2.68,
+      "pnl": 14.93,
+      "side": "short",
+      "ticker": "STAK"
     },
     {
       "date": "2026-11-11",
-      "ticker": "OMH",
-      "side": "short",
-      "fill": 25.3,
       "exit": 27.32,
-      "pnl": -7.98
+      "fill": 25.3,
+      "pnl": -7.98,
+      "side": "short",
+      "ticker": "OMH"
     },
     {
       "date": "2026-11-06",
-      "ticker": "NET",
-      "side": "long",
-      "fill": 286.97,
       "exit": 318.5,
-      "pnl": 10.99
+      "fill": 286.97,
+      "pnl": 10.99,
+      "side": "long",
+      "ticker": "NET"
     },
     {
       "date": "2026-11-06",
-      "ticker": "ABNB",
-      "side": "long",
-      "fill": 191.15,
       "exit": 181.13,
-      "pnl": -5.24
+      "fill": 191.15,
+      "pnl": -5.24,
+      "side": "long",
+      "ticker": "ABNB"
     },
     {
       "date": "2026-11-06",
-      "ticker": "TEAM",
-      "side": "short",
-      "fill": 154.92,
       "exit": 152.29,
-      "pnl": 1.7
+      "fill": 154.92,
+      "pnl": 1.7,
+      "side": "short",
+      "ticker": "TEAM"
     },
     {
       "date": "2026-11-09",
-      "ticker": "IONS",
-      "side": "short",
-      "fill": 32.27,
       "exit": 27.43,
-      "pnl": 15.0
+      "fill": 32.27,
+      "pnl": 15.0,
+      "side": "short",
+      "ticker": "IONS"
     },
     {
       "date": "2026-11-10",
-      "ticker": "NVDA",
-      "side": "long",
-      "fill": 173.97,
       "exit": 160.05,
-      "pnl": -8.0
+      "fill": 173.97,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-11",
-      "ticker": "CRWV",
-      "side": "long",
-      "fill": 55.97,
       "exit": 51.49,
-      "pnl": -8.0
+      "fill": 55.97,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "CRWV"
     },
     {
       "date": "2026-11-11",
-      "ticker": "FOSL",
-      "side": "long",
-      "fill": 9.72,
       "exit": 8.94,
-      "pnl": -8.02
+      "fill": 9.72,
+      "pnl": -8.02,
+      "side": "long",
+      "ticker": "FOSL"
     },
     {
       "date": "2026-11-11",
-      "ticker": "NVDA",
-      "side": "long",
-      "fill": 172.8,
       "exit": 158.98,
-      "pnl": -8.0
+      "fill": 172.8,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-11",
-      "ticker": "NBIS",
-      "side": "long",
-      "fill": 149.72,
       "exit": 137.74,
-      "pnl": -8.0
+      "fill": 149.72,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NBIS"
     },
     {
       "date": "2026-11-11",
-      "ticker": "RGTI",
-      "side": "short",
-      "fill": 12.99,
       "exit": 11.04,
-      "pnl": 15.01
+      "fill": 12.99,
+      "pnl": 15.01,
+      "side": "short",
+      "ticker": "RGTI"
     },
     {
       "date": "2026-11-12",
-      "ticker": "ADXN",
-      "side": "long",
-      "fill": 4.6,
       "exit": 5.29,
-      "pnl": 15.0
+      "fill": 4.6,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "ADXN"
     },
     {
       "date": "2026-11-12",
-      "ticker": "NVDA",
-      "side": "short",
-      "fill": 151.01,
       "exit": 163.09,
-      "pnl": -8.0
+      "fill": 151.01,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-12",
-      "ticker": "NBIS",
-      "side": "short",
-      "fill": 119.94,
       "exit": 129.54,
-      "pnl": -8.0
+      "fill": 119.94,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "NBIS"
     },
     {
       "date": "2026-11-09",
-      "ticker": "NRG",
-      "side": "long",
-      "fill": 93.5,
       "exit": 97.1,
-      "pnl": 3.85
+      "fill": 93.5,
+      "pnl": 3.85,
+      "side": "long",
+      "ticker": "NRG"
     },
     {
       "date": "2026-11-09",
-      "ticker": "CEG",
-      "side": "long",
-      "fill": 260.46,
       "exit": 280.2,
-      "pnl": 7.58
+      "fill": 260.46,
+      "pnl": 7.58,
+      "side": "long",
+      "ticker": "CEG"
     },
     {
       "date": "2026-11-09",
-      "ticker": "NVDA",
-      "side": "short",
-      "fill": 173.03,
       "exit": 162.85,
-      "pnl": 5.88
+      "fill": 173.03,
+      "pnl": 5.88,
+      "side": "short",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-10",
-      "ticker": "AAON",
-      "side": "long",
-      "fill": 71.64,
       "exit": 82.39,
-      "pnl": 15.01
+      "fill": 71.64,
+      "pnl": 15.01,
+      "side": "long",
+      "ticker": "AAON"
     },
     {
       "date": "2026-11-12",
-      "ticker": "AMD",
-      "side": "long",
-      "fill": 569.28,
       "exit": 523.74,
-      "pnl": -8.0
+      "fill": 569.28,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "AMD"
     },
     {
       "date": "2026-11-13",
-      "ticker": "MRLN",
-      "side": "long",
-      "fill": 1.24,
       "exit": 1.14,
-      "pnl": -8.06
-    },
-    {
-      "date": "2026-11-13",
-      "ticker": "NMAX",
+      "fill": 1.24,
+      "pnl": -8.06,
       "side": "long",
-      "fill": 9.25,
+      "ticker": "MRLN"
+    },
+    {
+      "date": "2026-11-13",
       "exit": 8.51,
-      "pnl": -8.0
+      "fill": 9.25,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NMAX"
     },
     {
       "date": "2026-11-13",
-      "ticker": "CADL",
-      "side": "short",
-      "fill": 5.33,
       "exit": 5.76,
-      "pnl": -8.07
+      "fill": 5.33,
+      "pnl": -8.07,
+      "side": "short",
+      "ticker": "CADL"
     },
     {
       "date": "2026-11-13",
-      "ticker": "GP",
-      "side": "short",
-      "fill": 1.0,
       "exit": 1.08,
-      "pnl": -8.0
+      "fill": 1.0,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "GP"
     },
     {
       "date": "2026-11-10",
-      "ticker": "TTWO",
-      "side": "long",
-      "fill": 218.25,
       "exit": 213.47,
-      "pnl": -2.19
+      "fill": 218.25,
+      "pnl": -2.19,
+      "side": "long",
+      "ticker": "TTWO"
     },
     {
       "date": "2026-11-12",
-      "ticker": "AVGO",
-      "side": "long",
-      "fill": 356.8,
       "exit": 328.26,
-      "pnl": -8.0
+      "fill": 356.8,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "AVGO"
     },
     {
       "date": "2026-11-12",
-      "ticker": "CTVA",
-      "side": "short",
-      "fill": 10.51,
       "exit": 8.93,
-      "pnl": 15.03
+      "fill": 10.51,
+      "pnl": 15.03,
+      "side": "short",
+      "ticker": "CTVA"
     },
     {
       "date": "2026-11-13",
-      "ticker": "MOD",
-      "side": "long",
-      "fill": 142.0,
       "exit": 130.64,
-      "pnl": -8.0
+      "fill": 142.0,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MOD"
     },
     {
       "date": "2026-11-13",
-      "ticker": "CBRS",
-      "side": "long",
-      "fill": 108.7,
       "exit": 100.0,
-      "pnl": -8.0
+      "fill": 108.7,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "CBRS"
     },
     {
       "date": "2026-11-16",
-      "ticker": "AKAN",
-      "side": "long",
-      "fill": 1.92,
       "exit": 1.77,
-      "pnl": -7.81
+      "fill": 1.92,
+      "pnl": -7.81,
+      "side": "long",
+      "ticker": "AKAN"
     },
     {
       "date": "2026-11-16",
-      "ticker": "GP",
-      "side": "long",
-      "fill": 1.54,
       "exit": 1.42,
-      "pnl": -7.79
+      "fill": 1.54,
+      "pnl": -7.79,
+      "side": "long",
+      "ticker": "GP"
     },
     {
       "date": "2026-11-16",
-      "ticker": "CLRO",
-      "side": "long",
-      "fill": 4.61,
       "exit": 4.24,
-      "pnl": -8.03
+      "fill": 4.61,
+      "pnl": -8.03,
+      "side": "long",
+      "ticker": "CLRO"
     },
     {
       "date": "2026-11-16",
-      "ticker": "SLSN",
-      "side": "long",
-      "fill": 1.58,
       "exit": 1.82,
-      "pnl": 15.19
+      "fill": 1.58,
+      "pnl": 15.19,
+      "side": "long",
+      "ticker": "SLSN"
     },
     {
       "date": "2026-11-11",
-      "ticker": "MU",
-      "side": "long",
-      "fill": 777.14,
       "exit": 714.97,
-      "pnl": -8.0
+      "fill": 777.14,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MU"
     },
     {
       "date": "2026-11-16",
-      "ticker": "SMMT",
-      "side": "short",
-      "fill": 12.71,
       "exit": 10.8,
-      "pnl": 15.03
-    },
-    {
-      "date": "2026-11-17",
-      "ticker": "GP",
-      "side": "long",
-      "fill": 2.71,
-      "exit": 2.49,
-      "pnl": -8.12
-    },
-    {
-      "date": "2026-11-17",
-      "ticker": "GMM",
+      "fill": 12.71,
+      "pnl": 15.03,
       "side": "short",
-      "fill": 1.58,
+      "ticker": "SMMT"
+    },
+    {
+      "date": "2026-11-17",
+      "exit": 2.49,
+      "fill": 2.71,
+      "pnl": -8.12,
+      "side": "long",
+      "ticker": "GP"
+    },
+    {
+      "date": "2026-11-17",
       "exit": 1.34,
-      "pnl": 15.19
+      "fill": 1.58,
+      "pnl": 15.19,
+      "side": "short",
+      "ticker": "GMM"
     },
     {
       "date": "2026-11-12",
-      "ticker": "FIGR",
-      "side": "long",
-      "fill": 25.34,
       "exit": 26.06,
-      "pnl": 2.84
+      "fill": 25.34,
+      "pnl": 2.84,
+      "side": "long",
+      "ticker": "FIGR"
     },
     {
       "date": "2026-11-17",
-      "ticker": "RCAT",
-      "side": "short",
-      "fill": 2.55,
       "exit": 2.17,
-      "pnl": 14.9
+      "fill": 2.55,
+      "pnl": 14.9,
+      "side": "short",
+      "ticker": "RCAT"
     },
     {
       "date": "2026-11-18",
-      "ticker": "PONY",
-      "side": "long",
-      "fill": 4.36,
       "exit": 4.01,
-      "pnl": -8.03
+      "fill": 4.36,
+      "pnl": -8.03,
+      "side": "long",
+      "ticker": "PONY"
     },
     {
       "date": "2026-11-18",
-      "ticker": "NBIS",
-      "side": "long",
-      "fill": 109.83,
       "exit": 101.04,
-      "pnl": -8.0
+      "fill": 109.83,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NBIS"
     },
     {
       "date": "2026-11-18",
-      "ticker": "GP",
-      "side": "long",
-      "fill": 2.87,
       "exit": 2.64,
-      "pnl": -8.01
+      "fill": 2.87,
+      "pnl": -8.01,
+      "side": "long",
+      "ticker": "GP"
     },
     {
       "date": "2026-11-18",
-      "ticker": "SLS",
-      "side": "short",
-      "fill": 19.51,
       "exit": 21.07,
-      "pnl": -8.0
+      "fill": 19.51,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "SLS"
     },
     {
       "date": "2026-11-13",
-      "ticker": "CSCO",
-      "side": "long",
-      "fill": 100.47,
       "exit": 94.7,
-      "pnl": -5.74
+      "fill": 100.47,
+      "pnl": -5.74,
+      "side": "long",
+      "ticker": "CSCO"
     },
     {
       "date": "2026-11-13",
-      "ticker": "NVDA",
-      "side": "short",
-      "fill": 169.91,
       "exit": 145.98,
-      "pnl": 14.08
+      "fill": 169.91,
+      "pnl": 14.08,
+      "side": "short",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-17",
-      "ticker": "SPAI",
-      "side": "long",
-      "fill": 3.01,
       "exit": 2.77,
-      "pnl": -7.97
+      "fill": 3.01,
+      "pnl": -7.97,
+      "side": "long",
+      "ticker": "SPAI"
     },
     {
       "date": "2026-11-17",
-      "ticker": "ALAB",
-      "side": "short",
-      "fill": 207.63,
       "exit": 224.24,
-      "pnl": -8.0
+      "fill": 207.63,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "ALAB"
     },
     {
       "date": "2026-11-18",
-      "ticker": "NVDA",
-      "side": "long",
-      "fill": 159.19,
       "exit": 146.45,
-      "pnl": -8.0
+      "fill": 159.19,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-19",
-      "ticker": "SEAT",
-      "side": "long",
-      "fill": 2.52,
       "exit": 2.32,
-      "pnl": -7.94
+      "fill": 2.52,
+      "pnl": -7.94,
+      "side": "long",
+      "ticker": "SEAT"
     },
     {
       "date": "2026-11-19",
-      "ticker": "SOXS",
-      "side": "short",
-      "fill": 52.81,
       "exit": 57.03,
-      "pnl": -7.99
+      "fill": 52.81,
+      "pnl": -7.99,
+      "side": "short",
+      "ticker": "SOXS"
     },
     {
       "date": "2026-11-16",
-      "ticker": "MOD",
-      "side": "long",
-      "fill": 132.35,
       "exit": 121.76,
-      "pnl": -8.0
+      "fill": 132.35,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MOD"
     },
     {
       "date": "2026-11-16",
-      "ticker": "NVDA",
-      "side": "short",
-      "fill": 159.02,
       "exit": 135.17,
-      "pnl": 15.0
+      "fill": 159.02,
+      "pnl": 15.0,
+      "side": "short",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-16",
-      "ticker": "CSCO",
-      "side": "short",
-      "fill": 94.49,
       "exit": 90.64,
-      "pnl": 4.07
+      "fill": 94.49,
+      "pnl": 4.07,
+      "side": "short",
+      "ticker": "CSCO"
     },
     {
       "date": "2026-11-17",
-      "ticker": "MRVL",
-      "side": "long",
-      "fill": 150.2,
       "exit": 138.18,
-      "pnl": -8.0
+      "fill": 150.2,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MRVL"
     },
     {
       "date": "2026-11-18",
-      "ticker": "AAOI",
-      "side": "short",
-      "fill": 41.35,
       "exit": 35.15,
-      "pnl": 14.99
+      "fill": 41.35,
+      "pnl": 14.99,
+      "side": "short",
+      "ticker": "AAOI"
     },
     {
       "date": "2026-11-19",
-      "ticker": "NVDA",
-      "side": "long",
-      "fill": 152.92,
       "exit": 140.69,
-      "pnl": -8.0
+      "fill": 152.92,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NVDA"
     },
     {
       "date": "2026-11-19",
-      "ticker": "MU",
-      "side": "long",
-      "fill": 740.33,
       "exit": 681.1,
-      "pnl": -8.0
+      "fill": 740.33,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "MU"
     },
     {
       "date": "2026-11-20",
-      "ticker": "MEDS",
-      "side": "long",
-      "fill": 0.99,
       "exit": 0.91,
-      "pnl": -8.08
+      "fill": 0.99,
+      "pnl": -8.08,
+      "side": "long",
+      "ticker": "MEDS"
     },
     {
       "date": "2026-11-20",
-      "ticker": "AKAN",
-      "side": "long",
-      "fill": 4.87,
       "exit": 4.48,
-      "pnl": -8.01
+      "fill": 4.87,
+      "pnl": -8.01,
+      "side": "long",
+      "ticker": "AKAN"
     },
     {
       "date": "2026-11-17",
-      "ticker": "INTC",
-      "side": "long",
-      "fill": 55.17,
       "exit": 59.66,
-      "pnl": 8.14
+      "fill": 55.17,
+      "pnl": 8.14,
+      "side": "long",
+      "ticker": "INTC"
     },
     {
       "date": "2026-11-17",
-      "ticker": "AYTU",
-      "side": "long",
-      "fill": 2.66,
       "exit": 2.67,
-      "pnl": 0.38
-    },
-    {
-      "date": "2026-11-19",
-      "ticker": "CRWD",
+      "fill": 2.66,
+      "pnl": 0.38,
       "side": "long",
-      "fill": 246.89,
-      "exit": 227.14,
-      "pnl": -8.0
+      "ticker": "AYTU"
     },
     {
       "date": "2026-11-19",
-      "ticker": "SLS",
-      "side": "short",
-      "fill": 15.38,
+      "exit": 227.14,
+      "fill": 246.89,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "CRWD"
+    },
+    {
+      "date": "2026-11-19",
       "exit": 13.07,
-      "pnl": 15.02
+      "fill": 15.38,
+      "pnl": 15.02,
+      "side": "short",
+      "ticker": "SLS"
     },
     {
       "date": "2026-11-20",
-      "ticker": "SNDK",
-      "side": "short",
-      "fill": 89.98,
       "exit": 97.18,
-      "pnl": -8.0
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "ZS",
-      "side": "long",
-      "fill": 238.01,
-      "exit": 218.97,
-      "pnl": -8.0
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "MEDS",
-      "side": "long",
-      "fill": 1.86,
-      "exit": 1.71,
-      "pnl": -8.06
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "CAPR",
+      "fill": 89.98,
+      "pnl": -8.0,
       "side": "short",
-      "fill": 1.75,
+      "ticker": "SNDK"
+    },
+    {
+      "date": "2026-11-23",
+      "exit": 218.97,
+      "fill": 238.01,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "ZS"
+    },
+    {
+      "date": "2026-11-23",
+      "exit": 1.71,
+      "fill": 1.86,
+      "pnl": -8.06,
+      "side": "long",
+      "ticker": "MEDS"
+    },
+    {
+      "date": "2026-11-23",
       "exit": 1.89,
-      "pnl": -8.0
+      "fill": 1.75,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "CAPR"
     }
   ],
   "total_pnl": -277.62,
   "total_pnl_pct": -277.62,
   "total_trades": 250,
-  "updated_at": "2026-11-23 22:14 UTC",
+  "updated_at": "2026-11-24 14:53 UTC",
   "win_rate": 36.8,
   "wins": 92
 }
