@@ -2035,12 +2035,68 @@
       "pnl": -8.0,
       "side": "short",
       "ticker": "CAPR"
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "TJX",
+      "side": "long",
+      "fill": 137.01,
+      "exit": 143.86,
+      "pnl": 5.0
+    },
+    {
+      "date": "2026-11-18",
+      "ticker": "LOW",
+      "side": "short",
+      "fill": 212.07,
+      "exit": 229.04,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "INSM",
+      "side": "long",
+      "fill": 143.27,
+      "exit": 164.76,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "ANT",
+      "side": "short",
+      "fill": 89.86,
+      "exit": 76.38,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "NVDA",
+      "side": "long",
+      "fill": 167.04,
+      "exit": 153.68,
+      "pnl": -8.0
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "UMC",
+      "side": "long",
+      "fill": 14.76,
+      "exit": 13.58,
+      "pnl": -7.99
+    },
+    {
+      "date": "2026-11-23",
+      "ticker": "HPE",
+      "side": "short",
+      "fill": 51.0,
+      "exit": 43.35,
+      "pnl": 15.0
     }
   ],
-  "total_pnl": -277.62,
-  "total_pnl_pct": -277.62,
-  "total_trades": 250,
-  "updated_at": "2026-11-24 14:53 UTC",
-  "win_rate": 36.8,
-  "wins": 92
+  "total_pnl": -251.61,
+  "total_pnl_pct": -251.61,
+  "total_trades": 257,
+  "updated_at": "2026-11-24 22:15 UTC",
+  "win_rate": 37.35,
+  "wins": 96
 }

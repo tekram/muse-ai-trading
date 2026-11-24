@@ -17,20 +17,21 @@
       "exit_reason": "Stop hit \u2014 day low 218.88 <= stop 218.97."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 153.68,
+      "exit_date": "2026-11-24",
       "fill": 167.04,
       "fill_date": "2026-11-23",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 153.68,
       "target": 192.1,
       "thesis": "Dip-buying after a -14% Fri collapse; Mag 7 +4.2% leading the rebound, semis bouncing. Bouncing off Fri's washout low \u2014 not a confirmed turn.",
       "ticker": "NVDA",
       "mark": 165.18,
       "mark_as_of": "2026-11-23 14:55 CT",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-23",
+      "exit_reason": "Stop hit \u2014 day low 150.5 <= stop 153.68."
     },
     {
       "exit": null,
@@ -44,25 +45,26 @@
       "target": 106.95,
       "thesis": "GTCR, its largest shareholder (16%), confirmed in a filing it is evaluating a ~$50B takeover (Bloomberg). Holding Fri's +9.95% gain into the open.",
       "ticker": "GPN",
-      "mark": 91.47,
+      "mark": 94.28,
       "mark_as_of": "2026-11-23 14:55 CT",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-24"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 13.58,
+      "exit_date": "2026-11-24",
       "fill": 14.76,
       "fill_date": "2026-11-23",
-      "pnl_pct": null,
+      "pnl_pct": -7.99,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 13.58,
       "target": 16.97,
       "thesis": "Broad semiconductor rebound on AI chip demand (ASX +13% alongside). Part of the chip bounce rather than a company-specific print.",
       "ticker": "UMC",
       "mark": 14.4,
       "mark_as_of": "2026-11-23 14:55 CT",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-23",
+      "exit_reason": "Stop hit \u2014 day low 13.17 <= stop 13.58."
     },
     {
       "exit": 1.71,
@@ -106,31 +108,32 @@
       "target": 184.99,
       "thesis": "Acquirer on the $43.9B all-stock ZS deal \u2014 dilution and integration risk; shares were +96% YTD through Fri.",
       "ticker": "CRWD",
-      "mark": 208.96,
+      "mark": 210.86,
       "mark_as_of": "2026-11-23 14:55 CT",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-24"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 43.35,
+      "exit_date": "2026-11-24",
       "fill": 51.0,
       "fill_date": "2026-11-23",
-      "pnl_pct": null,
+      "pnl_pct": 15.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 55.08,
       "target": 43.35,
       "thesis": "Reports after the close today into an AI-hardware selloff; avoid into earnings.",
       "ticker": "HPE",
       "mark": 48.31,
       "mark_as_of": "2026-11-23 14:55 CT",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-23",
+      "exit_reason": "Target hit (+15% at 43.35)."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 5,
-    "closed": 3,
-    "total_pnl_pct": -24.06
+    "open": 2,
+    "closed": 6,
+    "total_pnl_pct": -25.05
   }
 }

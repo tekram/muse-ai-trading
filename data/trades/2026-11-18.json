@@ -28,12 +28,13 @@
       "fill": 137.01,
       "stop": 126.05,
       "target": 157.56,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 143.86,
+      "exit_date": "2026-11-24",
+      "pnl_pct": 5.0,
       "thesis": "Reported before the open; gapping up as the standout retail print of the morning while Target and Lowe's fade on theirs. Reclaiming ground after a ~6% slide over the last 5 sessions; large-cap retail strength into the holiday season.",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-23",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 143.86 (range 139.2\u2013144.68, stop 126.05 / target 157.56 untouched)."
     },
     {
       "ticker": "PONY",
@@ -127,18 +128,19 @@
       "fill": 212.07,
       "stop": 229.04,
       "target": 180.26,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 229.04,
+      "exit_date": "2026-11-24",
+      "pnl_pct": -8.0,
       "thesis": "Q3 beat (adj. EPS $3.10 vs ~$2.89) but gross margin fell to 32.95% from 34.19% and it cut its adjusted operating-margin outlook to ~11.5%; $0.34 of the EPS beat was tariff refunds. Fading after the print; beats are being sold.",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-23",
+      "exit_reason": "Stop hit \u2014 day high 232.37 >= stop 229.04."
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": -25.05
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -28.05
   }
 }

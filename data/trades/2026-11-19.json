@@ -6,7 +6,7 @@
       "ticker": "PANW",
       "side": "long",
       "fill_date": "2026-11-19",
-      "mark": 353.44,
+      "mark": 352.99,
       "mark_as_of": "2026-11-23 14:55 CT",
       "fill": 355.81,
       "stop": 327.35,
@@ -16,7 +16,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q1 beat: EPS $1.05 vs $0.97 expected, revenue $3.4B, raised FY2027 revenue guide to $14.5-14.6B; +9.5% premarket, gapping above Wednesday's $342.36 high as cybersecurity leads the morning.",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-24"
     },
     {
       "ticker": "NVDA",
@@ -108,7 +108,7 @@
       "ticker": "NTES",
       "side": "short",
       "fill_date": "2026-11-19",
-      "mark": 103.21,
+      "mark": 100.43,
       "mark_as_of": "2026-11-23 14:55 CT",
       "fill": 111.87,
       "stop": 120.82,
@@ -118,7 +118,7 @@
       "exit_date": null,
       "pnl_pct": null,
       "thesis": "Q3 top- and bottom-line miss, revenue short by ~$340M - breaking down on a clean earnings disappointment.",
-      "mark_date": "2026-11-23"
+      "mark_date": "2026-11-24"
     },
     {
       "ticker": "SOXS",
