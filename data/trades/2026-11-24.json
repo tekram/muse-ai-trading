@@ -14,7 +14,8 @@
       "target": 196.06,
       "thesis": "Sanofi agreed to acquire Insmed for $175/share cash (~$41B equity value, ~46% premium), close expected H1 2027. Gapping toward the deal price.",
       "ticker": "INSM",
-      "mark": 170.15,
+      "mark": 170.17,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -29,7 +30,8 @@
       "target": 172.44,
       "thesis": "Q3 beat and raised FY26 EPS outlook; comps +4.6% on 3.8% traffic growth.",
       "ticker": "DLTR",
-      "mark": 154.65,
+      "mark": 154.66,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -44,7 +46,8 @@
       "target": 215.0,
       "thesis": "Q4 beat \u2014 revenue $2.04B (+9.6%), EPS $1.59.",
       "ticker": "A",
-      "mark": 183.52,
+      "mark": 183.55,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -59,7 +62,8 @@
       "target": 57.88,
       "thesis": "Acquirer on the Insmed deal \u2014 market endorsing the $41B acquisition.",
       "ticker": "SNY",
-      "mark": 51.9,
+      "mark": 51.89,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -74,7 +78,8 @@
       "target": 155.46,
       "thesis": "Dollar-store sympathy with DLTR's beat and raised outlook.",
       "ticker": "DG",
-      "mark": 138.65,
+      "mark": 138.69,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     }
   ],
@@ -91,7 +96,8 @@
       "target": 36.01,
       "thesis": "Record FQ4 revenue of $14.55B beat, but margin headwinds and supply shortages overshadowed it \u2014 even with a raised dividend and FY27 revenue-growth outlook of 27-35%.",
       "ticker": "HPE",
-      "mark": 40.19,
+      "mark": 40.21,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -107,6 +113,7 @@
       "thesis": "Memory/semis giving back Monday's surge \u2014 sector-wide chip weakness (INTC -6.1%, GFS -5.9%, DELL -5.2%, CRWV -5.3%).",
       "ticker": "MU",
       "mark": 629.79,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     },
     {
@@ -121,7 +128,8 @@
       "target": 48.71,
       "thesis": "Same semi give-back after Monday's NVDA-led squeeze; chips are the morning's weakest theme.",
       "ticker": "INTC",
-      "mark": 54.8,
+      "mark": 54.9,
+      "mark_as_of": "2026-11-24 14:55 CT",
       "mark_date": "2026-11-24"
     }
   ],
