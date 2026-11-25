@@ -33,7 +33,8 @@
     "2026-11-19",
     "2026-11-20",
     "2026-11-23",
-    "2026-11-24"
+    "2026-11-24",
+    "2026-11-25"
   ],
   "recent": [
     {
@@ -2038,65 +2039,65 @@
     },
     {
       "date": "2026-11-18",
-      "ticker": "TJX",
-      "side": "long",
-      "fill": 137.01,
       "exit": 143.86,
-      "pnl": 5.0
+      "fill": 137.01,
+      "pnl": 5.0,
+      "side": "long",
+      "ticker": "TJX"
     },
     {
       "date": "2026-11-18",
-      "ticker": "LOW",
-      "side": "short",
-      "fill": 212.07,
       "exit": 229.04,
-      "pnl": -8.0
+      "fill": 212.07,
+      "pnl": -8.0,
+      "side": "short",
+      "ticker": "LOW"
     },
     {
       "date": "2026-11-20",
-      "ticker": "INSM",
-      "side": "long",
-      "fill": 143.27,
       "exit": 164.76,
-      "pnl": 15.0
+      "fill": 143.27,
+      "pnl": 15.0,
+      "side": "long",
+      "ticker": "INSM"
     },
     {
       "date": "2026-11-20",
-      "ticker": "ANT",
-      "side": "short",
-      "fill": 89.86,
       "exit": 76.38,
-      "pnl": 15.0
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "NVDA",
-      "side": "long",
-      "fill": 167.04,
-      "exit": 153.68,
-      "pnl": -8.0
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "UMC",
-      "side": "long",
-      "fill": 14.76,
-      "exit": 13.58,
-      "pnl": -7.99
-    },
-    {
-      "date": "2026-11-23",
-      "ticker": "HPE",
+      "fill": 89.86,
+      "pnl": 15.0,
       "side": "short",
-      "fill": 51.0,
+      "ticker": "ANT"
+    },
+    {
+      "date": "2026-11-23",
+      "exit": 153.68,
+      "fill": 167.04,
+      "pnl": -8.0,
+      "side": "long",
+      "ticker": "NVDA"
+    },
+    {
+      "date": "2026-11-23",
+      "exit": 13.58,
+      "fill": 14.76,
+      "pnl": -7.99,
+      "side": "long",
+      "ticker": "UMC"
+    },
+    {
+      "date": "2026-11-23",
       "exit": 43.35,
-      "pnl": 15.0
+      "fill": 51.0,
+      "pnl": 15.0,
+      "side": "short",
+      "ticker": "HPE"
     }
   ],
   "total_pnl": -251.61,
   "total_pnl_pct": -251.61,
   "total_trades": 257,
-  "updated_at": "2026-11-24 22:15 UTC",
+  "updated_at": "2026-11-25 14:54 UTC",
   "win_rate": 37.35,
   "wins": 96
 }
