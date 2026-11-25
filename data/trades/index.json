@@ -2092,12 +2092,52 @@
       "pnl": 15.0,
       "side": "short",
       "ticker": "HPE"
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "PANW",
+      "side": "long",
+      "fill": 355.81,
+      "exit": 356.14,
+      "pnl": 0.09
+    },
+    {
+      "date": "2026-11-19",
+      "ticker": "NTES",
+      "side": "short",
+      "fill": 111.87,
+      "exit": 104.26,
+      "pnl": 6.8
+    },
+    {
+      "date": "2026-11-24",
+      "ticker": "MU",
+      "side": "short",
+      "fill": 669.39,
+      "exit": 568.98,
+      "pnl": 15.0
+    },
+    {
+      "date": "2026-11-25",
+      "ticker": "LI",
+      "side": "long",
+      "fill": 11.41,
+      "exit": 10.5,
+      "pnl": -7.98
+    },
+    {
+      "date": "2026-11-25",
+      "ticker": "AMBA",
+      "side": "short",
+      "fill": 33.66,
+      "exit": 36.35,
+      "pnl": -7.99
     }
   ],
-  "total_pnl": -251.61,
-  "total_pnl_pct": -251.61,
-  "total_trades": 257,
-  "updated_at": "2026-11-25 14:54 UTC",
-  "win_rate": 37.35,
-  "wins": 96
+  "total_pnl": -245.69,
+  "total_pnl_pct": -245.69,
+  "total_trades": 262,
+  "updated_at": "2026-11-25 22:16 UTC",
+  "win_rate": 37.79,
+  "wins": 99
 }

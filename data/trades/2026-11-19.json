@@ -11,12 +11,13 @@
       "fill": 355.81,
       "stop": 327.35,
       "target": 409.18,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 356.14,
+      "exit_date": "2026-11-25",
+      "pnl_pct": 0.09,
       "thesis": "Q1 beat: EPS $1.05 vs $0.97 expected, revenue $3.4B, raised FY2027 revenue guide to $14.5-14.6B; +9.5% premarket, gapping above Wednesday's $342.36 high as cybersecurity leads the morning.",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-24",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 356.14 (range 337.23\u2013358.275, stop 327.35 / target 409.18 untouched)."
     },
     {
       "ticker": "NVDA",
@@ -113,12 +114,13 @@
       "fill": 111.87,
       "stop": 120.82,
       "target": 95.09,
-      "status": "open",
-      "exit": null,
-      "exit_date": null,
-      "pnl_pct": null,
+      "status": "closed",
+      "exit": 104.26,
+      "exit_date": "2026-11-25",
+      "pnl_pct": 6.8,
       "thesis": "Q3 top- and bottom-line miss, revenue short by ~$340M - breaking down on a clean earnings disappointment.",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-24",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 104.26 (range 99.43\u2013104.34, stop 120.82 / target 95.09 untouched)."
     },
     {
       "ticker": "SOXS",
@@ -139,8 +141,8 @@
   ],
   "summary": {
     "total_trades": 8,
-    "open": 2,
-    "closed": 6,
-    "total_pnl_pct": -24.91
+    "open": 0,
+    "closed": 8,
+    "total_pnl_pct": -18.02
   }
 }

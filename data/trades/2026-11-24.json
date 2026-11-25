@@ -14,9 +14,9 @@
       "target": 196.06,
       "thesis": "Sanofi agreed to acquire Insmed for $175/share cash (~$41B equity value, ~46% premium), close expected H1 2027. Gapping toward the deal price.",
       "ticker": "INSM",
-      "mark": 170.37,
+      "mark": 170.31,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     },
     {
       "exit": null,
@@ -30,9 +30,9 @@
       "target": 172.44,
       "thesis": "Q3 beat and raised FY26 EPS outlook; comps +4.6% on 3.8% traffic growth.",
       "ticker": "DLTR",
-      "mark": 152.16,
+      "mark": 152.21,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     },
     {
       "exit": null,
@@ -46,9 +46,9 @@
       "target": 215.0,
       "thesis": "Q4 beat \u2014 revenue $2.04B (+9.6%), EPS $1.59.",
       "ticker": "A",
-      "mark": 178.34,
+      "mark": 178.44,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     },
     {
       "exit": null,
@@ -62,9 +62,9 @@
       "target": 57.88,
       "thesis": "Acquirer on the Insmed deal \u2014 market endorsing the $41B acquisition.",
       "ticker": "SNY",
-      "mark": 54.37,
+      "mark": 54.39,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     },
     {
       "exit": null,
@@ -78,9 +78,9 @@
       "target": 155.46,
       "thesis": "Dollar-store sympathy with DLTR's beat and raised outlook.",
       "ticker": "DG",
-      "mark": 139.29,
+      "mark": 139.27,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     }
   ],
   "shorts": [
@@ -96,25 +96,26 @@
       "target": 36.01,
       "thesis": "Record FQ4 revenue of $14.55B beat, but margin headwinds and supply shortages overshadowed it \u2014 even with a raised dividend and FY27 revenue-growth outlook of 27-35%.",
       "ticker": "HPE",
-      "mark": 40.83,
+      "mark": 40.82,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 568.98,
+      "exit_date": "2026-11-25",
       "fill": 669.39,
       "fill_date": "2026-11-24",
-      "pnl_pct": null,
+      "pnl_pct": 15.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 722.94,
       "target": 568.98,
       "thesis": "Memory/semis giving back Monday's surge \u2014 sector-wide chip weakness (INTC -6.1%, GFS -5.9%, DELL -5.2%, CRWV -5.3%).",
       "ticker": "MU",
       "mark": 604.16,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-24",
+      "exit_reason": "Target hit (+15% at 568.98)."
     },
     {
       "exit": null,
@@ -128,15 +129,15 @@
       "target": 48.71,
       "thesis": "Same semi give-back after Monday's NVDA-led squeeze; chips are the morning's weakest theme.",
       "ticker": "INTC",
-      "mark": 54.45,
+      "mark": 54.47,
       "mark_as_of": "2026-11-25 14:55 CT",
-      "mark_date": "2026-11-24"
+      "mark_date": "2026-11-25"
     }
   ],
   "summary": {
     "total_trades": 8,
-    "open": 8,
-    "closed": 0,
-    "total_pnl_pct": 0
+    "open": 7,
+    "closed": 1,
+    "total_pnl_pct": 15.0
   }
 }
