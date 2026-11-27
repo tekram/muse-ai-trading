@@ -1,0 +1,118 @@
+{
+ "brief": "premarket brief 2026-11-27 09:13 CT",
+ "date": "2026-11-27",
+ "longs": [
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 2.88,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "long",
+   "status": "open",
+   "stop": 2.65,
+   "target": 3.31,
+   "thesis": "Lula named Bradesco chairman Luiz Carlos Trabuco Cappi as Brazil's finance minister (from 2027); Ibovespa +6.07% Thu, its best day since early Oct. Still well below its 52-wk high ($4.58) and 50-day MA (~$3.25) \u2014 a news-driven bounce off the lows, not a breakout.",
+   "ticker": "BBD"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 79.92,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "long",
+   "status": "open",
+   "stop": 73.53,
+   "target": 91.91,
+   "thesis": "Memory names leading the tech rebound after Wednesday's AI/semiconductor washout; SNDK $70 calls expiring today traded at 100x volume/OI ($8.3M premium). Deeply oversold bounce \u2014 down ~54% in a month, Wed low $67, still far below its 50-day MA (~$161).",
+   "ticker": "SNDK"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 17.29,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "long",
+   "status": "open",
+   "stop": 15.91,
+   "target": 19.88,
+   "thesis": "Same Brazil finance-minister rally as BBD; Brazilian broker/bank sympathy move. Gap well above recent range on strong volume \u2014 headline-driven, size accordingly.",
+   "ticker": "XP"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 211.18,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "long",
+   "status": "open",
+   "stop": 194.29,
+   "target": 242.86,
+   "thesis": "AI-optical name rebounding with the broader tech/semiconductor recovery. Bounced off Wed's $175 low, but still below its 50-day MA (~$252) and far off its $440 June high \u2014 recovery, not leadership yet.",
+   "ticker": "COHR"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 151.9,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "long",
+   "status": "open",
+   "stop": 139.75,
+   "target": 174.69,
+   "thesis": "Semiconductor rebound after falling ~4% Wed; largest single-name options premium Wed ($2.44B est., 32% puts). The bellwether for whether Wednesday's dip-buy holds.",
+   "ticker": "NVDA"
+  }
+ ],
+ "shorts": [
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 517.37,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "short",
+   "status": "open",
+   "stop": 558.76,
+   "target": 439.76,
+   "thesis": "FDA extended the povetacicept PDUFA date from Nov 30 to Feb 28, 2027, classifying Vertex's late-cycle response as a major amendment. Gap-down on a delay, not a denial \u2014 Citi keeps Buy ($585), William Blair still sees approval likely by Feb 28.",
+   "ticker": "VRTX"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 53.05,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "short",
+   "status": "open",
+   "stop": 57.29,
+   "target": 45.09,
+   "thesis": "CEO's aggressive $41B acquisition strategy drawing skepticism; the market is now pricing the price tag, not the asset (SNY was a long yesterday on the Insmed deal).",
+   "ticker": "SNY"
+  },
+  {
+   "exit": null,
+   "exit_date": null,
+   "fill": 74.95,
+   "fill_date": "2026-11-27",
+   "pnl_pct": null,
+   "side": "short",
+   "status": "open",
+   "stop": 80.95,
+   "target": 63.71,
+   "thesis": "Confirmed it is considering an acquisition of Imperial Brands; no agreement reached \u2014 deal overhang on a defensive name.",
+   "ticker": "MO"
+  }
+ ],
+ "summary": {
+  "closed": 0,
+  "open": 8,
+  "total_pnl_pct": 0,
+  "total_trades": 8
+ }
+}
