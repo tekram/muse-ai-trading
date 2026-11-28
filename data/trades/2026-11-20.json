@@ -17,20 +17,21 @@
       "exit_reason": "Stop hit \u2014 day low 0.8552 <= stop 0.91. (stop-before-target convention; target 1.14 also touched at day high 1.43)."
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 133.13,
+      "exit_date": "2026-11-27",
       "fill": 127.26,
       "fill_date": "2026-11-20",
-      "pnl_pct": null,
+      "pnl_pct": 4.61,
       "side": "long",
-      "status": "open",
+      "status": "closed",
       "stop": 117.08,
       "target": 146.35,
       "thesis": "Raised FY27 sales-growth forecast to 4.9-5.2% - third raise - after strong Q3; +1.9% premarket, defensive relative strength on a red tape.",
       "ticker": "WMT",
       "mark": 133.14,
       "mark_as_of": "2026-11-27 11:55 CT",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-25",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 133.13 (range 131.685\u2013133.16, stop 117.08 / target 146.35 untouched)."
     },
     {
       "exit": 164.76,
@@ -66,20 +67,21 @@
   ],
   "shorts": [
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 271.94,
+      "exit_date": "2026-11-27",
       "fill": 284.06,
       "fill_date": "2026-11-20",
-      "pnl_pct": null,
+      "pnl_pct": 4.27,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 306.78,
       "target": 241.45,
       "thesis": "Q1 revenue +12% to $4.35B, but cut FY27 revenue guidance to $23.22B (Credit Karma headwinds), Q2 growth slows to 6-7%, Mailchimp divestiture. -11% premarket.",
       "ticker": "INTU",
       "mark": 272.27,
       "mark_as_of": "2026-11-27 11:55 CT",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-25",
+      "exit_reason": "Day-5 max hold \u2014 exit at close 271.94 (range 271.22\u2013278.0, stop 306.78 / target 241.45 untouched)."
     },
     {
       "exit": 97.18,
@@ -118,8 +120,8 @@
   ],
   "summary": {
     "total_trades": 7,
-    "open": 2,
-    "closed": 5,
-    "total_pnl_pct": 5.91
+    "open": 0,
+    "closed": 7,
+    "total_pnl_pct": 14.79
   }
 }

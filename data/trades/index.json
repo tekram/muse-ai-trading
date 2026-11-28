@@ -2133,12 +2133,36 @@
       "pnl": -7.99,
       "side": "short",
       "ticker": "AMBA"
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "WMT",
+      "side": "long",
+      "fill": 127.26,
+      "exit": 133.13,
+      "pnl": 4.61
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "INTU",
+      "side": "short",
+      "fill": 284.06,
+      "exit": 271.94,
+      "pnl": 4.27
+    },
+    {
+      "date": "2026-11-25",
+      "ticker": "MU",
+      "side": "short",
+      "fill": 574.96,
+      "exit": 620.96,
+      "pnl": -8.0
     }
   ],
-  "total_pnl": -245.69,
-  "total_pnl_pct": -245.69,
-  "total_trades": 262,
-  "updated_at": "2026-11-27 16:53 UTC",
-  "win_rate": 37.79,
-  "wins": 99
+  "total_pnl": -244.81,
+  "total_pnl_pct": -244.81,
+  "total_trades": 265,
+  "updated_at": "2026-11-28 00:17 UTC",
+  "win_rate": 38.11,
+  "wins": 101
 }

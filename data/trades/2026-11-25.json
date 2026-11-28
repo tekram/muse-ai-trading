@@ -23,7 +23,7 @@
       "exit_date": null,
       "fill": 53.64,
       "fill_date": "2026-11-25",
-      "mark": 53.35,
+      "mark": 53.34,
       "mark_as_of": "2026-11-27 11:55 CT",
       "pnl_pct": null,
       "side": "long",
@@ -32,14 +32,14 @@
       "target": 61.69,
       "thesis": "Acquirer on the year's biggest pharma deal: $41B all-cash buy of Insmed at $175/share, accretive to EPS by end-2028; healthcare is the morning's leading sector as money rotates out of AI.",
       "ticker": "SNY",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-27"
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 155.2,
       "fill_date": "2026-11-25",
-      "mark": 148.63,
+      "mark": 148.53,
       "mark_as_of": "2026-11-27 11:55 CT",
       "pnl_pct": null,
       "side": "long",
@@ -48,14 +48,14 @@
       "target": 178.48,
       "thesis": "Tuesday +11.2% on a Q3 beat (EPS $1.16 vs $0.91, comps +4.6%) and raised FY outlook to $8.05\u2013$8.25, breaking above its prior 52-week high ($148.54); holding the breakout into the open.",
       "ticker": "DLTR",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-27"
     },
     {
       "exit": null,
       "exit_date": null,
       "fill": 165.58,
       "fill_date": "2026-11-25",
-      "mark": 183.46,
+      "mark": 184.43,
       "mark_as_of": "2026-11-27 11:45 CT",
       "pnl_pct": null,
       "side": "long",
@@ -64,7 +64,7 @@
       "target": 190.42,
       "thesis": "Tuesday +19.7%: EPS $3.82 vs $3.08 expected, record Q3 sales (+11.2% YoY), raised outlook; gapped above its 50-day to a 52-week high \u2014 retail earnings strength into the holiday season.",
       "ticker": "ANF",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-27"
     }
   ],
   "shorts": [
@@ -89,7 +89,7 @@
       "exit_date": null,
       "fill": 177.31,
       "fill_date": "2026-11-25",
-      "mark": 182.15,
+      "mark": 181.93,
       "mark_as_of": "2026-11-27 11:55 CT",
       "pnl_pct": null,
       "side": "short",
@@ -98,29 +98,30 @@
       "target": 150.71,
       "thesis": "Q3 beat (EPS $2.82, revenue $2.71B) but Q3 free cash flow $691M missed the $712M estimate and the subscription backlog/guide was soft \u2014 classic beat-but-sold.",
       "ticker": "WDAY",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-27"
     },
     {
-      "exit": null,
-      "exit_date": null,
+      "exit": 620.96,
+      "exit_date": "2026-11-27",
       "fill": 574.96,
       "fill_date": "2026-11-25",
       "mark": 645.37,
       "mark_as_of": "2026-11-27 11:55 CT",
-      "pnl_pct": null,
+      "pnl_pct": -8.0,
       "side": "short",
-      "status": "open",
+      "status": "closed",
       "stop": 620.96,
       "target": 488.72,
       "thesis": "Already -11% Tuesday; BNP Paribas downgrade (HBM supply risks) plus a Goldman call that conventional DRAM/NAND prices could fall ~20% in 2028. Memory is the epicenter of the unwind.",
       "ticker": "MU",
-      "mark_date": "2026-11-25"
+      "mark_date": "2026-11-25",
+      "exit_reason": "Stop hit \u2014 day high 654.44 >= stop 620.96."
     }
   ],
   "summary": {
     "total_trades": 7,
-    "open": 5,
-    "closed": 2,
-    "total_pnl_pct": -15.97
+    "open": 4,
+    "closed": 3,
+    "total_pnl_pct": -23.97
   }
 }
